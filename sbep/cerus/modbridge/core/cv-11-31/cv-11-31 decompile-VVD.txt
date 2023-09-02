@@ -1,0 +1,11 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	146.112
+====== File Seek Log ======
+	0 - 63 VVD File Header
+	64 - 183 theFixups 10
+	184 - 191 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	192 - 109.631 theVertexes 2280
+	109.632 - 146.111 theTangents 2280
+	146.112 - 146.112 END OF FILE + 1 (File size)
+========================

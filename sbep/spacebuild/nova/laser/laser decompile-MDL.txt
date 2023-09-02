@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.904
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = laser.smd
+	1.196 - 1.543 aModel.theMeshes 3
+	1.544 - 1.735 theMdlFileData.theTextures 3
+	1.736 - 1.739 theMdlFileData.theTexturePaths 1
+	1.740 - 1.745 theMdlFileData.theSkinFamilies 1
+	1.746 - 1.747 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.748 - 1.800 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Small"  }
+}
+
+	1.801 - 1.803 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.804 - 1.804 aSeqDesc.theActivityName = 
+	1.805 - 1.810 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.811 - 1.822 aBone.theName = static_prop
+	1.823 - 1.830 aHitboxSet.theName = default
+	1.831 - 1.836 anAnimationDesc.theName = @idle
+	1.837 - 1.841 aSeqDesc.theName = idle
+	1.842 - 1.848 aBodyPart.theName = studio
+	1.849 - 1.860 aTexture.thePathFileName = DirtyPlate2
+	1.861 - 1.873 aTexture.thePathFileName = MetalSet_1-2
+	1.874 - 1.888 aTexture.thePathFileName = Metalfloor_2-3
+	1.889 - 1.900 aTexturePath = spacebuild\
+	1.901 - 1.903 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	1.904 - 1.904 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,42 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.436
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = rover1_glassshatter_detail.smd
+	1.128 - 1.243 aModel.theMeshes 1
+	1.244 - 1.307 theMdlFileData.theTextures 1
+	1.308 - 1.311 theMdlFileData.theTexturePaths 1
+	1.312 - 1.313 theMdlFileData.theSkinFamilies 1
+	1.314 - 1.315 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.316 - 1.368 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	1.369 - 1.371 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.372 - 1.372 aSeqDesc.theActivityName = 
+	1.373 - 1.378 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.379 - 1.390 aBone.theName = static_prop
+	1.391 - 1.398 aHitboxSet.theName = default
+	1.399 - 1.404 anAnimationDesc.theName = @idle
+	1.405 - 1.409 aSeqDesc.theName = idle
+	1.410 - 1.416 aBodyPart.theName = studio
+	1.417 - 1.422 aTexture.thePathFileName = glass
+	1.423 - 1.434 aTexturePath = spacebuild\
+	1.435 - 1.435 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.436 - 1.436 END OF FILE + 1 (File size)
+========================

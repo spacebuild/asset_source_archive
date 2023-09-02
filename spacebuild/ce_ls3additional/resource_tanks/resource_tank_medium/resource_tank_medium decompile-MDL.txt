@@ -1,0 +1,42 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.672
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = resource_tank_medium.SMD
+	1.460 - 2.039 aModel.theMeshes 5
+	2.040 - 2.487 theMdlFileData.theTextures 7
+	2.488 - 2.491 theMdlFileData.theTexturePaths 1
+	2.492 - 2.519 theMdlFileData.theSkinFamilies 2
+	2.520 - 2.520 aSeqDesc.theActivityName = 
+	2.521 - 2.528 theSurfacePropName = plastic; theSurfacePropName = plastic; aBone.theSurfacePropName = plastic
+	2.529 - 2.540 aBone.theName = static_prop
+	2.541 - 2.548 aHitboxSet.theName = default
+	2.549 - 2.554 anAnimationDesc.theName = @idle
+	2.555 - 2.559 aSeqDesc.theName = idle
+	2.560 - 2.566 aBodyPart.theName = studio
+	2.567 - 2.577 aTexture.thePathFileName = name_water
+	2.578 - 2.583 aTexture.thePathFileName = metal
+	2.584 - 2.588 aTexture.thePathFileName = tube
+	2.589 - 2.593 aTexture.thePathFileName = base
+	2.594 - 2.605 aTexture.thePathFileName = color_water
+	2.606 - 2.622 aTexture.thePathFileName = color_heavywater
+	2.623 - 2.638 aTexture.thePathFileName = name_heavywater
+	2.639 - 2.671 aTexturePath = ce_ls3additional\resource_tanks\
+	2.672 - 2.672 END OF FILE + 1 (File size)
+========================

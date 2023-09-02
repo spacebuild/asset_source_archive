@@ -1,0 +1,89 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	5.240
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 2.175 theMdlFileData.theBones 7
+	2.176 - 2.187 theMdlFileData.theHitboxSets 1
+	2.188 - 2.194 theMdlFileData.theBoneTableByName
+	2.195 - 2.195 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.196 - 2.395 theMdlFileData.theAnimationDescs 2
+	2.396 - 2.399 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 ]
+	2.400 - 2.415 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.416 - 2.447 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.448 - 2.463 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.464 - 2.479 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.480 - 2.495 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.496 - 2.553 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.554 - 2.569 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.570 - 2.601 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.602 - 2.617 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.618 - 2.633 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.634 - 2.649 anAnimationDesc.anAnimation  [@open] (frameCount = 30; sectionFrameCount = 30)
+	2.650 - 2.707 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.708 - 2.711 anAnimationDesc.anAnimation [@open] (unused empty data structure at the end of the list)
+	2.712 - 2.719 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	2.720 - 2.735 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.736 - 2.767 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.768 - 2.783 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.784 - 2.799 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.800 - 2.815 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.816 - 2.875 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.876 - 2.891 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.892 - 2.923 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.924 - 2.939 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.940 - 2.955 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	2.956 - 2.971 anAnimationDesc.anAnimation  [@close] (frameCount = 30; sectionFrameCount = 30)
+	2.972 - 3.031 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	3.032 - 3.035 anAnimationDesc.anAnimation [@close] (unused empty data structure at the end of the list)
+	3.036 - 3.459 theMdlFileData.theSequenceDescs 2
+	3.460 - 3.487 aSeqDesc.theBoneWeights [open] 7; aSeqDesc.theBoneWeights [close] 7
+	3.488 - 3.489 aSeqDesc.theAnimDescIndexes [open] 1
+	3.490 - 3.491 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	3.492 - 3.493 aSeqDesc.theAnimDescIndexes [close] 1
+	3.494 - 3.495 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	3.496 - 3.511 theMdlFileData.theBodyParts 1
+	3.512 - 3.659 aModel Name = Door12b_anim.smd
+	3.660 - 3.891 aModel.theMeshes 2
+	3.892 - 4.019 theMdlFileData.theTextures 2
+	4.020 - 4.023 theMdlFileData.theTexturePaths 1
+	4.024 - 4.027 theMdlFileData.theSkinFamilies 1
+	4.028 - 4.081 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	4.082 - 4.083 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	4.084 - 4.147 theMdlFileData.theLinearBoneTable header
+	4.148 - 4.175 theMdlFileData.theLinearBoneTable.theFlags
+	4.176 - 4.203 theMdlFileData.theLinearBoneTable.theParents
+	4.204 - 4.287 theMdlFileData.theLinearBoneTable.thePositions
+	4.288 - 4.399 theMdlFileData.theLinearBoneTable.theQuaternions
+	4.400 - 4.483 theMdlFileData.theLinearBoneTable.theRotations
+	4.484 - 4.819 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	4.820 - 4.903 theMdlFileData.theLinearBoneTable.thePositionScales
+	4.904 - 4.987 theMdlFileData.theLinearBoneTable.theRotationScales
+	4.988 - 5.099 theMdlFileData.theLinearBoneTable.theQAlignments
+	5.100 - 5.100 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	5.101 - 5.106 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	5.107 - 5.111 aBone.theName = Bone
+	5.112 - 5.118 aBone.theName = Door_L
+	5.119 - 5.127 aBone.theName = Shield_L
+	5.128 - 5.137 aBone.theName = Shield_L2
+	5.138 - 5.144 aBone.theName = Door_R
+	5.145 - 5.153 aBone.theName = Shield_R
+	5.154 - 5.163 aBone.theName = Shield_R2
+	5.164 - 5.171 aHitboxSet.theName = default
+	5.172 - 5.177 anAnimationDesc.theName = @open
+	5.178 - 5.184 anAnimationDesc.theName = @close
+	5.185 - 5.189 aSeqDesc.theName = open
+	5.190 - 5.195 aSeqDesc.theName = close
+	5.196 - 5.202 aBodyPart.theName = studio
+	5.203 - 5.218 aTexture.thePathFileName = Base_Metal_Rust
+	5.219 - 5.232 aTexture.thePathFileName = Glow_Blue_Ani
+	5.233 - 5.239 aTexturePath = Cmats\
+	5.240 - 5.240 END OF FILE + 1 (File size)
+========================

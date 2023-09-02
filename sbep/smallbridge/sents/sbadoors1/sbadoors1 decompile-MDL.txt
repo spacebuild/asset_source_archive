@@ -1,0 +1,82 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	4.676
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 1.487 theMdlFileData.theBones 5
+	1.488 - 1.499 theMdlFileData.theHitboxSets 1
+	1.500 - 1.504 theMdlFileData.theBoneTableByName
+	1.505 - 1.507 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	1.508 - 1.707 theMdlFileData.theAnimationDescs 2
+	1.708 - 1.723 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.724 - 1.759 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.760 - 1.775 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.776 - 1.821 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.822 - 1.837 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.838 - 1.873 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.874 - 1.889 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.890 - 1.935 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.936 - 1.939 anAnimationDesc.anAnimation [@open] (unused empty data structure at the end of the list)
+	1.940 - 1.955 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	1.956 - 1.987 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.988 - 2.003 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	2.004 - 2.053 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	2.054 - 2.069 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	2.070 - 2.101 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	2.102 - 2.117 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	2.118 - 2.167 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	2.168 - 2.171 anAnimationDesc.anAnimation [@close] (unused empty data structure at the end of the list)
+	2.172 - 2.595 theMdlFileData.theSequenceDescs 2
+	2.596 - 2.615 aSeqDesc.theBoneWeights [open] 5; aSeqDesc.theBoneWeights [close] 5
+	2.616 - 2.617 aSeqDesc.theAnimDescIndexes [open] 1
+	2.618 - 2.619 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.620 - 2.621 aSeqDesc.theAnimDescIndexes [close] 1
+	2.622 - 2.623 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.624 - 2.639 theMdlFileData.theBodyParts 1
+	2.640 - 2.787 aModel Name = SBADoorS1.smd
+	2.788 - 3.135 aModel.theMeshes 3
+	3.136 - 4.223 theMdlFileData.theTextures 17
+	4.224 - 4.227 theMdlFileData.theTexturePaths 1
+	4.228 - 4.397 theMdlFileData.theSkinFamilies 5
+	4.398 - 4.399 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	4.400 - 4.452 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	4.453 - 4.455 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	4.456 - 4.456 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	4.457 - 4.462 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	4.463 - 4.467 aBone.theName = Root
+	4.468 - 4.478 aBone.theName = Door.Right
+	4.479 - 4.490 aBone.theName = Panel.Right
+	4.491 - 4.500 aBone.theName = Door.Left
+	4.501 - 4.511 aBone.theName = Panel.Left
+	4.512 - 4.519 aHitboxSet.theName = default
+	4.520 - 4.525 anAnimationDesc.theName = @open
+	4.526 - 4.532 anAnimationDesc.theName = @close
+	4.533 - 4.537 aSeqDesc.theName = open
+	4.538 - 4.543 aSeqDesc.theName = close
+	4.544 - 4.550 aBodyPart.theName = studio
+	4.551 - 4.556 aTexture.thePathFileName = Floor
+	4.557 - 4.563 aTexture.thePathFileName = Hazard
+	4.564 - 4.572 aTexture.thePathFileName = gunmetal
+	4.573 - 4.577 aTexture.thePathFileName = Body
+	4.578 - 4.579 aTexture.thePathFileName = ,
+	4.580 - 4.585 aTexture.thePathFileName = Body2
+	4.586 - 4.593 aTexture.thePathFileName = Hazard2
+	4.594 - 4.600 aTexture.thePathFileName = Floor2
+	4.601 - 4.606 aTexture.thePathFileName = Body3
+	4.607 - 4.614 aTexture.thePathFileName = Hazard3
+	4.615 - 4.621 aTexture.thePathFileName = Floor3
+	4.622 - 4.627 aTexture.thePathFileName = Body4
+	4.628 - 4.635 aTexture.thePathFileName = Hazard4
+	4.636 - 4.642 aTexture.thePathFileName = Floor4
+	4.643 - 4.648 aTexture.thePathFileName = Body5
+	4.649 - 4.656 aTexture.thePathFileName = Hazard5
+	4.657 - 4.663 aTexture.thePathFileName = Floor5
+	4.664 - 4.675 aTexturePath = spacebuild\
+	4.676 - 4.676 END OF FILE + 1 (File size)
+========================

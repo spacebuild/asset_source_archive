@@ -1,0 +1,57 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.340
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = SBSelevP2ESl.smd
+	1.128 - 1.591 aModel.theMeshes 4
+	1.592 - 2.743 theMdlFileData.theTextures 18
+	2.744 - 2.747 theMdlFileData.theTexturePaths 1
+	2.748 - 3.107 theMdlFileData.theSkinFamilies 10
+	3.108 - 3.160 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	3.161 - 3.163 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	3.164 - 3.164 aSeqDesc.theActivityName = 
+	3.165 - 3.170 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	3.171 - 3.182 aBone.theName = static_prop
+	3.183 - 3.190 aHitboxSet.theName = default
+	3.191 - 3.196 anAnimationDesc.theName = @idle
+	3.197 - 3.201 aSeqDesc.theName = idle
+	3.202 - 3.208 aBodyPart.theName = studio
+	3.209 - 3.213 aTexture.thePathFileName = Body
+	3.214 - 3.220 aTexture.thePathFileName = Hazard
+	3.221 - 3.229 aTexture.thePathFileName = gunmetal
+	3.230 - 3.235 aTexture.thePathFileName = Floor
+	3.236 - 3.237 aTexture.thePathFileName = ,
+	3.238 - 3.243 aTexture.thePathFileName = glass
+	3.244 - 3.249 aTexture.thePathFileName = Body2
+	3.250 - 3.257 aTexture.thePathFileName = Hazard2
+	3.258 - 3.264 aTexture.thePathFileName = Floor2
+	3.265 - 3.270 aTexture.thePathFileName = Body3
+	3.271 - 3.278 aTexture.thePathFileName = Hazard3
+	3.279 - 3.285 aTexture.thePathFileName = Floor3
+	3.286 - 3.291 aTexture.thePathFileName = Body4
+	3.292 - 3.299 aTexture.thePathFileName = Hazard4
+	3.300 - 3.306 aTexture.thePathFileName = Floor4
+	3.307 - 3.312 aTexture.thePathFileName = Body5
+	3.313 - 3.320 aTexture.thePathFileName = Hazard5
+	3.321 - 3.327 aTexture.thePathFileName = Floor5
+	3.328 - 3.339 aTexturePath = spacebuild\
+	3.340 - 3.340 END OF FILE + 1 (File size)
+========================

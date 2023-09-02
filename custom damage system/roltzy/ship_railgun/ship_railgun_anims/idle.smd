@@ -1,0 +1,11 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "railgun" -1
+  1 "" -1
+end
+skeleton
+  time 0
+    0 35.312500 0.000004 1.695313 1.570674 0.000061 -0.000061   # pos: raw   rot: raw48
+    1 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796   # pos: desc_bone   rot: desc_bone
+end

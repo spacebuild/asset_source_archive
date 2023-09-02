@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	220.101
+====== File Seek Log ======
+	0 - 35 VTX File Header (Actual version: 7; override version: 7); VTX File Header (Actual version: 7; override version: 7)
+	36 - 43 theVtxFileData.theVtxBodyParts 1
+	44 - 51 aBodyPart.theVtxModels 1
+	52 - 63 aModel.theVtxModelLods 1
+	64 - 135 aModelLod.theVtxMeshes 8
+	136 - 160 aMesh.theVtxStripGroups 1
+	161 - 185 aMesh.theVtxStripGroups 1
+	186 - 210 aMesh.theVtxStripGroups 1
+	211 - 235 aMesh.theVtxStripGroups 1
+	236 - 260 aMesh.theVtxStripGroups 1
+	261 - 285 aMesh.theVtxStripGroups 1
+	286 - 310 aMesh.theVtxStripGroups 1
+	311 - 335 aMesh.theVtxStripGroups 1
+	336 - 362 aStripGroup.theVtxStrips 1
+	363 - 389 aStripGroup.theVtxStrips 1
+	390 - 416 aStripGroup.theVtxStrips 1
+	417 - 443 aStripGroup.theVtxStrips 1
+	444 - 470 aStripGroup.theVtxStrips 1
+	471 - 497 aStripGroup.theVtxStrips 1
+	498 - 524 aStripGroup.theVtxStrips 1
+	525 - 551 aStripGroup.theVtxStrips 1
+	552 - 911 aStripGroup.theVtxVertexes 40
+	912 - 11.225 aStripGroup.theVtxVertexes 1146
+	11.226 - 14.663 aStripGroup.theVtxVertexes 382
+	14.664 - 55.649 aStripGroup.theVtxVertexes 4554
+	55.650 - 77.789 aStripGroup.theVtxVertexes 2460
+	77.790 - 120.773 aStripGroup.theVtxVertexes 4776
+	120.774 - 124.850 aStripGroup.theVtxVertexes 453
+	124.851 - 126.812 aStripGroup.theVtxVertexes 218
+	126.813 - 126.944 aStripGroup.theVtxIndexes 66
+	126.945 - 134.000 aStripGroup.theVtxIndexes 3528
+	134.001 - 135.392 aStripGroup.theVtxIndexes 696
+	135.393 - 168.956 aStripGroup.theVtxIndexes 16782
+	168.957 - 186.332 aStripGroup.theVtxIndexes 8688
+	186.333 - 216.236 aStripGroup.theVtxIndexes 14952
+	216.237 - 219.260 aStripGroup.theVtxIndexes 1512
+	219.261 - 220.028 aStripGroup.theVtxIndexes 384
+	220.029 - 220.092 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ... ]
+	220.093 - 220.100 theVtxFileData.theVtxMaterialReplacementLists 1
+	220.101 - 220.101 END OF FILE + 1 (File size)
+========================

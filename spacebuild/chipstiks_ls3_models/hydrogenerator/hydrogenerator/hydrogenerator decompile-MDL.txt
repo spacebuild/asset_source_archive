@@ -1,0 +1,177 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	17.972
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 10.343 theMdlFileData.theBones 46
+	10.344 - 10.355 theMdlFileData.theHitboxSets 1
+	10.356 - 12.803 aHitboxSet.theHitboxes 36
+	12.804 - 12.849 theMdlFileData.theBoneTableByName
+	12.850 - 12.851 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	12.852 - 12.951 theMdlFileData.theAnimationDescs 1
+	12.952 - 12.961 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	12.962 - 12.965 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	12.966 - 12.975 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	12.976 - 13.179 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	13.180 - 13.189 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	13.190 - 13.393 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	13.394 - 13.403 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	13.404 - 13.607 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	13.608 - 13.617 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	13.618 - 13.821 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	13.822 - 13.831 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	13.832 - 14.035 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	14.036 - 14.045 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	14.046 - 14.249 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	14.250 - 14.259 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	14.260 - 14.463 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	14.464 - 14.473 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	14.474 - 14.677 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	14.678 - 14.687 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	14.688 - 14.891 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	14.892 - 14.901 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	14.902 - 15.105 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.106 - 15.115 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.116 - 15.319 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.320 - 15.329 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.330 - 15.333 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.334 - 15.343 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.344 - 15.347 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.348 - 15.357 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.358 - 15.361 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.362 - 15.371 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.372 - 15.375 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.376 - 15.385 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.386 - 15.389 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.390 - 15.399 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.400 - 15.403 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.404 - 15.413 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.414 - 15.417 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.418 - 15.427 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.428 - 15.431 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.432 - 15.441 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.442 - 15.445 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.446 - 15.455 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.456 - 15.459 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.460 - 15.469 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.470 - 15.473 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.474 - 15.483 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.484 - 15.487 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.488 - 15.497 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.498 - 15.501 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.502 - 15.511 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.512 - 15.515 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.516 - 15.525 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.526 - 15.529 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.530 - 15.539 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.540 - 15.543 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.544 - 15.553 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.554 - 15.557 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.558 - 15.567 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.568 - 15.571 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.572 - 15.581 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.582 - 15.585 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.586 - 15.595 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.596 - 15.599 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.600 - 15.609 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.610 - 15.613 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.614 - 15.623 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.624 - 15.627 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.628 - 15.637 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.638 - 15.641 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.642 - 15.651 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.652 - 15.855 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.856 - 15.865 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.866 - 15.869 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.870 - 15.879 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.880 - 15.883 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.884 - 15.893 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.894 - 15.897 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.898 - 15.907 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.908 - 15.911 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.912 - 15.921 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.922 - 15.925 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.926 - 15.935 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.936 - 15.939 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.940 - 15.949 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.950 - 15.953 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.954 - 15.963 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.964 - 15.967 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.968 - 15.977 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.978 - 15.981 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.982 - 15.991 anAnimationDesc.anAnimation  [@HydroFans] (frameCount = 101; sectionFrameCount = 101)
+	15.992 - 15.995 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	15.996 - 15.999 anAnimationDesc.anAnimation [@HydroFans] (unused empty data structure at the end of the list)
+	16.000 - 16.211 theMdlFileData.theSequenceDescs 1
+	16.212 - 16.395 aSeqDesc.theBoneWeights [HydroFans] 46
+	16.396 - 16.397 aSeqDesc.theAnimDescIndexes [HydroFans] 1
+	16.398 - 16.399 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	16.400 - 16.415 theMdlFileData.theBodyParts 1
+	16.416 - 16.563 aModel Name = C:\3dsmax7\scenes\SB3\Generators\HydroGenerator\HydroGenerator.s
+	16.564 - 17.143 aModel.theMeshes 5
+	17.144 - 17.463 theMdlFileData.theTextures 5
+	17.464 - 17.467 theMdlFileData.theTexturePaths 1
+	17.468 - 17.477 theMdlFileData.theSkinFamilies 1
+	17.478 - 17.479 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	17.480 - 17.480 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	17.481 - 17.486 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	17.487 - 17.497 aBone.theName = Cylinder01
+	17.498 - 17.503 aBone.theName = Box09
+	17.504 - 17.514 aBone.theName = Cylinder02
+	17.515 - 17.520 aBone.theName = Box10
+	17.521 - 17.526 aBone.theName = Box11
+	17.527 - 17.532 aBone.theName = Box12
+	17.533 - 17.538 aBone.theName = Box13
+	17.539 - 17.544 aBone.theName = Box14
+	17.545 - 17.550 aBone.theName = Box15
+	17.551 - 17.556 aBone.theName = Box16
+	17.557 - 17.562 aBone.theName = Box17
+	17.563 - 17.568 aBone.theName = Box18
+	17.569 - 17.575 aBone.theName = Tube01
+	17.576 - 17.586 aBone.theName = Cylinder04
+	17.587 - 17.597 aBone.theName = Cylinder05
+	17.598 - 17.608 aBone.theName = Cylinder06
+	17.609 - 17.619 aBone.theName = Cylinder07
+	17.620 - 17.630 aBone.theName = Cylinder08
+	17.631 - 17.641 aBone.theName = Cylinder09
+	17.642 - 17.652 aBone.theName = Cylinder10
+	17.653 - 17.663 aBone.theName = Cylinder11
+	17.664 - 17.674 aBone.theName = Cylinder12
+	17.675 - 17.685 aBone.theName = Cylinder13
+	17.686 - 17.692 aBone.theName = Tube02
+	17.693 - 17.699 aBone.theName = Loft01
+	17.700 - 17.706 aBone.theName = Loft02
+	17.707 - 17.713 aBone.theName = Loft03
+	17.714 - 17.720 aBone.theName = Loft04
+	17.721 - 17.727 aBone.theName = Loft05
+	17.728 - 17.734 aBone.theName = Loft06
+	17.735 - 17.741 aBone.theName = Loft07
+	17.742 - 17.748 aBone.theName = Loft08
+	17.749 - 17.755 aBone.theName = Tube03
+	17.756 - 17.762 aBone.theName = Tube04
+	17.763 - 17.773 aBone.theName = Cylinder14
+	17.774 - 17.784 aBone.theName = Cylinder15
+	17.785 - 17.790 aBone.theName = Box01
+	17.791 - 17.796 aBone.theName = Box19
+	17.797 - 17.802 aBone.theName = Box20
+	17.803 - 17.808 aBone.theName = Box21
+	17.809 - 17.814 aBone.theName = Box22
+	17.815 - 17.820 aBone.theName = Box23
+	17.821 - 17.826 aBone.theName = Box24
+	17.827 - 17.832 aBone.theName = Box25
+	17.833 - 17.843 aBone.theName = Cylinder16
+	17.844 - 17.854 aBone.theName = Cylinder17
+	17.855 - 17.862 aHitboxSet.theName = default
+	17.863 - 17.873 anAnimationDesc.theName = @HydroFans
+	17.874 - 17.883 aSeqDesc.theName = HydroFans
+	17.884 - 17.891 aSeqDesc.theActivityName = ACT_RUN
+	17.892 - 17.896 aBodyPart.theName = Body
+	17.897 - 17.901 aTexture.thePathFileName = pipe
+	17.902 - 17.912 aTexture.thePathFileName = frontpipes
+	17.913 - 17.918 aTexture.thePathFileName = pipe2
+	17.919 - 17.923 aTexture.thePathFileName = tank
+	17.924 - 17.968 aTexturePath = models\\chipstiks_ls3_models\HydroGenerator\
+	17.969 - 17.971 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	17.972 - 17.972 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,52 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.108
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 807 theMdlFileData.theAttachments 2
+	808 - 819 theMdlFileData.theHitboxSets 1
+	820 - 820 theMdlFileData.theBoneTableByName
+	821 - 823 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	824 - 923 theMdlFileData.theAnimationDescs 1
+	924 - 927 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	928 - 1.139 theMdlFileData.theSequenceDescs 1
+	1.140 - 1.143 aSeqDesc.theBoneWeights [idle] 1
+	1.144 - 1.145 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.146 - 1.147 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.148 - 1.163 theMdlFileData.theBodyParts 1
+	1.164 - 1.311 aModel Name = milcock4a.SMD
+	1.312 - 1.659 aModel.theMeshes 3
+	1.660 - 1.851 theMdlFileData.theTextures 3
+	1.852 - 1.855 theMdlFileData.theTexturePaths 1
+	1.856 - 1.861 theMdlFileData.theSkinFamilies 1
+	1.862 - 1.863 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.864 - 1.968 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+mdlkeyvalue
+{
+vehicle_exit {
+"exit1" "upright"  }
+}
+
+	1.969 - 1.971 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.972 - 1.972 aSeqDesc.theActivityName = 
+	1.973 - 1.978 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.979 - 1.990 aBone.theName = static_prop
+	1.991 - 2.010 anAttachment.theName = vehicle_driver_eyes
+	2.011 - 2.030 anAttachment.theName = vehicle_driver_exit
+	2.031 - 2.038 aHitboxSet.theName = default
+	2.039 - 2.044 anAnimationDesc.theName = @idle
+	2.045 - 2.049 aSeqDesc.theName = idle
+	2.050 - 2.056 aBodyPart.theName = studio
+	2.057 - 2.067 aTexture.thePathFileName = iron_rails
+	2.068 - 2.086 aTexture.thePathFileName = captainchairfabric
+	2.087 - 2.092 aTexture.thePathFileName = glass
+	2.093 - 2.104 aTexturePath = spacebuild\
+	2.105 - 2.107 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.108 - 2.108 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,42 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.640
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = ACC_Food_FoodTrayStack_detail.smd
+	1.128 - 1.359 aModel.theMeshes 2
+	1.360 - 1.487 theMdlFileData.theTextures 2
+	1.488 - 1.491 theMdlFileData.theTexturePaths 1
+	1.492 - 1.495 theMdlFileData.theSkinFamilies 1
+	1.496 - 1.548 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	1.549 - 1.551 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.552 - 1.552 aSeqDesc.theActivityName = 
+	1.553 - 1.558 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.559 - 1.570 aBone.theName = static_prop
+	1.571 - 1.578 aHitboxSet.theName = default
+	1.579 - 1.584 anAnimationDesc.theName = @idle
+	1.585 - 1.589 aSeqDesc.theName = idle
+	1.590 - 1.596 aBodyPart.theName = studio
+	1.597 - 1.606 aTexture.thePathFileName = milgreen2
+	1.607 - 1.624 aTexture.thePathFileName = sbmetalfloor01bs8
+	1.625 - 1.636 aTexturePath = spacebuild\
+	1.637 - 1.639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	1.640 - 1.640 END OF FILE + 1 (File size)
+========================

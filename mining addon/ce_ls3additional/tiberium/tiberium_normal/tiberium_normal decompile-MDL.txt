@@ -1,0 +1,38 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.808
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = tiberium_normal.SMD
+	1.460 - 1.575 aModel.theMeshes 1
+	1.576 - 1.703 theMdlFileData.theTextures 2
+	1.704 - 1.707 theMdlFileData.theTexturePaths 1
+	1.708 - 1.715 theMdlFileData.theSkinFamilies 2
+	1.716 - 1.716 aSeqDesc.theActivityName = 
+	1.717 - 1.722 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.723 - 1.734 aBone.theName = static_prop
+	1.735 - 1.742 aHitboxSet.theName = default
+	1.743 - 1.748 anAnimationDesc.theName = @idle
+	1.749 - 1.753 aSeqDesc.theName = idle
+	1.754 - 1.760 aBodyPart.theName = studio
+	1.761 - 1.770 aTexture.thePathFileName = tib_green
+	1.771 - 1.779 aTexture.thePathFileName = tib_blue
+	1.780 - 1.806 aTexturePath = ce_ls3additional\tiberium\
+	1.807 - 1.807 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.808 - 1.808 END OF FILE + 1 (File size)
+========================

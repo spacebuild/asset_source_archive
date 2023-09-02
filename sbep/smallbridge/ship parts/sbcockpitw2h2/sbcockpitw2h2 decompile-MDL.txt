@@ -1,0 +1,64 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.808
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 892 theMdlFileData.theBoneTableByName
+	893 - 895 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	896 - 995 theMdlFileData.theAnimationDescs 1
+	996 - 1.007 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.008 - 1.019 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.020 - 1.023 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.024 - 1.235 theMdlFileData.theSequenceDescs 1
+	1.236 - 1.239 aSeqDesc.theBoneWeights [idle] 1
+	1.240 - 1.241 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.242 - 1.243 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.244 - 1.259 theMdlFileData.theBodyParts 1
+	1.260 - 1.407 aModel Name = 2w2hCockpit.SMD
+	1.408 - 1.987 aModel.theMeshes 5
+	1.988 - 3.331 theMdlFileData.theTextures 21
+	3.332 - 3.335 theMdlFileData.theTexturePaths 1
+	3.336 - 3.545 theMdlFileData.theSkinFamilies 5
+	3.546 - 3.547 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	3.548 - 3.600 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	3.601 - 3.603 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	3.604 - 3.604 aSeqDesc.theActivityName = 
+	3.605 - 3.610 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	3.611 - 3.617 aBone.theName = Hull01
+	3.618 - 3.625 aHitboxSet.theName = default
+	3.626 - 3.631 anAnimationDesc.theName = @idle
+	3.632 - 3.636 aSeqDesc.theName = idle
+	3.637 - 3.643 aBodyPart.theName = studio
+	3.644 - 3.651 aTexture.thePathFileName = SBLight
+	3.652 - 3.656 aTexture.thePathFileName = Body
+	3.657 - 3.662 aTexture.thePathFileName = Floor
+	3.663 - 3.668 aTexture.thePathFileName = glass
+	3.669 - 3.675 aTexture.thePathFileName = Hazard
+	3.676 - 3.681 aTexture.thePathFileName = Body2
+	3.682 - 3.689 aTexture.thePathFileName = Hazard2
+	3.690 - 3.698 aTexture.thePathFileName = SBLight2
+	3.699 - 3.705 aTexture.thePathFileName = Floor2
+	3.706 - 3.711 aTexture.thePathFileName = Body3
+	3.712 - 3.719 aTexture.thePathFileName = Hazard3
+	3.720 - 3.728 aTexture.thePathFileName = SBLight3
+	3.729 - 3.735 aTexture.thePathFileName = Floor3
+	3.736 - 3.741 aTexture.thePathFileName = Body4
+	3.742 - 3.749 aTexture.thePathFileName = Hazard4
+	3.750 - 3.758 aTexture.thePathFileName = SBLight4
+	3.759 - 3.765 aTexture.thePathFileName = Floor4
+	3.766 - 3.771 aTexture.thePathFileName = Body5
+	3.772 - 3.779 aTexture.thePathFileName = Hazard5
+	3.780 - 3.788 aTexture.thePathFileName = SBLight5
+	3.789 - 3.795 aTexture.thePathFileName = Floor5
+	3.796 - 3.807 aTexturePath = spacebuild\
+	3.808 - 3.808 END OF FILE + 1 (File size)
+========================

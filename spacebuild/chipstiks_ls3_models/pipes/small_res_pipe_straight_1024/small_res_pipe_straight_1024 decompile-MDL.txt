@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.556
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 839 theMdlFileData.theBones 2
+	840 - 851 theMdlFileData.theHitboxSets 1
+	852 - 987 aHitboxSet.theHitboxes 2
+	988 - 989 theMdlFileData.theBoneTableByName
+	990 - 991 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	992 - 1.091 theMdlFileData.theAnimationDescs 1
+	1.092 - 1.101 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	1.102 - 1.117 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	1.118 - 1.121 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	1.122 - 1.123 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.124 - 1.335 theMdlFileData.theSequenceDescs 1
+	1.336 - 1.343 aSeqDesc.theBoneWeights [Idle] 2
+	1.344 - 1.345 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.346 - 1.347 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.348 - 1.363 theMdlFileData.theBodyParts 1
+	1.364 - 1.511 aModel Name = C:\3dsmax7\scenes\SB3\RD3\Pipes\small_res_pipe_straight_1024.smd
+	1.512 - 2.091 aModel.theMeshes 5
+	2.092 - 2.411 theMdlFileData.theTextures 5
+	2.412 - 2.415 theMdlFileData.theTexturePaths 1
+	2.416 - 2.425 theMdlFileData.theSkinFamilies 1
+	2.426 - 2.427 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.428 - 2.428 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.429 - 2.434 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.435 - 2.443 aBone.theName = Cylinder
+	2.444 - 2.454 aBone.theName = Cylinder03
+	2.455 - 2.462 aHitboxSet.theName = default
+	2.463 - 2.468 anAnimationDesc.theName = @Idle
+	2.469 - 2.473 aSeqDesc.theName = Idle
+	2.474 - 2.482 aSeqDesc.theActivityName = ACT_IDLE
+	2.483 - 2.487 aBodyPart.theName = Body
+	2.488 - 2.492 aTexture.thePathFileName = Grey
+	2.493 - 2.502 aTexture.thePathFileName = pureBlack
+	2.503 - 2.507 aTexture.thePathFileName = tank
+	2.508 - 2.513 aTexture.thePathFileName = BLACK
+	2.514 - 2.517 aTexture.thePathFileName = RED
+	2.518 - 2.553 aTexturePath = models\\chipstiks_ls3_models\Pipes\
+	2.554 - 2.555 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.556 - 2.556 END OF FILE + 1 (File size)
+========================

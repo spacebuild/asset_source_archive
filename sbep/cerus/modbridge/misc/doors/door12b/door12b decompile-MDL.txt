@@ -1,0 +1,44 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.912
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 892 theMdlFileData.theBoneTableByName
+	893 - 895 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	896 - 995 theMdlFileData.theAnimationDescs 1
+	996 - 1.007 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.008 - 1.019 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.020 - 1.023 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.024 - 1.235 theMdlFileData.theSequenceDescs 1
+	1.236 - 1.239 aSeqDesc.theBoneWeights [idle] 1
+	1.240 - 1.241 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.242 - 1.243 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.244 - 1.259 theMdlFileData.theBodyParts 1
+	1.260 - 1.407 aModel Name = Door12b.smd
+	1.408 - 1.639 aModel.theMeshes 2
+	1.640 - 1.767 theMdlFileData.theTextures 2
+	1.768 - 1.771 theMdlFileData.theTexturePaths 1
+	1.772 - 1.775 theMdlFileData.theSkinFamilies 1
+	1.776 - 1.829 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	1.830 - 1.831 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	1.832 - 1.832 aSeqDesc.theActivityName = 
+	1.833 - 1.838 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.839 - 1.845 aBone.theName = joint0
+	1.846 - 1.853 aHitboxSet.theName = default
+	1.854 - 1.859 anAnimationDesc.theName = @idle
+	1.860 - 1.864 aSeqDesc.theName = idle
+	1.865 - 1.871 aBodyPart.theName = studio
+	1.872 - 1.888 aTexture.thePathFileName = Base_Metal_Floor
+	1.889 - 1.904 aTexture.thePathFileName = Base_Metal_Rust
+	1.905 - 1.911 aTexturePath = Cmats\
+	1.912 - 1.912 END OF FILE + 1 (File size)
+========================

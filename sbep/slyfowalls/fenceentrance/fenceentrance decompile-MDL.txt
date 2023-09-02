@@ -1,0 +1,47 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.128
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = fenceentrance_detail.smd
+	1.128 - 1.359 aModel.theMeshes 2
+	1.360 - 1.807 theMdlFileData.theTextures 7
+	1.808 - 1.811 theMdlFileData.theTexturePaths 1
+	1.812 - 1.909 theMdlFileData.theSkinFamilies 7
+	1.910 - 1.911 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.912 - 1.964 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	1.965 - 1.967 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.968 - 1.968 aSeqDesc.theActivityName = 
+	1.969 - 1.974 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.975 - 1.986 aBone.theName = static_prop
+	1.987 - 1.994 aHitboxSet.theName = default
+	1.995 - 2.000 anAnimationDesc.theName = @idle
+	2.001 - 2.005 aSeqDesc.theName = idle
+	2.006 - 2.012 aBodyPart.theName = studio
+	2.013 - 2.023 aTexture.thePathFileName = grungewall
+	2.024 - 2.035 aTexture.thePathFileName = badconcrete
+	2.036 - 2.050 aTexture.thePathFileName = grungewallblue
+	2.051 - 2.067 aTexture.thePathFileName = grungewallpurple
+	2.068 - 2.084 aTexture.thePathFileName = grungewallorange
+	2.085 - 2.100 aTexture.thePathFileName = grungewallblack
+	2.101 - 2.115 aTexture.thePathFileName = grungewallteal
+	2.116 - 2.127 aTexturePath = spacebuild\
+	2.128 - 2.128 END OF FILE + 1 (File size)
+========================

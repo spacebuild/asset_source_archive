@@ -1,0 +1,51 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.072
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = Pod1-R.smd
+	1.196 - 2.239 aModel.theMeshes 9
+	2.240 - 2.815 theMdlFileData.theTextures 9
+	2.816 - 2.819 theMdlFileData.theTexturePaths 1
+	2.820 - 2.837 theMdlFileData.theSkinFamilies 1
+	2.838 - 2.839 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.840 - 2.893 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	2.894 - 2.895 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	2.896 - 2.896 aSeqDesc.theActivityName = 
+	2.897 - 2.902 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.903 - 2.914 aBone.theName = static_prop
+	2.915 - 2.922 aHitboxSet.theName = default
+	2.923 - 2.928 anAnimationDesc.theName = @idle
+	2.929 - 2.933 aSeqDesc.theName = idle
+	2.934 - 2.940 aBodyPart.theName = studio
+	2.941 - 2.950 aTexture.thePathFileName = Base_Grey
+	2.951 - 2.967 aTexture.thePathFileName = Base_Metal_Light
+	2.968 - 2.985 aTexture.thePathFileName = Station_Metal_B_S
+	2.986 - 3.002 aTexture.thePathFileName = Base_Dark_Border
+	3.003 - 3.019 aTexture.thePathFileName = Base_Metal_Floor
+	3.020 - 3.035 aTexture.thePathFileName = Base_Metal_Hole
+	3.036 - 3.051 aTexture.thePathFileName = Station_Metal_B
+	3.052 - 3.057 aTexture.thePathFileName = glass
+	3.058 - 3.063 aTexture.thePathFileName = light
+	3.064 - 3.070 aTexturePath = CMats\
+	3.071 - 3.071 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	3.072 - 3.072 END OF FILE + 1 (File size)
+========================

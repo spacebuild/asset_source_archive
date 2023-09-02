@@ -1,0 +1,59 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.988
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 892 theMdlFileData.theBoneTableByName
+	893 - 895 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	896 - 995 theMdlFileData.theAnimationDescs 1
+	996 - 1.007 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.008 - 1.019 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.020 - 1.023 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.024 - 1.235 theMdlFileData.theSequenceDescs 1
+	1.236 - 1.239 aSeqDesc.theBoneWeights [idle] 1
+	1.240 - 1.241 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.242 - 1.243 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.244 - 1.259 theMdlFileData.theBodyParts 1
+	1.260 - 1.407 aModel Name = HullDoorEvAd.SMD
+	1.408 - 1.639 aModel.theMeshes 2
+	1.640 - 2.599 theMdlFileData.theTextures 15
+	2.600 - 2.603 theMdlFileData.theTexturePaths 1
+	2.604 - 2.753 theMdlFileData.theSkinFamilies 5
+	2.754 - 2.755 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.756 - 2.808 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	2.809 - 2.811 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.812 - 2.812 aSeqDesc.theActivityName = 
+	2.813 - 2.818 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.819 - 2.831 aBone.theName = HullDoorEvAd
+	2.832 - 2.839 aHitboxSet.theName = default
+	2.840 - 2.845 anAnimationDesc.theName = @idle
+	2.846 - 2.850 aSeqDesc.theName = idle
+	2.851 - 2.857 aBodyPart.theName = studio
+	2.858 - 2.862 aTexture.thePathFileName = Body
+	2.863 - 2.869 aTexture.thePathFileName = Hazard
+	2.870 - 2.878 aTexture.thePathFileName = BodySkin
+	2.879 - 2.884 aTexture.thePathFileName = Body2
+	2.885 - 2.892 aTexture.thePathFileName = Hazard2
+	2.893 - 2.902 aTexture.thePathFileName = BodySkin2
+	2.903 - 2.908 aTexture.thePathFileName = Body3
+	2.909 - 2.916 aTexture.thePathFileName = Hazard3
+	2.917 - 2.926 aTexture.thePathFileName = BodySkin3
+	2.927 - 2.932 aTexture.thePathFileName = Body4
+	2.933 - 2.940 aTexture.thePathFileName = Hazard4
+	2.941 - 2.950 aTexture.thePathFileName = BodySkin4
+	2.951 - 2.956 aTexture.thePathFileName = Body5
+	2.957 - 2.964 aTexture.thePathFileName = Hazard5
+	2.965 - 2.974 aTexture.thePathFileName = BodySkin5
+	2.975 - 2.986 aTexturePath = spacebuild\
+	2.987 - 2.987 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.988 - 2.988 END OF FILE + 1 (File size)
+========================

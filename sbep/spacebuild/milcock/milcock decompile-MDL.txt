@@ -1,0 +1,53 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.488
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 807 theMdlFileData.theAttachments 2
+	808 - 819 theMdlFileData.theHitboxSets 1
+	820 - 820 theMdlFileData.theBoneTableByName
+	821 - 823 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	824 - 923 theMdlFileData.theAnimationDescs 1
+	924 - 927 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	928 - 1.139 theMdlFileData.theSequenceDescs 1
+	1.140 - 1.143 aSeqDesc.theBoneWeights [idle] 1
+	1.144 - 1.145 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.146 - 1.147 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.148 - 1.163 theMdlFileData.theBodyParts 1
+	1.164 - 1.311 aModel Name = milcock.SMD
+	1.312 - 1.891 aModel.theMeshes 5
+	1.892 - 2.211 theMdlFileData.theTextures 5
+	2.212 - 2.215 theMdlFileData.theTexturePaths 1
+	2.216 - 2.225 theMdlFileData.theSkinFamilies 1
+	2.226 - 2.227 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.228 - 2.332 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+mdlkeyvalue
+{
+vehicle_exit {
+"exit1" "upright"  }
+}
+
+	2.333 - 2.335 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.336 - 2.336 aSeqDesc.theActivityName = 
+	2.337 - 2.342 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.343 - 2.354 aBone.theName = static_prop
+	2.355 - 2.374 anAttachment.theName = vehicle_driver_eyes
+	2.375 - 2.394 anAttachment.theName = vehicle_driver_exit
+	2.395 - 2.402 aHitboxSet.theName = default
+	2.403 - 2.408 anAnimationDesc.theName = @idle
+	2.409 - 2.413 aSeqDesc.theName = idle
+	2.414 - 2.420 aBodyPart.theName = studio
+	2.421 - 2.431 aTexture.thePathFileName = iron_rails
+	2.432 - 2.443 aTexture.thePathFileName = lwmetal1nc1
+	2.444 - 2.450 aTexture.thePathFileName = lighto
+	2.451 - 2.469 aTexture.thePathFileName = captainchairfabric
+	2.470 - 2.475 aTexture.thePathFileName = glass
+	2.476 - 2.487 aTexturePath = spacebuild\
+	2.488 - 2.488 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,69 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "BoneDoor" -1
+end
+skeleton
+  time 0
+    0 -62.697226 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 1
+    0 -62.517533 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 2
+    0 -61.997986 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 3
+    0 -61.158116 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 4
+    0 -60.021363 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 5
+    0 -58.618976 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 6
+    0 -56.970489 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 7
+    0 -55.103244 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 8
+    0 -53.036775 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 9
+    0 -50.802332 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 10
+    0 -48.419446 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 11
+    0 -45.911557 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 12
+    0 -43.309915 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 13
+    0 -40.634053 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 14
+    0 -37.907407 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 15
+    0 -35.157323 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 16
+    0 -32.407239 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 17
+    0 -29.684500 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 18
+    0 -27.004730 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 19
+    0 -24.403088 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 20
+    0 -21.899106 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 21
+    0 -19.516221 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 22
+    0 -17.277871 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 23
+    0 -15.215308 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 24
+    0 -13.348064 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 25
+    0 -11.699576 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 26
+    0 -10.293283 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 27
+    0 -9.160436 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 28
+    0 -8.320566 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 29
+    0 -7.797113 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+  time 30
+    0 -7.617420 0.002580 0.000000 1.570796 0.000000 0.000000   # pos: anim+bone   rot: anim+bone
+end

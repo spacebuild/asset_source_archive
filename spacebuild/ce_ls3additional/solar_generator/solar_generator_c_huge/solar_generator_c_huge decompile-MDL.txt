@@ -1,0 +1,40 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.136
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = solar_generator_c_huge.SMD
+	1.460 - 1.807 aModel.theMeshes 3
+	1.808 - 1.999 theMdlFileData.theTextures 3
+	2.000 - 2.003 theMdlFileData.theTexturePaths 1
+	2.004 - 2.009 theMdlFileData.theSkinFamilies 1
+	2.010 - 2.011 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.012 - 2.012 aSeqDesc.theActivityName = 
+	2.013 - 2.018 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.019 - 2.030 aBone.theName = static_prop
+	2.031 - 2.038 aHitboxSet.theName = default
+	2.039 - 2.044 anAnimationDesc.theName = @idle
+	2.045 - 2.049 aSeqDesc.theName = idle
+	2.050 - 2.056 aBodyPart.theName = studio
+	2.057 - 2.069 aTexture.thePathFileName = solar_border
+	2.070 - 2.086 aTexture.thePathFileName = solar_panel_back
+	2.087 - 2.098 aTexture.thePathFileName = solar_panel
+	2.099 - 2.132 aTexturePath = ce_ls3additional\solar_generator\
+	2.133 - 2.135 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.136 - 2.136 END OF FILE + 1 (File size)
+========================

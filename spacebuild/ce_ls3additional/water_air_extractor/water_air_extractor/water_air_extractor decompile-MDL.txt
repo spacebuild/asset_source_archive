@@ -1,0 +1,41 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.484
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = water_air_extractor.SMD
+	1.460 - 2.039 aModel.theMeshes 5
+	2.040 - 2.359 theMdlFileData.theTextures 5
+	2.360 - 2.363 theMdlFileData.theTexturePaths 1
+	2.364 - 2.373 theMdlFileData.theSkinFamilies 1
+	2.374 - 2.375 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.376 - 2.376 aSeqDesc.theActivityName = 
+	2.377 - 2.382 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	2.383 - 2.394 aBone.theName = static_prop
+	2.395 - 2.402 aHitboxSet.theName = default
+	2.403 - 2.408 anAnimationDesc.theName = @idle
+	2.409 - 2.413 aSeqDesc.theName = idle
+	2.414 - 2.420 aBodyPart.theName = studio
+	2.421 - 2.425 aTexture.thePathFileName = base
+	2.426 - 2.430 aTexture.thePathFileName = tube
+	2.431 - 2.437 aTexture.thePathFileName = base_w
+	2.438 - 2.442 aTexture.thePathFileName = blue
+	2.443 - 2.480 aTexturePath = ce_ls3additional\water_air_extractor\
+	2.481 - 2.483 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.484 - 2.484 END OF FILE + 1 (File size)
+========================

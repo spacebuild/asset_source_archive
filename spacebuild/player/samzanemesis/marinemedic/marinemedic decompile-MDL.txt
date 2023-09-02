@@ -1,0 +1,151 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	27.500
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 12.759 theMdlFileData.theBones 56
+	12.760 - 13.403 theMdlFileData.theAttachments 7
+	13.404 - 13.415 theMdlFileData.theHitboxSets 1
+	13.416 - 14.571 aHitboxSet.theHitboxes 17
+	14.572 - 14.627 theMdlFileData.theBoneTableByName
+	14.628 - 14.727 theMdlFileData.theAnimationDescs 1
+	14.728 - 14.735 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	14.736 - 14.753 anAnimationDesc.anAnimation  [@ragdoll] (frameCount = 101; sectionFrameCount = 101)
+	14.754 - 14.757 anAnimationDesc.anAnimation [@ragdoll] (unused empty data structure at the end of the list)
+	14.758 - 14.759 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	14.760 - 15.367 anAnimationDesc.theIkRules 4
+	15.368 - 15.579 theMdlFileData.theSequenceDescs 1
+	15.580 - 15.803 aSeqDesc.theBoneWeights [ragdoll] 56
+	15.804 - 15.805 aSeqDesc.theAnimDescIndexes [ragdoll] 1
+	15.806 - 15.807 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	15.808 - 15.839 theMdlFileData.theBodyParts 2
+	15.840 - 15.987 aModel Name = medic_back_unit.dmx.smd
+	15.988 - 16.135 aModel Name = Marinefixed.smd
+	16.136 - 16.335 theMdlFileData.theFlexControllers 10
+	16.336 - 16.535 theMdlFileData.theFlexControllerUis 10
+	16.536 - 16.599 theMdlFileData.theIkChains 4
+	16.600 - 16.683 anIkChain.theLinks 3
+	16.684 - 16.767 anIkChain.theLinks 3
+	16.768 - 16.851 anIkChain.theLinks 3
+	16.852 - 16.935 anIkChain.theLinks 3
+	16.936 - 16.999 theMdlFileData.theIkLocks 2
+	17.000 - 17.115 aModel.theMeshes 1
+	17.116 - 17.347 aModel.theMeshes 2
+	17.348 - 17.387 theMdlFileData.theModelGroups 5
+	17.388 - 17.643 theMdlFileData.theTextures 4
+	17.644 - 17.655 theMdlFileData.theTexturePaths 3
+	17.656 - 17.663 theMdlFileData.theSkinFamilies 1
+	17.664 - 17.727 theMdlFileData.theLinearBoneTable header
+	17.728 - 17.951 theMdlFileData.theLinearBoneTable.theFlags
+	17.952 - 18.175 theMdlFileData.theLinearBoneTable.theParents
+	18.176 - 18.847 theMdlFileData.theLinearBoneTable.thePositions
+	18.848 - 19.743 theMdlFileData.theLinearBoneTable.theQuaternions
+	19.744 - 20.415 theMdlFileData.theLinearBoneTable.theRotations
+	20.416 - 23.103 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	23.104 - 23.775 theMdlFileData.theLinearBoneTable.thePositionScales
+	23.776 - 24.447 theMdlFileData.theLinearBoneTable.theRotationScales
+	24.448 - 25.343 theMdlFileData.theLinearBoneTable.theQAlignments
+	25.344 - 25.344 aTexturePath = 
+	25.345 - 25.350 theSurfacePropName = flesh; theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh; aBone.theSurfacePropName = flesh
+	25.351 - 25.374 aBone.theName = ValveBiped.Bip01_Pelvis
+	25.375 - 25.397 aBone.theName = ValveBiped.Bip01_Spine
+	25.398 - 25.421 aBone.theName = ValveBiped.Bip01_Spine1
+	25.422 - 25.445 aBone.theName = ValveBiped.Bip01_Spine2
+	25.446 - 25.469 aBone.theName = ValveBiped.Bip01_Spine4
+	25.470 - 25.492 aBone.theName = ValveBiped.Bip01_Neck1
+	25.493 - 25.515 aBone.theName = ValveBiped.Bip01_Head1
+	25.516 - 25.534 aBone.theName = ValveBiped.forward
+	25.535 - 25.562 aBone.theName = ValveBiped.Bip01_R_Clavicle
+	25.563 - 25.590 aBone.theName = ValveBiped.Bip01_R_UpperArm
+	25.591 - 25.617 aBone.theName = ValveBiped.Bip01_R_Forearm
+	25.618 - 25.641 aBone.theName = ValveBiped.Bip01_R_Hand
+	25.642 - 25.671 aBone.theName = ValveBiped.Anim_Attachment_RH
+	25.672 - 25.699 aBone.theName = ValveBiped.Bip01_L_Clavicle
+	25.700 - 25.727 aBone.theName = ValveBiped.Bip01_L_UpperArm
+	25.728 - 25.754 aBone.theName = ValveBiped.Bip01_L_Forearm
+	25.755 - 25.778 aBone.theName = ValveBiped.Bip01_L_Hand
+	25.779 - 25.808 aBone.theName = ValveBiped.Anim_Attachment_LH
+	25.809 - 25.833 aBone.theName = ValveBiped.Bip01_R_Thigh
+	25.834 - 25.857 aBone.theName = ValveBiped.Bip01_R_Calf
+	25.858 - 25.881 aBone.theName = ValveBiped.Bip01_R_Foot
+	25.882 - 25.905 aBone.theName = ValveBiped.Bip01_R_Toe0
+	25.906 - 25.930 aBone.theName = ValveBiped.Bip01_L_Thigh
+	25.931 - 25.954 aBone.theName = ValveBiped.Bip01_L_Calf
+	25.955 - 25.978 aBone.theName = ValveBiped.Bip01_L_Foot
+	25.979 - 26.002 aBone.theName = ValveBiped.Bip01_L_Toe0
+	26.003 - 26.029 aBone.theName = ValveBiped.Bip01_L_Finger4
+	26.030 - 26.057 aBone.theName = ValveBiped.Bip01_L_Finger41
+	26.058 - 26.085 aBone.theName = ValveBiped.Bip01_L_Finger42
+	26.086 - 26.112 aBone.theName = ValveBiped.Bip01_L_Finger3
+	26.113 - 26.140 aBone.theName = ValveBiped.Bip01_L_Finger31
+	26.141 - 26.168 aBone.theName = ValveBiped.Bip01_L_Finger32
+	26.169 - 26.195 aBone.theName = ValveBiped.Bip01_L_Finger2
+	26.196 - 26.223 aBone.theName = ValveBiped.Bip01_L_Finger21
+	26.224 - 26.251 aBone.theName = ValveBiped.Bip01_L_Finger22
+	26.252 - 26.278 aBone.theName = ValveBiped.Bip01_L_Finger1
+	26.279 - 26.306 aBone.theName = ValveBiped.Bip01_L_Finger11
+	26.307 - 26.334 aBone.theName = ValveBiped.Bip01_L_Finger12
+	26.335 - 26.361 aBone.theName = ValveBiped.Bip01_L_Finger0
+	26.362 - 26.389 aBone.theName = ValveBiped.Bip01_L_Finger01
+	26.390 - 26.417 aBone.theName = ValveBiped.Bip01_L_Finger02
+	26.418 - 26.444 aBone.theName = ValveBiped.Bip01_R_Finger4
+	26.445 - 26.472 aBone.theName = ValveBiped.Bip01_R_Finger41
+	26.473 - 26.500 aBone.theName = ValveBiped.Bip01_R_Finger42
+	26.501 - 26.527 aBone.theName = ValveBiped.Bip01_R_Finger3
+	26.528 - 26.555 aBone.theName = ValveBiped.Bip01_R_Finger31
+	26.556 - 26.583 aBone.theName = ValveBiped.Bip01_R_Finger32
+	26.584 - 26.610 aBone.theName = ValveBiped.Bip01_R_Finger2
+	26.611 - 26.638 aBone.theName = ValveBiped.Bip01_R_Finger21
+	26.639 - 26.666 aBone.theName = ValveBiped.Bip01_R_Finger22
+	26.667 - 26.693 aBone.theName = ValveBiped.Bip01_R_Finger1
+	26.694 - 26.721 aBone.theName = ValveBiped.Bip01_R_Finger11
+	26.722 - 26.749 aBone.theName = ValveBiped.Bip01_R_Finger12
+	26.750 - 26.776 aBone.theName = ValveBiped.Bip01_R_Finger0
+	26.777 - 26.804 aBone.theName = ValveBiped.Bip01_R_Finger01
+	26.805 - 26.832 aBone.theName = ValveBiped.Bip01_R_Finger02
+	26.833 - 26.837 anAttachment.theName = eyes; aFlexController.theType = eyes; aFlexController.theType = eyes
+	26.838 - 26.843 anAttachment.theName = mouth
+	26.844 - 26.849 anAttachment.theName = chest; aFlexController.theType = chest
+	26.850 - 26.857 anAttachment.theName = forward
+	26.858 - 26.876 anAttachment.theName = anim_attachment_RH
+	26.877 - 26.895 anAttachment.theName = anim_attachment_LH
+	26.896 - 26.916 anAttachment.theName = anim_attachment_head
+	26.917 - 26.924 aHitboxSet.theName = default
+	26.925 - 26.933 anAnimationDesc.theName = @ragdoll
+	26.934 - 26.941 aSeqDesc.theName = ragdoll
+	26.942 - 26.956 aSeqDesc.theActivityName = ACT_DIERAGDOLL
+	26.957 - 26.967 aBodyPart.theName = back_units
+	26.968 - 26.975 aBodyPart.theName = male_05
+	26.976 - 26.990 aFlexController.theName = head_rightleft; aFlexControllerUi.theName = head_rightleft
+	26.991 - 26.995 aFlexController.theType = head; aFlexController.theType = head; aFlexController.theType = head; aFlexController.theType = head
+	26.996 - 27.007 aFlexController.theName = head_updown; aFlexControllerUi.theName = head_updown
+	27.008 - 27.017 aFlexController.theName = head_tilt; aFlexControllerUi.theName = head_tilt
+	27.018 - 27.029 aFlexController.theName = eyes_updown; aFlexControllerUi.theName = eyes_updown
+	27.030 - 27.044 aFlexController.theName = eyes_rightleft; aFlexControllerUi.theName = eyes_rightleft
+	27.045 - 27.059 aFlexController.theName = body_rightleft; aFlexControllerUi.theName = body_rightleft
+	27.060 - 27.064 aFlexController.theType = body
+	27.065 - 27.080 aFlexController.theName = chest_rightleft; aFlexControllerUi.theName = chest_rightleft
+	27.081 - 27.097 aFlexController.theName = head_forwardback; aFlexControllerUi.theName = head_forwardback
+	27.098 - 27.112 aFlexController.theName = gesture_updown; aFlexControllerUi.theName = gesture_updown
+	27.113 - 27.120 aFlexController.theType = gesture; aFlexController.theType = gesture
+	27.121 - 27.138 aFlexController.theName = gesture_rightleft; aFlexControllerUi.theName = gesture_rightleft
+	27.139 - 27.144 anIkChain.theName = rhand
+	27.145 - 27.150 anIkChain.theName = lhand
+	27.151 - 27.156 anIkChain.theName = rfoot
+	27.157 - 27.162 anIkChain.theName = lfoot
+	27.163 - 27.191 aModelGroup.theFileName = models/player/male_anims.mdl
+	27.192 - 27.221 aModelGroup.theFileName = models/humans/male_shared.mdl
+	27.222 - 27.247 aModelGroup.theFileName = models/humans/male_ss.mdl
+	27.248 - 27.279 aModelGroup.theFileName = models/humans/male_gestures.mdl
+	27.280 - 27.311 aModelGroup.theFileName = models/humans/male_postures.mdl
+	27.312 - 27.356 aTexture.thePathFileName = models\player\male\back_unit\medic_back_unit
+	27.357 - 27.388 aTexture.thePathFileName = models\player\male\medic_helmet
+	27.389 - 27.435 aTexture.thePathFileName = models\player\male\back_unit\officer_back_unit
+	27.436 - 27.465 aTexture.thePathFileName = models\player\male\medic_body
+	27.466 - 27.478 aTexturePath = player\male\
+	27.479 - 27.498 aTexturePath = models\humans\male\
+	27.499 - 27.499 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	27.500 - 27.500 END OF FILE + 1 (File size)
+========================

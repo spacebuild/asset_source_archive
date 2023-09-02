@@ -1,0 +1,36 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.672
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@Idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [Idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = C:\3dsmax7\scenes\SB3\Storage Devices\Nitrogen\SNitrogen.smd
+	1.196 - 1.427 aModel.theMeshes 2
+	1.428 - 1.555 theMdlFileData.theTextures 2
+	1.556 - 1.559 theMdlFileData.theTexturePaths 1
+	1.560 - 1.563 theMdlFileData.theSkinFamilies 1
+	1.564 - 1.564 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.565 - 1.570 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.571 - 1.582 aBone.theName = static_prop
+	1.583 - 1.590 aHitboxSet.theName = default
+	1.591 - 1.596 anAnimationDesc.theName = @Idle
+	1.597 - 1.601 aSeqDesc.theName = Idle
+	1.602 - 1.610 aSeqDesc.theActivityName = ACT_IDLE
+	1.611 - 1.615 aBodyPart.theName = Body
+	1.616 - 1.620 aTexture.thePathFileName = tank
+	1.621 - 1.624 aTexture.thePathFileName = Red
+	1.625 - 1.671 aTexturePath = models\chipstiks_ls3_models\SmallNitrogenTank\
+	1.672 - 1.672 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,56 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.884
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = SBwalkwayE.smd
+	1.128 - 1.475 aModel.theMeshes 3
+	1.476 - 2.499 theMdlFileData.theTextures 16
+	2.500 - 2.503 theMdlFileData.theTexturePaths 1
+	2.504 - 2.663 theMdlFileData.theSkinFamilies 5
+	2.664 - 2.716 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	2.717 - 2.719 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.720 - 2.720 aSeqDesc.theActivityName = 
+	2.721 - 2.726 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.727 - 2.738 aBone.theName = static_prop
+	2.739 - 2.746 aHitboxSet.theName = default
+	2.747 - 2.752 anAnimationDesc.theName = @idle
+	2.753 - 2.757 aSeqDesc.theName = idle
+	2.758 - 2.764 aBodyPart.theName = studio
+	2.765 - 2.771 aTexture.thePathFileName = Hazard
+	2.772 - 2.776 aTexture.thePathFileName = Body
+	2.777 - 2.782 aTexture.thePathFileName = Grate
+	2.783 - 2.784 aTexture.thePathFileName = ,
+	2.785 - 2.790 aTexture.thePathFileName = Body2
+	2.791 - 2.798 aTexture.thePathFileName = Hazard2
+	2.799 - 2.805 aTexture.thePathFileName = Grate2
+	2.806 - 2.811 aTexture.thePathFileName = Body3
+	2.812 - 2.819 aTexture.thePathFileName = Hazard3
+	2.820 - 2.826 aTexture.thePathFileName = Grate3
+	2.827 - 2.832 aTexture.thePathFileName = Body4
+	2.833 - 2.840 aTexture.thePathFileName = Hazard4
+	2.841 - 2.847 aTexture.thePathFileName = Grate4
+	2.848 - 2.853 aTexture.thePathFileName = Body5
+	2.854 - 2.861 aTexture.thePathFileName = Hazard5
+	2.862 - 2.868 aTexture.thePathFileName = Grate5
+	2.869 - 2.880 aTexturePath = spacebuild\
+	2.881 - 2.883 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.884 - 2.884 END OF FILE + 1 (File size)
+========================

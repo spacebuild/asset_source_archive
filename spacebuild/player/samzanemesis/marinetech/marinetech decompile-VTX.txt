@@ -1,0 +1,28 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	161.010
+====== File Seek Log ======
+	0 - 35 VTX File Header (Actual version: 7; override version: 7); VTX File Header (Actual version: 7; override version: 7)
+	36 - 51 theVtxFileData.theVtxBodyParts 2
+	52 - 59 aBodyPart.theVtxModels 1
+	60 - 67 aBodyPart.theVtxModels 1
+	68 - 79 aModel.theVtxModelLods 1
+	80 - 91 aModel.theVtxModelLods 1
+	92 - 100 aModelLod.theVtxMeshes 1
+	101 - 118 aModelLod.theVtxMeshes 2
+	119 - 143 aMesh.theVtxStripGroups 1
+	144 - 168 aMesh.theVtxStripGroups 1
+	169 - 193 aMesh.theVtxStripGroups 1
+	194 - 220 aStripGroup.theVtxStrips 1
+	221 - 247 aStripGroup.theVtxStrips 1
+	248 - 274 aStripGroup.theVtxStrips 1
+	275 - 16.348 aStripGroup.theVtxVertexes 1786
+	16.349 - 84.874 aStripGroup.theVtxVertexes 7614
+	84.875 - 95.827 aStripGroup.theVtxVertexes 1217
+	95.828 - 104.677 aStripGroup.theVtxIndexes 4425
+	104.678 - 147.265 aStripGroup.theVtxIndexes 21294
+	147.266 - 160.729 aStripGroup.theVtxIndexes 6732
+	160.730 - 161.001 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 03 00 00 00 00 00 00 00 18 00 00 00 01 00 00 00 19 ... ]
+	161.002 - 161.009 theVtxFileData.theVtxMaterialReplacementLists 1
+	161.010 - 161.010 END OF FILE + 1 (File size)
+========================

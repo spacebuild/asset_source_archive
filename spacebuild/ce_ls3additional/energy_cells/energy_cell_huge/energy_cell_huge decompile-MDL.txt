@@ -1,0 +1,39 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.124
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = energy_cell_huge.SMD
+	1.460 - 1.807 aModel.theMeshes 3
+	1.808 - 1.999 theMdlFileData.theTextures 3
+	2.000 - 2.003 theMdlFileData.theTexturePaths 1
+	2.004 - 2.009 theMdlFileData.theSkinFamilies 1
+	2.010 - 2.011 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.012 - 2.012 aSeqDesc.theActivityName = 
+	2.013 - 2.018 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	2.019 - 2.030 aBone.theName = static_prop
+	2.031 - 2.038 aHitboxSet.theName = default
+	2.039 - 2.044 anAnimationDesc.theName = @idle
+	2.045 - 2.049 aSeqDesc.theName = idle
+	2.050 - 2.056 aBodyPart.theName = studio
+	2.057 - 2.074 aTexture.thePathFileName = energycell_border
+	2.075 - 2.090 aTexture.thePathFileName = energycell_glow
+	2.091 - 2.121 aTexturePath = ce_ls3additional\energy_cells\
+	2.122 - 2.123 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.124 - 2.124 END OF FILE + 1 (File size)
+========================

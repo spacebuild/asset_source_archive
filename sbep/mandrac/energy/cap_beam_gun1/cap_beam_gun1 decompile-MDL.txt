@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.088
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = cap_beam_gun1.smd
+	1.196 - 1.659 aModel.theMeshes 4
+	1.660 - 1.915 theMdlFileData.theTextures 4
+	1.916 - 1.919 theMdlFileData.theTexturePaths 1
+	1.920 - 1.927 theMdlFileData.theSkinFamilies 1
+	1.928 - 1.980 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "metal.large"  }
+}
+
+	1.981 - 1.983 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.984 - 1.984 aSeqDesc.theActivityName = 
+	1.985 - 1.998 theSurfacePropName = combine_metal; theSurfacePropName = combine_metal; aBone.theSurfacePropName = combine_metal
+	1.999 - 2.010 aBone.theName = static_prop
+	2.011 - 2.018 aHitboxSet.theName = default
+	2.019 - 2.024 anAnimationDesc.theName = @idle
+	2.025 - 2.029 aSeqDesc.theName = idle
+	2.030 - 2.036 aBodyPart.theName = studio
+	2.037 - 2.048 aTexture.thePathFileName = aligner1gj1
+	2.049 - 2.054 aTexture.thePathFileName = Body3
+	2.055 - 2.061 aTexture.thePathFileName = Fusion
+	2.062 - 2.073 aTexture.thePathFileName = lwmetal1nc1
+	2.074 - 2.085 aTexturePath = spacebuild\
+	2.086 - 2.087 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.088 - 2.088 END OF FILE + 1 (File size)
+========================

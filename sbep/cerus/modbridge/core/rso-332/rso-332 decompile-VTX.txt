@@ -1,0 +1,54 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	47.915
+====== File Seek Log ======
+	0 - 35 VTX File Header (Actual version: 7; override version: 7); VTX File Header (Actual version: 7; override version: 7)
+	36 - 43 theVtxFileData.theVtxBodyParts 1
+	44 - 51 aBodyPart.theVtxModels 1
+	52 - 75 aModel.theVtxModelLods 2
+	76 - 129 aModelLod.theVtxMeshes 6
+	130 - 183 aModelLod.theVtxMeshes 6
+	184 - 208 aMesh.theVtxStripGroups 1
+	209 - 233 aMesh.theVtxStripGroups 1
+	234 - 258 aMesh.theVtxStripGroups 1
+	259 - 283 aMesh.theVtxStripGroups 1
+	284 - 308 aMesh.theVtxStripGroups 1
+	309 - 333 aMesh.theVtxStripGroups 1
+	334 - 358 aMesh.theVtxStripGroups 1
+	359 - 383 aMesh.theVtxStripGroups 1
+	384 - 408 aMesh.theVtxStripGroups 1
+	409 - 433 aMesh.theVtxStripGroups 1
+	434 - 460 aStripGroup.theVtxStrips 1
+	461 - 487 aStripGroup.theVtxStrips 1
+	488 - 514 aStripGroup.theVtxStrips 1
+	515 - 541 aStripGroup.theVtxStrips 1
+	542 - 568 aStripGroup.theVtxStrips 1
+	569 - 595 aStripGroup.theVtxStrips 1
+	596 - 622 aStripGroup.theVtxStrips 1
+	623 - 649 aStripGroup.theVtxStrips 1
+	650 - 676 aStripGroup.theVtxStrips 1
+	677 - 703 aStripGroup.theVtxStrips 1
+	704 - 1.279 aStripGroup.theVtxVertexes 64
+	1.280 - 12.169 aStripGroup.theVtxVertexes 1210
+	12.170 - 26.884 aStripGroup.theVtxVertexes 1635
+	26.885 - 26.920 aStripGroup.theVtxVertexes 4
+	26.921 - 27.748 aStripGroup.theVtxVertexes 92
+	27.749 - 34.606 aStripGroup.theVtxVertexes 762
+	34.607 - 35.182 aStripGroup.theVtxVertexes 64
+	35.183 - 35.254 aStripGroup.theVtxVertexes 8
+	35.255 - 35.290 aStripGroup.theVtxVertexes 4
+	35.291 - 35.326 aStripGroup.theVtxVertexes 4
+	35.327 - 35.518 aStripGroup.theVtxIndexes 96
+	35.519 - 39.358 aStripGroup.theVtxIndexes 1920
+	39.359 - 44.722 aStripGroup.theVtxIndexes 2682
+	44.723 - 44.734 aStripGroup.theVtxIndexes 6
+	44.735 - 45.010 aStripGroup.theVtxIndexes 138
+	45.011 - 47.578 aStripGroup.theVtxIndexes 1284
+	47.579 - 47.770 aStripGroup.theVtxIndexes 96
+	47.771 - 47.794 aStripGroup.theVtxIndexes 12
+	47.795 - 47.806 aStripGroup.theVtxIndexes 6
+	47.807 - 47.818 aStripGroup.theVtxIndexes 6
+	47.819 - 47.898 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ... ]
+	47.899 - 47.914 theVtxFileData.theVtxMaterialReplacementLists 2
+	47.915 - 47.915 END OF FILE + 1 (File size)
+========================

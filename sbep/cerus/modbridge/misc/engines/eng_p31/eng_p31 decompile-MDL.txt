@@ -1,0 +1,48 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.168
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.083 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.084 - 1.087 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.088 - 1.299 theMdlFileData.theSequenceDescs 1
+	1.300 - 1.303 aSeqDesc.theBoneWeights [idle] 1
+	1.304 - 1.305 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.306 - 1.307 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.308 - 1.323 theMdlFileData.theBodyParts 1
+	1.324 - 1.471 aModel Name = ENG_P31.smd
+	1.472 - 1.819 aModel.theMeshes 3
+	1.820 - 2.011 theMdlFileData.theTextures 3
+	2.012 - 2.015 theMdlFileData.theTexturePaths 1
+	2.016 - 2.021 theMdlFileData.theSkinFamilies 1
+	2.022 - 2.023 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.024 - 2.077 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	2.078 - 2.079 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	2.080 - 2.080 aSeqDesc.theActivityName = 
+	2.081 - 2.086 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.087 - 2.093 aBone.theName = joint0
+	2.094 - 2.101 aHitboxSet.theName = default
+	2.102 - 2.107 anAnimationDesc.theName = @idle
+	2.108 - 2.112 aSeqDesc.theName = idle
+	2.113 - 2.119 aBodyPart.theName = studio
+	2.120 - 2.135 aTexture.thePathFileName = Base_Metal_Rust
+	2.136 - 2.152 aTexture.thePathFileName = Base_Dark_Border
+	2.153 - 2.158 aTexture.thePathFileName = light
+	2.159 - 2.165 aTexturePath = Cmats\
+	2.166 - 2.167 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.168 - 2.168 END OF FILE + 1 (File size)
+========================

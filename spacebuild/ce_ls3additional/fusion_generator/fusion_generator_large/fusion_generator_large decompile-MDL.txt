@@ -1,0 +1,58 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	4.096
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 1.743 theMdlFileData.theBones 5
+	1.744 - 1.755 theMdlFileData.theHitboxSets 1
+	1.756 - 2.095 aHitboxSet.theHitboxes 5
+	2.096 - 2.100 theMdlFileData.theBoneTableByName
+	2.101 - 2.103 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.104 - 2.203 theMdlFileData.theAnimationDescs 1
+	2.204 - 2.207 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 ]
+	2.208 - 2.219 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	2.220 - 2.231 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	2.232 - 2.243 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	2.244 - 2.255 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	2.256 - 2.267 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	2.268 - 2.271 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	2.272 - 2.483 theMdlFileData.theSequenceDescs 1
+	2.484 - 2.503 aSeqDesc.theBoneWeights [idle] 5
+	2.504 - 2.505 aSeqDesc.theAnimDescIndexes [idle] 1
+	2.506 - 2.507 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.508 - 2.523 theMdlFileData.theBodyParts 1
+	2.524 - 2.671 aModel Name = fusion_generator_large.SMD
+	2.672 - 3.019 aModel.theMeshes 3
+	3.020 - 3.211 theMdlFileData.theTextures 3
+	3.212 - 3.215 theMdlFileData.theTexturePaths 1
+	3.216 - 3.221 theMdlFileData.theSkinFamilies 1
+	3.222 - 3.223 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	3.224 - 3.287 theMdlFileData.theLinearBoneTable header
+	3.288 - 3.307 theMdlFileData.theLinearBoneTable.theFlags
+	3.308 - 3.327 theMdlFileData.theLinearBoneTable.theParents
+	3.328 - 3.387 theMdlFileData.theLinearBoneTable.thePositions
+	3.388 - 3.467 theMdlFileData.theLinearBoneTable.theQuaternions
+	3.468 - 3.527 theMdlFileData.theLinearBoneTable.theRotations
+	3.528 - 3.767 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	3.768 - 3.827 theMdlFileData.theLinearBoneTable.thePositionScales
+	3.828 - 3.887 theMdlFileData.theLinearBoneTable.theRotationScales
+	3.888 - 3.967 theMdlFileData.theLinearBoneTable.theQAlignments
+	3.968 - 3.968 aSeqDesc.theActivityName = 
+	3.969 - 3.974 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	3.975 - 3.983 aBone.theName = Quader06
+	3.984 - 3.991 aBone.theName = Shields
+	3.992 - 4.001 aBone.theName = Shields01
+	4.002 - 4.011 aBone.theName = Shields02
+	4.012 - 4.021 aBone.theName = Shields03
+	4.022 - 4.029 aHitboxSet.theName = default
+	4.030 - 4.035 anAnimationDesc.theName = @idle
+	4.036 - 4.040 aSeqDesc.theName = idle
+	4.041 - 4.047 aBodyPart.theName = studio
+	4.048 - 4.054 aTexture.thePathFileName = border
+	4.055 - 4.059 aTexture.thePathFileName = glow
+	4.060 - 4.094 aTexturePath = ce_ls3additional\fusion_generator\
+	4.095 - 4.095 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	4.096 - 4.096 END OF FILE + 1 (File size)
+========================

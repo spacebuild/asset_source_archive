@@ -1,0 +1,73 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	8.012
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 3.687 theMdlFileData.theBones 14
+	3.688 - 3.699 theMdlFileData.theHitboxSets 1
+	3.700 - 4.651 aHitboxSet.theHitboxes 14
+	4.652 - 4.665 theMdlFileData.theBoneTableByName
+	4.666 - 4.667 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	4.668 - 4.767 theMdlFileData.theAnimationDescs 1
+	4.768 - 4.785 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.786 - 4.803 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.804 - 4.821 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.822 - 4.839 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.840 - 4.857 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.858 - 4.875 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.876 - 4.893 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.894 - 4.911 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.912 - 4.929 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.930 - 4.947 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.948 - 4.965 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.966 - 4.983 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	4.984 - 5.001 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	5.002 - 5.019 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	5.020 - 5.023 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	5.024 - 5.235 theMdlFileData.theSequenceDescs 1
+	5.236 - 5.291 aSeqDesc.theBoneWeights [idle] 14
+	5.292 - 5.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	5.294 - 5.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	5.296 - 5.311 theMdlFileData.theBodyParts 1
+	5.312 - 5.459 aModel Name = ts_cannon.SMD
+	5.460 - 5.691 aModel.theMeshes 2
+	5.692 - 5.819 theMdlFileData.theTextures 2
+	5.820 - 5.823 theMdlFileData.theTexturePaths 1
+	5.824 - 5.827 theMdlFileData.theSkinFamilies 1
+	5.828 - 5.891 theMdlFileData.theLinearBoneTable header
+	5.892 - 5.947 theMdlFileData.theLinearBoneTable.theFlags
+	5.948 - 6.003 theMdlFileData.theLinearBoneTable.theParents
+	6.004 - 6.171 theMdlFileData.theLinearBoneTable.thePositions
+	6.172 - 6.395 theMdlFileData.theLinearBoneTable.theQuaternions
+	6.396 - 6.563 theMdlFileData.theLinearBoneTable.theRotations
+	6.564 - 7.235 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	7.236 - 7.403 theMdlFileData.theLinearBoneTable.thePositionScales
+	7.404 - 7.571 theMdlFileData.theLinearBoneTable.theRotationScales
+	7.572 - 7.795 theMdlFileData.theLinearBoneTable.theQAlignments
+	7.796 - 7.796 aSeqDesc.theActivityName = 
+	7.797 - 7.802 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	7.803 - 7.813 aBone.theName = Zylinder08
+	7.814 - 7.824 aBone.theName = Zylinder09
+	7.825 - 7.835 aBone.theName = Zylinder10
+	7.836 - 7.846 aBone.theName = Zylinder11
+	7.847 - 7.855 aBone.theName = Quader01
+	7.856 - 7.864 aBone.theName = Quader02
+	7.865 - 7.873 aBone.theName = Quader03
+	7.874 - 7.882 aBone.theName = Quader04
+	7.883 - 7.893 aBone.theName = Zylinder01
+	7.894 - 7.904 aBone.theName = Zylinder04
+	7.905 - 7.915 aBone.theName = Zylinder06
+	7.916 - 7.926 aBone.theName = Zylinder02
+	7.927 - 7.937 aBone.theName = Zylinder13
+	7.938 - 7.948 aBone.theName = Zylinder03
+	7.949 - 7.956 aHitboxSet.theName = default
+	7.957 - 7.962 anAnimationDesc.theName = @idle
+	7.963 - 7.967 aSeqDesc.theName = idle
+	7.968 - 7.974 aBodyPart.theName = studio
+	7.975 - 7.981 aTexture.thePathFileName = border
+	7.982 - 8.009 aTexturePath = ce_ls3additional\ts_cannon\
+	8.010 - 8.011 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	8.012 - 8.012 END OF FILE + 1 (File size)
+========================

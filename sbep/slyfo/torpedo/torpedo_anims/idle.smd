@@ -1,0 +1,13 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "Torp" -1
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 -20.134001 0.000000 0.000000 -1.570796   # pos: desc_bone   rot: desc_bone
+  time 1
+    0 0.000000 0.000000 -20.134001 0.000000 0.000000 -1.570796   # pos: desc_bone   rot: desc_bone
+  time 2
+    0 0.000000 0.000000 -20.134001 0.000000 0.000000 -1.570796   # pos: desc_bone   rot: desc_bone
+end

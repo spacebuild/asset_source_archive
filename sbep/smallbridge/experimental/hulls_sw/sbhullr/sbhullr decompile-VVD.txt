@@ -1,0 +1,9 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	237.824
+====== File Seek Log ======
+	0 - 63 VVD File Header
+	64 - 178.383 theVertexes 3715
+	178.384 - 237.823 theTangents 3715
+	237.824 - 237.824 END OF FILE + 1 (File size)
+========================

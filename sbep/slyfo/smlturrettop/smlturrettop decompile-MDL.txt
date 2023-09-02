@@ -1,0 +1,48 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.220
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = SMLturrettop_detail.smd
+	1.128 - 1.359 aModel.theMeshes 2
+	1.360 - 1.871 theMdlFileData.theTextures 8
+	1.872 - 1.875 theMdlFileData.theTexturePaths 1
+	1.876 - 1.987 theMdlFileData.theSkinFamilies 7
+	1.988 - 2.040 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	2.041 - 2.043 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.044 - 2.044 aSeqDesc.theActivityName = 
+	2.045 - 2.050 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.051 - 2.062 aBone.theName = static_prop
+	2.063 - 2.070 aHitboxSet.theName = default
+	2.071 - 2.076 anAnimationDesc.theName = @idle
+	2.077 - 2.081 aSeqDesc.theName = idle
+	2.082 - 2.088 aBodyPart.theName = studio
+	2.089 - 2.101 aTexture.thePathFileName = darkconcrete
+	2.102 - 2.112 aTexture.thePathFileName = grungewall
+	2.113 - 2.127 aTexture.thePathFileName = grungewallblue
+	2.128 - 2.144 aTexture.thePathFileName = grungewallpurple
+	2.145 - 2.161 aTexture.thePathFileName = grungewallorange
+	2.162 - 2.177 aTexture.thePathFileName = grungewallblack
+	2.178 - 2.192 aTexture.thePathFileName = grungewallteal
+	2.193 - 2.204 aTexture.thePathFileName = badconcrete
+	2.205 - 2.216 aTexturePath = spacebuild\
+	2.217 - 2.219 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.220 - 2.220 END OF FILE + 1 (File size)
+========================

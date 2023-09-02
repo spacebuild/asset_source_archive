@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.936
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 892 theMdlFileData.theBoneTableByName
+	893 - 895 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	896 - 995 theMdlFileData.theAnimationDescs 1
+	996 - 1.007 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.008 - 1.011 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.012 - 1.223 theMdlFileData.theSequenceDescs 1
+	1.224 - 1.227 aSeqDesc.theBoneWeights [idle] 1
+	1.228 - 1.229 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.230 - 1.231 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.232 - 1.247 theMdlFileData.theBodyParts 1
+	1.248 - 1.395 aModel Name = ore.SMD
+	1.396 - 1.511 aModel.theMeshes 1
+	1.512 - 1.767 theMdlFileData.theTextures 4
+	1.768 - 1.771 theMdlFileData.theTexturePaths 1
+	1.772 - 1.803 theMdlFileData.theSkinFamilies 4
+	1.804 - 1.855 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Stone.Huge"  }
+}
+
+	1.856 - 1.856 aSeqDesc.theActivityName = 
+	1.857 - 1.861 theSurfacePropName = rock; theSurfacePropName = rock; aBone.theSurfacePropName = rock
+	1.862 - 1.873 aBone.theName = static_prop
+	1.874 - 1.881 aHitboxSet.theName = default
+	1.882 - 1.887 anAnimationDesc.theName = @idle
+	1.888 - 1.892 aSeqDesc.theName = idle
+	1.893 - 1.899 aBodyPart.theName = studio
+	1.900 - 1.903 aTexture.thePathFileName = Ore
+	1.904 - 1.908 aTexture.thePathFileName = Ore2
+	1.909 - 1.913 aTexture.thePathFileName = Ore3
+	1.914 - 1.918 aTexture.thePathFileName = Ore4
+	1.919 - 1.932 aTexturePath = models\metal\
+	1.933 - 1.935 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	1.936 - 1.936 END OF FILE + 1 (File size)
+========================

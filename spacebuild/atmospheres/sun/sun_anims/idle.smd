@@ -1,0 +1,11 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "Bone01" -1
+end
+skeleton
+  time 0
+    0 -0.000060 0.000000 1400.000000 0.000000 1.570796 3.141544   # pos: bone   rot: anim+bone
+  time 1
+    0 -0.000060 0.000000 1400.000000 0.000000 1.570796 3.141544   # pos: bone   rot: anim+bone
+end

@@ -1,0 +1,48 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.136
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 892 theMdlFileData.theBoneTableByName
+	893 - 895 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	896 - 995 theMdlFileData.theAnimationDescs 1
+	996 - 1.007 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.008 - 1.011 anAnimationDesc.anAnimation [@open] (boneIndex = 255)
+	1.012 - 1.435 theMdlFileData.theSequenceDescs 2
+	1.436 - 1.439 aSeqDesc.theBoneWeights [open] 1
+	1.440 - 1.441 aSeqDesc.theAnimDescIndexes [open] 1
+	1.442 - 1.443 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.444 - 1.447 aSeqDesc.theBoneWeights [close] 1
+	1.448 - 1.449 aSeqDesc.theAnimDescIndexes [close] 1
+	1.450 - 1.451 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.452 - 1.467 theMdlFileData.theBodyParts 1
+	1.468 - 1.615 aModel Name = d12MBDoorN.smd
+	1.616 - 1.847 aModel.theMeshes 2
+	1.848 - 1.975 theMdlFileData.theTextures 2
+	1.976 - 1.979 theMdlFileData.theTexturePaths 1
+	1.980 - 1.983 theMdlFileData.theSkinFamilies 1
+	1.984 - 2.037 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	2.038 - 2.039 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	2.040 - 2.040 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	2.041 - 2.046 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.047 - 2.058 aBone.theName = static_prop
+	2.059 - 2.066 aHitboxSet.theName = default
+	2.067 - 2.072 anAnimationDesc.theName = @open
+	2.073 - 2.077 aSeqDesc.theName = open
+	2.078 - 2.083 aSeqDesc.theName = close
+	2.084 - 2.090 aBodyPart.theName = studio
+	2.091 - 2.108 aTexture.thePathFileName = sbmetalfloor01bs8
+	2.109 - 2.121 aTexture.thePathFileName = MetalSet_1-2
+	2.122 - 2.133 aTexturePath = spacebuild\
+	2.134 - 2.135 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.136 - 2.136 END OF FILE + 1 (File size)
+========================

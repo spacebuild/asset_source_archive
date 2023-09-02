@@ -1,0 +1,42 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	27.097
+====== File Seek Log ======
+	0 - 15 Header
+	16 - 1.487 Solid(0)   Convex mesh count = 1   Bone indexes:  0
+	1.488 - 1.515 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 90 FA FF FF 00 1F AD 3A 00 F7 6F 3C 49 7C 7F 3D B5 ... ]
+	1.516 - 2.747 Solid(1)   Convex mesh count = 1   Bone indexes:  56
+	2.748 - 2.775 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 80 FB FF FF E7 F3 4F 3E 70 A7 0F BB 14 C3 D7 3C 25 ... ]
+	2.776 - 3.911 Solid(2)   Convex mesh count = 1   Bone indexes:  57
+	3.912 - 3.939 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 E0 FB FF FF 6D 06 5F 3E 00 9E EC B9 94 2B 98 3C 84 ... ]
+	3.940 - 5.123 Solid(3)   Convex mesh count = 1   Bone indexes:  52
+	5.124 - 5.151 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 B0 FB FF FF 81 2B 50 3E 10 D1 A1 3B 80 B6 D7 3C A6 ... ]
+	5.152 - 6.239 Solid(4)   Convex mesh count = 1   Bone indexes:  53
+	6.240 - 6.267 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 10 FC FF FF 71 66 5E 3E 20 9A 59 BB FC 4B 98 3C 25 ... ]
+	6.268 - 6.875 Solid(5)   Convex mesh count = 1   Bone indexes:  54
+	6.876 - 6.903 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 F0 FD FF FF 10 62 A0 3D 30 D2 3B BC 0C 9D 7B 3C B1 ... ]
+	6.904 - 8.807 Solid(6)   Convex mesh count = 1   Bone indexes:  3
+	8.808 - 8.835 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 E0 F8 FF FF 72 B9 74 3D C0 18 AD BA 76 00 50 3D 4A ... ]
+	8.836 - 10.019 Solid(7)   Convex mesh count = 1   Bone indexes:  29
+	10.020 - 10.047 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 B0 FB FF FF 50 C1 0F 3E DC 26 FC BB 7A 30 98 3C 5A ... ]
+	10.048 - 11.183 Solid(8)   Convex mesh count = 1   Bone indexes:  30
+	11.184 - 11.211 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 E0 FB FF FF A4 73 0B 3E 48 E2 67 BB 00 AD E6 BA 96 ... ]
+	11.212 - 12.347 Solid(9)   Convex mesh count = 1   Bone indexes:  9
+	12.348 - 12.375 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 E0 FB FF FF C9 C0 0F 3E F8 68 F8 3B BC 34 98 3C B0 ... ]
+	12.376 - 13.463 Solid(10)   Convex mesh count = 1   Bone indexes:  10
+	13.464 - 13.491 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 10 FC FF FF 14 73 0B 3E 28 D2 67 3B 18 0D 50 3B 43 ... ]
+	13.492 - 14.195 Solid(11)   Convex mesh count = 1   Bone indexes:  11
+	14.196 - 14.223 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 90 FD FF FF 45 45 9C 3D 26 9A 32 BD C3 DD 8B BC 91 ... ]
+	14.224 - 18.863 Solid(12)   Convex mesh count = 1   Bone indexes:  6
+	18.864 - 18.891 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 30 EE FF FF 4B 3F 74 3D A0 B4 9D BA E9 81 17 BD 9D ... ]
+	18.892 - 19.595 Solid(13)   Convex mesh count = 1   Bone indexes:  31
+	19.596 - 19.623 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 90 FD FF FF 95 2C B3 3D A2 21 34 3D 28 0A C8 BC FE ... ]
+	19.624 - 20.231 Solid(14)   Convex mesh count = 1   Bone indexes:  58
+	20.232 - 20.259 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 F0 FD FF FF 72 89 A0 3D E8 4B 52 3C 00 E6 7B 3C D9 ... ]
+	20.260 - 23.546 Properties
+	23.547 - 26.776 Ragdoll constraints
+	26.777 - 26.956 Animated Friction
+	26.957 - 27.095 Edit params
+	27.096 - 27.096 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	27.097 - 27.097 END OF FILE + 1 (File size)
+========================

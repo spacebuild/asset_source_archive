@@ -1,0 +1,49 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.048
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = Flak1.smd
+	1.196 - 2.239 aModel.theMeshes 9
+	2.240 - 2.815 theMdlFileData.theTextures 9
+	2.816 - 2.819 theMdlFileData.theTexturePaths 1
+	2.820 - 2.837 theMdlFileData.theSkinFamilies 1
+	2.838 - 2.839 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.840 - 2.892 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Small"  }
+}
+
+	2.893 - 2.895 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.896 - 2.896 aSeqDesc.theActivityName = 
+	2.897 - 2.904 theSurfacePropName = default; theSurfacePropName = default; aBone.theSurfacePropName = default; aHitboxSet.theName = default
+	2.905 - 2.916 aBone.theName = static_prop
+	2.917 - 2.922 anAnimationDesc.theName = @idle
+	2.923 - 2.927 aSeqDesc.theName = idle
+	2.928 - 2.934 aBodyPart.theName = studio
+	2.935 - 2.946 aTexture.thePathFileName = DirtyPlate2
+	2.947 - 2.952 aTexture.thePathFileName = Black
+	2.953 - 2.965 aTexture.thePathFileName = sbmetal02eb5
+	2.966 - 2.977 aTexture.thePathFileName = DirtyPlate3
+	2.978 - 2.990 aTexture.thePathFileName = MetalSet_1-2
+	2.991 - 3.008 aTexture.thePathFileName = sbmetalfloor01bs8
+	3.009 - 3.014 aTexture.thePathFileName = light
+	3.015 - 3.020 aTexture.thePathFileName = tapey
+	3.021 - 3.035 aTexture.thePathFileName = Metalfloor_2-3
+	3.036 - 3.047 aTexturePath = spacebuild\
+	3.048 - 3.048 END OF FILE + 1 (File size)
+========================

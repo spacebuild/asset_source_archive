@@ -1,0 +1,44 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.524
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 817 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	818 - 821 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	822 - 823 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	824 - 1.035 theMdlFileData.theSequenceDescs 1
+	1.036 - 1.039 aSeqDesc.theBoneWeights [Idle] 1
+	1.040 - 1.041 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.042 - 1.043 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.044 - 1.059 theMdlFileData.theBodyParts 1
+	1.060 - 1.207 aModel Name = D:\Program Files\Autodesk\3dsMax8\meshes\aamissile.smd
+	1.208 - 1.323 aModel.theMeshes 1
+	1.324 - 1.387 theMdlFileData.theTextures 1
+	1.388 - 1.391 theMdlFileData.theTexturePaths 1
+	1.392 - 1.393 theMdlFileData.theSkinFamilies 1
+	1.394 - 1.395 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.396 - 1.442 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {"base" metal.small }
+
+	1.443 - 1.443 theMdlFileData.theKeyValuesText alignment [ 00 ]
+	1.444 - 1.444 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.445 - 1.450 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.451 - 1.461 aBone.theName = Cylinder01
+	1.462 - 1.469 aHitboxSet.theName = default
+	1.470 - 1.475 anAnimationDesc.theName = @Idle
+	1.476 - 1.480 aSeqDesc.theName = Idle
+	1.481 - 1.489 aSeqDesc.theActivityName = ACT_IDLE
+	1.490 - 1.494 aBodyPart.theName = Body
+	1.495 - 1.504 aTexture.thePathFileName = aamissile
+	1.505 - 1.522 aTexturePath = models\aamissile\
+	1.523 - 1.523 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.524 - 1.524 END OF FILE + 1 (File size)
+========================

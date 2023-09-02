@@ -1,0 +1,13 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "Bone" -1
+  1 "Right" 0
+  2 "Left" 0
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 -1.570796 1.570796   # pos: desc_bone   rot: desc_bone
+    1 24.999996 12.500000 37.500000 0.000000 -1.570796 -3.141592   # pos: desc_bone   rot: desc_bone
+    2 24.999996 -12.500000 37.500000 0.000000 -1.570796 -3.141592   # pos: desc_bone   rot: desc_bone
+end

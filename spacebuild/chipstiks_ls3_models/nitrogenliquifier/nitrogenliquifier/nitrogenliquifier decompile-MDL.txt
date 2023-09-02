@@ -1,0 +1,76 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	7.064
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 3.863 theMdlFileData.theBones 16
+	3.864 - 3.875 theMdlFileData.theHitboxSets 1
+	3.876 - 4.827 aHitboxSet.theHitboxes 14
+	4.828 - 4.843 theMdlFileData.theBoneTableByName
+	4.844 - 4.943 theMdlFileData.theAnimationDescs 1
+	4.944 - 4.959 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	4.960 - 4.975 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	4.976 - 4.991 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	4.992 - 5.007 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.008 - 5.023 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.024 - 5.039 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.040 - 5.055 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.056 - 5.071 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.072 - 5.087 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.088 - 5.103 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.104 - 5.119 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.120 - 5.135 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.136 - 5.151 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.152 - 5.167 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.168 - 5.183 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.184 - 5.199 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	5.200 - 5.203 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	5.204 - 5.415 theMdlFileData.theSequenceDescs 1
+	5.416 - 5.479 aSeqDesc.theBoneWeights [Idle] 16
+	5.480 - 5.481 aSeqDesc.theAnimDescIndexes [Idle] 1
+	5.482 - 5.483 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	5.484 - 5.499 theMdlFileData.theBodyParts 1
+	5.500 - 5.647 aModel Name = C:\3dsmax7\scenes\SB3\Generators\NitrogenLiquifier\NitrogenLiqui
+	5.648 - 6.343 aModel.theMeshes 6
+	6.344 - 6.727 theMdlFileData.theTextures 6
+	6.728 - 6.731 theMdlFileData.theTexturePaths 1
+	6.732 - 6.743 theMdlFileData.theSkinFamilies 1
+	6.744 - 6.790 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {"base" Metal.Large }
+
+	6.791 - 6.791 theMdlFileData.theKeyValuesText alignment [ 00 ]
+	6.792 - 6.792 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	6.793 - 6.798 theSurfacePropName = Metal; theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal; aBone.theSurfacePropName = Metal
+	6.799 - 6.808 aBone.theName = Capsule01
+	6.809 - 6.815 aBone.theName = Loft02
+	6.816 - 6.822 aBone.theName = Loft03
+	6.823 - 6.835 aBone.theName = ChamferBox01
+	6.836 - 6.846 aBone.theName = Cylinder01
+	6.847 - 6.857 aBone.theName = Cylinder02
+	6.858 - 6.863 aBone.theName = Box01
+	6.864 - 6.874 aBone.theName = Cylinder03
+	6.875 - 6.885 aBone.theName = Cylinder04
+	6.886 - 6.892 aBone.theName = Loft01
+	6.893 - 6.899 aBone.theName = Loft04
+	6.900 - 6.910 aBone.theName = Cylinder05
+	6.911 - 6.921 aBone.theName = Cylinder06
+	6.922 - 6.927 aBone.theName = Box02
+	6.928 - 6.933 aBone.theName = Box03
+	6.934 - 6.944 aBone.theName = FrontGrill
+	6.945 - 6.952 aHitboxSet.theName = default
+	6.953 - 6.958 anAnimationDesc.theName = @Idle
+	6.959 - 6.963 aSeqDesc.theName = Idle
+	6.964 - 6.972 aSeqDesc.theActivityName = ACT_IDLE
+	6.973 - 6.977 aBodyPart.theName = Body
+	6.978 - 6.982 aTexture.thePathFileName = tank
+	6.983 - 6.988 aTexture.thePathFileName = metal
+	6.989 - 6.994 aTexture.thePathFileName = pipe2
+	6.995 - 6.999 aTexture.thePathFileName = pipe
+	7.000 - 7.004 aTexture.thePathFileName = Sign
+	7.005 - 7.014 aTexture.thePathFileName = frontvent
+	7.015 - 7.061 aTexturePath = models\chipstiks_ls3_models\NitrogenLiquifier\
+	7.062 - 7.063 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	7.064 - 7.064 END OF FILE + 1 (File size)
+========================

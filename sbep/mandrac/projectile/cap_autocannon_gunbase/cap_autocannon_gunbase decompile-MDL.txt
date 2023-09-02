@@ -1,0 +1,45 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.900
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = cap_autocannon_gunbase.smd
+	1.196 - 1.543 aModel.theMeshes 3
+	1.544 - 1.735 theMdlFileData.theTextures 3
+	1.736 - 1.739 theMdlFileData.theTexturePaths 1
+	1.740 - 1.745 theMdlFileData.theSkinFamilies 1
+	1.746 - 1.747 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.748 - 1.800 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "metal.large"  }
+}
+
+	1.801 - 1.803 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.804 - 1.804 aSeqDesc.theActivityName = 
+	1.805 - 1.818 theSurfacePropName = combine_metal; theSurfacePropName = combine_metal; aBone.theSurfacePropName = combine_metal
+	1.819 - 1.830 aBone.theName = static_prop
+	1.831 - 1.838 aHitboxSet.theName = default
+	1.839 - 1.844 anAnimationDesc.theName = @idle
+	1.845 - 1.849 aSeqDesc.theName = idle
+	1.850 - 1.856 aBodyPart.theName = studio
+	1.857 - 1.861 aTexture.thePathFileName = Body
+	1.862 - 1.873 aTexture.thePathFileName = aligner1gj1
+	1.874 - 1.885 aTexture.thePathFileName = DirtyPlate2
+	1.886 - 1.897 aTexturePath = spacebuild\
+	1.898 - 1.899 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.900 - 1.900 END OF FILE + 1 (File size)
+========================

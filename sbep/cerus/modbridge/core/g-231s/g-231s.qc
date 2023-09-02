@@ -1,0 +1,67 @@
+// Created by Crowbar 0.74
+
+$ModelName "Cerus/Modbridge/Core/G-231S.mdl"
+
+$BodyGroup "studio"
+{
+	studio "g-231s_G231S.smd"
+}
+
+
+$SurfaceProp "metal"
+
+$Contents "solid"
+
+$IllumPosition 0 -82.5 0.001
+
+$CDMaterials "Cmats\"
+
+// This list shows the VMT file names used in the SMD files.
+// "Base_Tile.vmt"
+// "glass.vmt"
+// "Base_Dark_Border.vmt"
+// "Base_Metal_Floor.vmt"
+// "Base_Tile.vmt"
+// "light.vmt"
+// "Base_Metal_Light.vmt"
+
+// Clipping box or view bounding box.
+$CBox 0 0 0 0 0 0
+
+// Bounding box or hull. Used for collision with a world object.
+$BBox -75.25 -225.25 -75.25 240.248 225.25 75.259
+
+// Hitbox info. Used for damage-based collision.
+// The hitbox info below was automatically generated when compiled because no hitbox info was provided.
+// $HBoxSet "default"
+// $HBox 0 "joint0" -225.000031 -239.999969 -75 225.000031 75.000046 75.002991
+
+$DefineBone "joint0" "" 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+$Sequence "idle" {
+	"g-231s_anims\idle.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$CollisionModel "g-231s_physics.smd"
+{
+	$mass 1800
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+	$concave
+	$maxconvexpieces 7
+
+}
+
+$KeyValues
+{
+	prop_data 
+	{
+		"base" "Metal.Medium"
+	}
+}

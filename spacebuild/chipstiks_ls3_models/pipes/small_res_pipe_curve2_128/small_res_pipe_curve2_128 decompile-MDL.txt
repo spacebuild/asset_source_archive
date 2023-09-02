@@ -1,0 +1,43 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.240
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 817 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	818 - 821 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	822 - 823 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	824 - 1.035 theMdlFileData.theSequenceDescs 1
+	1.036 - 1.039 aSeqDesc.theBoneWeights [Idle] 1
+	1.040 - 1.041 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.042 - 1.043 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.044 - 1.059 theMdlFileData.theBodyParts 1
+	1.060 - 1.207 aModel Name = C:\3dsmax7\scenes\SB3\RD3\Pipes\small_res_pipe_curve2_128.smd
+	1.208 - 1.787 aModel.theMeshes 5
+	1.788 - 2.107 theMdlFileData.theTextures 5
+	2.108 - 2.111 theMdlFileData.theTexturePaths 1
+	2.112 - 2.121 theMdlFileData.theSkinFamilies 1
+	2.122 - 2.123 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.124 - 2.124 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.125 - 2.130 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.131 - 2.139 aBone.theName = Cylinder
+	2.140 - 2.147 aHitboxSet.theName = default
+	2.148 - 2.153 anAnimationDesc.theName = @Idle
+	2.154 - 2.158 aSeqDesc.theName = Idle
+	2.159 - 2.167 aSeqDesc.theActivityName = ACT_IDLE
+	2.168 - 2.172 aBodyPart.theName = Body
+	2.173 - 2.177 aTexture.thePathFileName = GREY
+	2.178 - 2.187 aTexture.thePathFileName = pureBlack
+	2.188 - 2.192 aTexture.thePathFileName = TANK
+	2.193 - 2.198 aTexture.thePathFileName = BLACK
+	2.199 - 2.202 aTexture.thePathFileName = RED
+	2.203 - 2.238 aTexturePath = models\\chipstiks_ls3_models\Pipes\
+	2.239 - 2.239 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.240 - 2.240 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,65 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.488
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 1.095 theMdlFileData.theBones 2
+	1.096 - 1.279 theMdlFileData.theAttachments 2
+	1.280 - 1.291 theMdlFileData.theHitboxSets 1
+	1.292 - 1.293 theMdlFileData.theBoneTableByName
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.395 theMdlFileData.theAnimationDescs 1
+	1.396 - 1.407 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.408 - 1.419 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.420 - 1.423 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.424 - 1.635 theMdlFileData.theSequenceDescs 1
+	1.636 - 1.643 aSeqDesc.theBoneWeights [idle] 2
+	1.644 - 1.645 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.646 - 1.647 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.648 - 1.663 theMdlFileData.theBodyParts 1
+	1.664 - 1.811 aModel Name = vf1aFighter.smd
+	1.812 - 2.507 aModel.theMeshes 6
+	2.508 - 2.891 theMdlFileData.theTextures 6
+	2.892 - 2.895 theMdlFileData.theTexturePaths 1
+	2.896 - 2.907 theMdlFileData.theSkinFamilies 1
+	2.908 - 2.996 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+vehicle_exit {
+"exit1" "upright"  }
+}
+
+	2.997 - 2.999 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	3.000 - 3.063 theMdlFileData.theLinearBoneTable header
+	3.064 - 3.071 theMdlFileData.theLinearBoneTable.theFlags
+	3.072 - 3.079 theMdlFileData.theLinearBoneTable.theParents
+	3.080 - 3.103 theMdlFileData.theLinearBoneTable.thePositions
+	3.104 - 3.135 theMdlFileData.theLinearBoneTable.theQuaternions
+	3.136 - 3.159 theMdlFileData.theLinearBoneTable.theRotations
+	3.160 - 3.255 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	3.256 - 3.279 theMdlFileData.theLinearBoneTable.thePositionScales
+	3.280 - 3.303 theMdlFileData.theLinearBoneTable.theRotationScales
+	3.304 - 3.335 theMdlFileData.theLinearBoneTable.theQAlignments
+	3.336 - 3.336 aSeqDesc.theActivityName = 
+	3.337 - 3.342 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	3.343 - 3.347 aBone.theName = Seat
+	3.348 - 3.352 aBone.theName = Eyes
+	3.353 - 3.372 anAttachment.theName = vehicle_driver_eyes
+	3.373 - 3.392 anAttachment.theName = vehicle_driver_exit
+	3.393 - 3.400 aHitboxSet.theName = default
+	3.401 - 3.406 anAnimationDesc.theName = @idle
+	3.407 - 3.411 aSeqDesc.theName = idle
+	3.412 - 3.418 aBodyPart.theName = studio
+	3.419 - 3.424 aTexture.thePathFileName = Body2
+	3.425 - 3.430 aTexture.thePathFileName = glass
+	3.431 - 3.435 aTexture.thePathFileName = Body
+	3.436 - 3.446 aTexture.thePathFileName = iron_rails
+	3.447 - 3.452 aTexture.thePathFileName = Body5
+	3.453 - 3.472 aTexture.thePathFileName = metal_boron_plating
+	3.473 - 3.484 aTexturePath = spacebuild\
+	3.485 - 3.487 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	3.488 - 3.488 END OF FILE + 1 (File size)
+========================

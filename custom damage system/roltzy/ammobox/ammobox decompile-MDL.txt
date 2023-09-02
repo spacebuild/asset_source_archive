@@ -1,0 +1,36 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.392
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 749 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	750 - 753 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	754 - 755 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	756 - 967 theMdlFileData.theSequenceDescs 1
+	968 - 971 aSeqDesc.theBoneWeights [idle] 1
+	972 - 973 aSeqDesc.theAnimDescIndexes [idle] 1
+	974 - 975 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	976 - 991 theMdlFileData.theBodyParts 1
+	992 - 1.139 aModel Name = ammobox_ref.smd
+	1.140 - 1.255 aModel.theMeshes 1
+	1.256 - 1.319 theMdlFileData.theTextures 1
+	1.320 - 1.323 theMdlFileData.theTexturePaths 1
+	1.324 - 1.325 theMdlFileData.theSkinFamilies 1
+	1.326 - 1.327 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.328 - 1.328 aSeqDesc.theActivityName = 
+	1.329 - 1.334 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.335 - 1.342 aBone.theName = ammobox
+	1.343 - 1.350 aHitboxSet.theName = default
+	1.351 - 1.356 anAnimationDesc.theName = @idle
+	1.357 - 1.361 aSeqDesc.theName = idle
+	1.362 - 1.368 aBodyPart.theName = studio
+	1.369 - 1.376 aTexture.thePathFileName = railgun
+	1.377 - 1.391 aTexturePath = models\roltzy\
+	1.392 - 1.392 END OF FILE + 1 (File size)
+========================

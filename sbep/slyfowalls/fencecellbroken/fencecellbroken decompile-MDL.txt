@@ -1,0 +1,47 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.336
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = fencecellbroken_detail.smd
+	1.128 - 1.475 aModel.theMeshes 3
+	1.476 - 1.987 theMdlFileData.theTextures 8
+	1.988 - 1.991 theMdlFileData.theTexturePaths 1
+	1.992 - 2.103 theMdlFileData.theSkinFamilies 7
+	2.104 - 2.156 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	2.157 - 2.159 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.160 - 2.160 aSeqDesc.theActivityName = 
+	2.161 - 2.166 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.167 - 2.178 aBone.theName = static_prop
+	2.179 - 2.186 aHitboxSet.theName = default
+	2.187 - 2.192 anAnimationDesc.theName = @idle
+	2.193 - 2.197 aSeqDesc.theName = idle
+	2.198 - 2.204 aBodyPart.theName = studio
+	2.205 - 2.215 aTexture.thePathFileName = grungewall
+	2.216 - 2.231 aTexture.thePathFileName = grungewallblood
+	2.232 - 2.243 aTexture.thePathFileName = badconcrete
+	2.244 - 2.258 aTexture.thePathFileName = grungewallblue
+	2.259 - 2.275 aTexture.thePathFileName = grungewallpurple
+	2.276 - 2.292 aTexture.thePathFileName = grungewallorange
+	2.293 - 2.308 aTexture.thePathFileName = grungewallblack
+	2.309 - 2.323 aTexture.thePathFileName = grungewallteal
+	2.324 - 2.335 aTexturePath = spacebuild\
+	2.336 - 2.336 END OF FILE + 1 (File size)
+========================

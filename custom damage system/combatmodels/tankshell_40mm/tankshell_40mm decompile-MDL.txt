@@ -1,0 +1,48 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.916
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 817 anAnimationDesc.anAnimation  [@idle] (frameCount = 3; sectionFrameCount = 3)
+	818 - 821 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 3)
+	822 - 825 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	826 - 827 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	828 - 1.039 theMdlFileData.theSequenceDescs 1
+	1.040 - 1.043 aSeqDesc.theBoneWeights [idle] 1
+	1.044 - 1.045 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.046 - 1.047 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.048 - 1.063 theMdlFileData.theBodyParts 1
+	1.064 - 1.211 aModel Name = tankshell.smd
+	1.212 - 1.559 aModel.theMeshes 3
+	1.560 - 1.751 theMdlFileData.theTextures 3
+	1.752 - 1.759 theMdlFileData.theTexturePaths 2
+	1.760 - 1.765 theMdlFileData.theSkinFamilies 1
+	1.766 - 1.767 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.768 - 1.820 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Small"  }
+}
+
+	1.821 - 1.823 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.824 - 1.824 aSeqDesc.theActivityName = 
+	1.825 - 1.830 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.831 - 1.837 aBone.theName = Cone01
+	1.838 - 1.845 aHitboxSet.theName = default
+	1.846 - 1.851 anAnimationDesc.theName = @idle
+	1.852 - 1.856 aSeqDesc.theName = idle
+	1.857 - 1.863 aBodyPart.theName = studio
+	1.864 - 1.877 aTexture.thePathFileName = mgtracerfinal
+	1.878 - 1.887 aTexture.thePathFileName = trailblur
+	1.888 - 1.899 aTexture.thePathFileName = flarefinal2
+	1.900 - 1.913 aTexturePath = combatmodels\; aTexturePath = combatmodels\
+	1.914 - 1.915 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.916 - 1.916 END OF FILE + 1 (File size)
+========================

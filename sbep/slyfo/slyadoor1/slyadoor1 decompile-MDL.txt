@@ -1,0 +1,58 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.924
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 1.055 theMdlFileData.theBones 3
+	1.056 - 1.067 theMdlFileData.theHitboxSets 1
+	1.068 - 1.070 theMdlFileData.theBoneTableByName
+	1.071 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.072 - 1.271 theMdlFileData.theAnimationDescs 2
+	1.272 - 1.287 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.288 - 1.349 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.350 - 1.365 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	1.366 - 1.427 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.428 - 1.431 anAnimationDesc.anAnimation [@open] (unused empty data structure at the end of the list)
+	1.432 - 1.447 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	1.448 - 1.509 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.510 - 1.525 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	1.526 - 1.587 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	1.588 - 1.591 anAnimationDesc.anAnimation [@close] (unused empty data structure at the end of the list)
+	1.592 - 2.015 theMdlFileData.theSequenceDescs 2
+	2.016 - 2.027 aSeqDesc.theBoneWeights [open] 3; aSeqDesc.theBoneWeights [close] 3
+	2.028 - 2.029 aSeqDesc.theAnimDescIndexes [open] 1
+	2.030 - 2.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.032 - 2.033 aSeqDesc.theAnimDescIndexes [close] 1
+	2.034 - 2.035 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.036 - 2.051 theMdlFileData.theBodyParts 1
+	2.052 - 2.199 aModel Name = SLYAdoor1.smd
+	2.200 - 2.547 aModel.theMeshes 3
+	2.548 - 2.739 theMdlFileData.theTextures 3
+	2.740 - 2.743 theMdlFileData.theTexturePaths 1
+	2.744 - 2.749 theMdlFileData.theSkinFamilies 1
+	2.750 - 2.751 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.752 - 2.804 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	2.805 - 2.807 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.808 - 2.808 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	2.809 - 2.814 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.815 - 2.819 aBone.theName = Root
+	2.820 - 2.826 aBone.theName = Door_R
+	2.827 - 2.833 aBone.theName = Door_L
+	2.834 - 2.841 aHitboxSet.theName = default
+	2.842 - 2.847 anAnimationDesc.theName = @open
+	2.848 - 2.854 anAnimationDesc.theName = @close
+	2.855 - 2.859 aSeqDesc.theName = open
+	2.860 - 2.865 aSeqDesc.theName = close
+	2.866 - 2.872 aBodyPart.theName = studio
+	2.873 - 2.890 aTexture.thePathFileName = sbmetalfloor01bs8
+	2.891 - 2.896 aTexture.thePathFileName = tapey
+	2.897 - 2.911 aTexture.thePathFileName = Metalfloor_2-3
+	2.912 - 2.923 aTexturePath = spacebuild\
+	2.924 - 2.924 END OF FILE + 1 (File size)
+========================

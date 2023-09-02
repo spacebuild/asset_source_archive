@@ -1,0 +1,208 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	8.760
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 2.175 theMdlFileData.theBones 7
+	2.176 - 2.187 theMdlFileData.theHitboxSets 1
+	2.188 - 2.663 aHitboxSet.theHitboxes 7
+	2.664 - 2.670 theMdlFileData.theBoneTableByName
+	2.671 - 2.671 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.672 - 2.871 theMdlFileData.theAnimationDescs 2
+	2.872 - 2.879 anAnimSection [@Open] [animBlock = 0]
+	2.880 - 2.887 anAnimSection [@Open] [animBlock = 0]
+	2.888 - 2.895 anAnimSection [@Open] [animBlock = 0]
+	2.896 - 2.903 anAnimSection [@Open] [animBlock = 0]
+	2.904 - 2.911 anAnimSection [@Open] [animBlock = 0]
+	2.912 - 2.919 anAnimSection [@Open] [animBlock = 0]
+	2.920 - 2.927 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	2.928 - 2.943 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	2.944 - 2.971 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	2.972 - 2.987 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	2.988 - 3.015 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.016 - 3.031 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.032 - 3.073 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.074 - 3.089 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.090 - 3.131 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.132 - 3.135 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	3.136 - 3.151 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.152 - 3.193 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.194 - 3.221 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.222 - 3.237 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.238 - 3.279 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.280 - 3.289 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.290 - 3.299 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.300 - 3.303 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	3.304 - 3.319 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.320 - 3.367 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	3.368 - 3.415 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.416 - 3.463 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	3.464 - 3.479 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.480 - 3.483 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.484 - 3.505 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.506 - 3.521 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.522 - 3.569 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	3.570 - 3.617 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.618 - 3.665 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	3.666 - 3.681 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.682 - 3.695 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	3.696 - 3.703 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.704 - 3.713 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.714 - 3.723 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.724 - 3.727 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	3.728 - 3.743 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.744 - 3.807 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	3.808 - 3.871 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	3.872 - 3.935 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	3.936 - 3.945 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.946 - 3.961 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	3.962 - 4.025 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.026 - 4.089 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.090 - 4.153 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.154 - 4.169 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	4.170 - 4.181 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	4.182 - 4.185 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.186 - 4.195 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	4.196 - 4.205 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 30)
+	4.206 - 4.209 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	4.210 - 4.211 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	4.212 - 4.227 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.228 - 4.247 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 9)
+	4.248 - 4.267 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 9)
+	4.268 - 4.287 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 9)
+	4.288 - 4.297 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.298 - 4.313 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.314 - 4.333 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 9)
+	4.334 - 4.353 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 9)
+	4.354 - 4.373 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 9)
+	4.374 - 4.383 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.384 - 4.393 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.394 - 4.403 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.404 - 4.407 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	4.408 - 4.425 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.426 - 4.435 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.436 - 4.453 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.454 - 4.463 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.464 - 4.473 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.474 - 4.483 anAnimationDesc.anAnimation  [@Open] (frameCount = 129; sectionFrameCount = 9)
+	4.484 - 4.487 anAnimationDesc.anAnimation [@Open] (unused empty data structure at the end of the list)
+	4.488 - 4.495 anAnimSection [@Close] [animBlock = 0]
+	4.496 - 4.503 anAnimSection [@Close] [animBlock = 0]
+	4.504 - 4.511 anAnimSection [@Close] [animBlock = 0]
+	4.512 - 4.519 anAnimSection [@Close] [animBlock = 0]
+	4.520 - 4.527 anAnimSection [@Close] [animBlock = 0]
+	4.528 - 4.535 anAnimSection [@Close] [animBlock = 0]
+	4.536 - 4.543 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	4.544 - 4.559 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	4.560 - 4.623 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.624 - 4.687 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.688 - 4.751 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.752 - 4.761 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	4.762 - 4.777 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	4.778 - 4.841 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.842 - 4.905 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.906 - 4.969 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.970 - 4.985 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	4.986 - 4.997 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	4.998 - 5.001 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.002 - 5.011 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.012 - 5.021 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.022 - 5.025 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.026 - 5.027 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	5.028 - 5.043 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.044 - 5.107 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	5.108 - 5.171 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.172 - 5.235 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.236 - 5.245 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.246 - 5.261 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.262 - 5.325 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	5.326 - 5.389 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.390 - 5.453 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.454 - 5.469 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.470 - 5.479 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.480 - 5.483 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.484 - 5.493 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.494 - 5.503 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.504 - 5.507 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.508 - 5.523 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.524 - 5.549 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.550 - 5.593 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.594 - 5.609 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.610 - 5.637 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.638 - 5.643 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.644 - 5.653 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.654 - 5.663 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.664 - 5.667 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.668 - 5.683 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.684 - 5.727 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.728 - 5.743 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.744 - 5.787 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.788 - 5.803 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.804 - 5.829 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.830 - 5.845 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 30)
+	5.846 - 5.871 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.872 - 5.875 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.876 - 5.891 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 9)
+	5.892 - 5.911 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 9)
+	5.912 - 5.927 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 9)
+	5.928 - 5.947 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 9)
+	5.948 - 5.951 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.952 - 5.961 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 9)
+	5.962 - 5.971 anAnimationDesc.anAnimation  [@Close] (frameCount = 129; sectionFrameCount = 9)
+	5.972 - 5.975 anAnimationDesc.anAnimation [@Close] (unused empty data structure at the end of the list)
+	5.976 - 6.399 theMdlFileData.theSequenceDescs 2
+	6.400 - 6.427 aSeqDesc.theBoneWeights [Open] 7; aSeqDesc.theBoneWeights [Close] 7
+	6.428 - 6.429 aSeqDesc.theAnimDescIndexes [Open] 1
+	6.430 - 6.431 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	6.432 - 6.433 aSeqDesc.theAnimDescIndexes [Close] 1
+	6.434 - 6.435 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	6.436 - 6.451 theMdlFileData.theBodyParts 1
+	6.452 - 6.599 aModel Name = Door23a_anim.smd
+	6.600 - 7.179 aModel.theMeshes 5
+	7.180 - 7.499 theMdlFileData.theTextures 5
+	7.500 - 7.503 theMdlFileData.theTexturePaths 1
+	7.504 - 7.513 theMdlFileData.theSkinFamilies 1
+	7.514 - 7.515 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	7.516 - 7.569 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	7.570 - 7.571 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	7.572 - 7.635 theMdlFileData.theLinearBoneTable header
+	7.636 - 7.663 theMdlFileData.theLinearBoneTable.theFlags
+	7.664 - 7.691 theMdlFileData.theLinearBoneTable.theParents
+	7.692 - 7.775 theMdlFileData.theLinearBoneTable.thePositions
+	7.776 - 7.887 theMdlFileData.theLinearBoneTable.theQuaternions
+	7.888 - 7.971 theMdlFileData.theLinearBoneTable.theRotations
+	7.972 - 8.307 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	8.308 - 8.391 theMdlFileData.theLinearBoneTable.thePositionScales
+	8.392 - 8.475 theMdlFileData.theLinearBoneTable.theRotationScales
+	8.476 - 8.587 theMdlFileData.theLinearBoneTable.theQAlignments
+	8.588 - 8.588 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	8.589 - 8.594 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	8.595 - 8.599 aBone.theName = Bone
+	8.600 - 8.604 aBone.theName = Left
+	8.605 - 8.608 aBone.theName = Top
+	8.609 - 8.614 aBone.theName = Right
+	8.615 - 8.621 aBone.theName = Bottom
+	8.622 - 8.626 aBone.theName = Top2
+	8.627 - 8.634 aBone.theName = Bottom2
+	8.635 - 8.642 aHitboxSet.theName = default
+	8.643 - 8.648 anAnimationDesc.theName = @Open
+	8.649 - 8.655 anAnimationDesc.theName = @Close
+	8.656 - 8.660 aSeqDesc.theName = Open
+	8.661 - 8.666 aSeqDesc.theName = Close
+	8.667 - 8.673 aBodyPart.theName = studio
+	8.674 - 8.690 aTexture.thePathFileName = Base_Dark_Border
+	8.691 - 8.706 aTexture.thePathFileName = Base_Metal_Hole
+	8.707 - 8.716 aTexture.thePathFileName = Base_Tile
+	8.717 - 8.732 aTexture.thePathFileName = Base_Metal_Rust
+	8.733 - 8.749 aTexture.thePathFileName = Base_Metal_Light
+	8.750 - 8.756 aTexturePath = Cmats\
+	8.757 - 8.759 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	8.760 - 8.760 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,61 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.768
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 899 theMdlFileData.theAttachments 3
+	900 - 911 theMdlFileData.theHitboxSets 1
+	912 - 912 theMdlFileData.theBoneTableByName
+	913 - 915 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	916 - 1.015 theMdlFileData.theAnimationDescs 1
+	1.016 - 1.019 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.020 - 1.231 theMdlFileData.theSequenceDescs 1
+	1.232 - 1.235 aSeqDesc.theBoneWeights [idle] 1
+	1.236 - 1.237 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.238 - 1.239 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.240 - 1.255 theMdlFileData.theBodyParts 1
+	1.256 - 1.403 aModel Name = ProtoRover_detail.smd
+	1.404 - 2.679 aModel.theMeshes 11
+	2.680 - 3.383 theMdlFileData.theTextures 11
+	3.384 - 3.387 theMdlFileData.theTexturePaths 1
+	3.388 - 3.409 theMdlFileData.theSkinFamilies 1
+	3.410 - 3.411 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	3.412 - 3.516 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+mdlkeyvalue
+{
+vehicle_exit {
+"exit1" "upright"  }
+}
+
+	3.517 - 3.519 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	3.520 - 3.520 aSeqDesc.theActivityName = 
+	3.521 - 3.526 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	3.527 - 3.538 aBone.theName = static_prop
+	3.539 - 3.558 anAttachment.theName = vehicle_driver_eyes
+	3.559 - 3.582 anAttachment.theName = vehicle_feet_passenger0
+	3.583 - 3.602 anAttachment.theName = vehicle_driver_exit
+	3.603 - 3.610 aHitboxSet.theName = default
+	3.611 - 3.616 anAnimationDesc.theName = @idle
+	3.617 - 3.621 aSeqDesc.theName = idle
+	3.622 - 3.628 aBodyPart.theName = studio
+	3.629 - 3.647 aTexture.thePathFileName = CaptainChairFabric
+	3.648 - 3.662 aTexture.thePathFileName = Metalfloor_2-3
+	3.663 - 3.671 aTexture.thePathFileName = gunmetal
+	3.672 - 3.681 aTexture.thePathFileName = milgreen2
+	3.682 - 3.694 aTexture.thePathFileName = MetalSet_1-2
+	3.695 - 3.700 aTexture.thePathFileName = light
+	3.701 - 3.718 aTexture.thePathFileName = sbmetalfloor01bs8
+	3.719 - 3.730 aTexture.thePathFileName = DirtyPlate2
+	3.731 - 3.741 aTexture.thePathFileName = MPU_Detail
+	3.742 - 3.747 aTexture.thePathFileName = glass
+	3.748 - 3.754 aTexture.thePathFileName = Fusion
+	3.755 - 3.766 aTexturePath = spacebuild\
+	3.767 - 3.767 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	3.768 - 3.768 END OF FILE + 1 (File size)
+========================

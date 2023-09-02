@@ -1,0 +1,43 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.004
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@Idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [Idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = C:\3dsmax7\scenes\SB3\Generators\Compressor\O2COmpressor.smd
+	1.196 - 2.239 aModel.theMeshes 9
+	2.240 - 2.815 theMdlFileData.theTextures 9
+	2.816 - 2.819 theMdlFileData.theTexturePaths 1
+	2.820 - 2.837 theMdlFileData.theSkinFamilies 1
+	2.838 - 2.839 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.840 - 2.840 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.841 - 2.846 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	2.847 - 2.858 aBone.theName = static_prop
+	2.859 - 2.866 aHitboxSet.theName = default
+	2.867 - 2.872 anAnimationDesc.theName = @Idle
+	2.873 - 2.877 aSeqDesc.theName = Idle
+	2.878 - 2.886 aSeqDesc.theActivityName = ACT_IDLE
+	2.887 - 2.891 aBodyPart.theName = Body
+	2.892 - 2.896 aTexture.thePathFileName = tank
+	2.897 - 2.901 aTexture.thePathFileName = pipe
+	2.902 - 2.907 aTexture.thePathFileName = pipe2
+	2.908 - 2.920 aTexture.thePathFileName = panel_oxygen
+	2.921 - 2.930 aTexture.thePathFileName = pipeinlet
+	2.931 - 2.935 aTexture.thePathFileName = name
+	2.936 - 2.946 aTexture.thePathFileName = frontpipes
+	2.947 - 2.957 aTexture.thePathFileName = frontpanel
+	2.958 - 3.003 aTexturePath = models\chipstiks_ls3_models\OxygenCompressor\
+	3.004 - 3.004 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,9 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "root" -1
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 0.000000 -0.000001   # pos: bone   rot: raw64 (0, 0, 0,70710625309646, 0,707107309276241)
+end

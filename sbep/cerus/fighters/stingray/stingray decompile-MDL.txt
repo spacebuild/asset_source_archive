@@ -1,0 +1,221 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	12.844
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 1.487 theMdlFileData.theBones 5
+	1.488 - 1.763 theMdlFileData.theAttachments 3
+	1.764 - 1.775 theMdlFileData.theHitboxSets 1
+	1.776 - 2.115 aHitboxSet.theHitboxes 5
+	2.116 - 2.120 theMdlFileData.theBoneTableByName
+	2.121 - 2.123 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.124 - 4.123 theMdlFileData.theAnimationDescs 20
+	4.124 - 4.127 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	4.128 - 4.131 anAnimationDesc.anAnimation [@canopy_idle_closed] (boneIndex = 255)
+	4.132 - 4.147 anAnimationDesc.anAnimation  [@canopy_idle_open] (frameCount = 1; sectionFrameCount = 1)
+	4.148 - 4.151 anAnimationDesc.anAnimation [@canopy_idle_open] (unused empty data structure at the end of the list)
+	4.152 - 4.167 anAnimationDesc.anAnimation  [@canopy_open] (frameCount = 30; sectionFrameCount = 30)
+	4.168 - 4.229 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	4.230 - 4.275 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 30)
+	4.276 - 4.279 anAnimationDesc.anAnimation [@canopy_open] (unused empty data structure at the end of the list)
+	4.280 - 4.295 anAnimationDesc.anAnimation  [@canopy_close] (frameCount = 30; sectionFrameCount = 30)
+	4.296 - 4.357 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	4.358 - 4.401 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 30)
+	4.402 - 4.405 anAnimationDesc.anAnimation [@canopy_close] (unused empty data structure at the end of the list)
+	4.406 - 4.409 anAnimationDesc.anAnimation [@bay_idle_closed] (boneIndex = 255)
+	4.410 - 4.419 anAnimationDesc.anAnimation  [@bay_idle_open] (frameCount = 1; sectionFrameCount = 1)
+	4.420 - 4.429 anAnimationDesc.anAnimation  [@bay_idle_open] (frameCount = 1; sectionFrameCount = 1)
+	4.430 - 4.433 anAnimationDesc.anAnimation [@bay_idle_open] (unused empty data structure at the end of the list)
+	4.434 - 4.449 anAnimationDesc.anAnimation  [@bay_open] (frameCount = 30; sectionFrameCount = 30)
+	4.450 - 4.511 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	4.512 - 4.527 anAnimationDesc.anAnimation  [@bay_open] (frameCount = 30; sectionFrameCount = 30)
+	4.528 - 4.589 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	4.590 - 4.593 anAnimationDesc.anAnimation [@bay_open] (unused empty data structure at the end of the list)
+	4.594 - 4.609 anAnimationDesc.anAnimation  [@bay_close] (frameCount = 30; sectionFrameCount = 30)
+	4.610 - 4.671 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	4.672 - 4.687 anAnimationDesc.anAnimation  [@bay_close] (frameCount = 30; sectionFrameCount = 30)
+	4.688 - 4.749 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	4.750 - 4.753 anAnimationDesc.anAnimation [@bay_close] (unused empty data structure at the end of the list)
+	4.754 - 4.757 anAnimationDesc.anAnimation [@rack_idle_closed] (boneIndex = 255)
+	4.758 - 4.767 anAnimationDesc.anAnimation  [@rack_idle_open] (frameCount = 1; sectionFrameCount = 1)
+	4.768 - 4.771 anAnimationDesc.anAnimation [@rack_idle_open] (unused empty data structure at the end of the list)
+	4.772 - 4.781 anAnimationDesc.anAnimation  [@rack_open] (frameCount = 30; sectionFrameCount = 30)
+	4.782 - 4.843 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	4.844 - 4.847 anAnimationDesc.anAnimation [@rack_open] (unused empty data structure at the end of the list)
+	4.848 - 4.857 anAnimationDesc.anAnimation  [@rack_close] (frameCount = 30; sectionFrameCount = 30)
+	4.858 - 4.919 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	4.920 - 4.923 anAnimationDesc.anAnimation [@rack_close] (unused empty data structure at the end of the list)
+	4.924 - 4.939 anAnimationDesc.anAnimation  [@bay_open_RIO] (frameCount = 30; sectionFrameCount = 30)
+	4.940 - 5.001 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.002 - 5.017 anAnimationDesc.anAnimation  [@bay_open_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.018 - 5.079 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.080 - 5.089 anAnimationDesc.anAnimation  [@bay_open_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.090 - 5.093 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.094 - 5.097 anAnimationDesc.anAnimation [@bay_open_RIO] (unused empty data structure at the end of the list)
+	5.098 - 5.113 anAnimationDesc.anAnimation  [@bay_close_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.114 - 5.175 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.176 - 5.191 anAnimationDesc.anAnimation  [@bay_close_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.192 - 5.253 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.254 - 5.263 anAnimationDesc.anAnimation  [@bay_close_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.264 - 5.267 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.268 - 5.271 anAnimationDesc.anAnimation [@bay_close_RIO] (unused empty data structure at the end of the list)
+	5.272 - 5.287 anAnimationDesc.anAnimation  [@rack_open_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.288 - 5.291 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.292 - 5.307 anAnimationDesc.anAnimation  [@rack_open_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.308 - 5.311 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.312 - 5.321 anAnimationDesc.anAnimation  [@rack_open_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.322 - 5.383 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.384 - 5.387 anAnimationDesc.anAnimation [@rack_open_BIO] (unused empty data structure at the end of the list)
+	5.388 - 5.403 anAnimationDesc.anAnimation  [@rack_close_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.404 - 5.407 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.408 - 5.423 anAnimationDesc.anAnimation  [@rack_close_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.424 - 5.427 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.428 - 5.437 anAnimationDesc.anAnimation  [@rack_close_BIO] (frameCount = 30; sectionFrameCount = 30)
+	5.438 - 5.499 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.500 - 5.503 anAnimationDesc.anAnimation [@rack_close_BIO] (unused empty data structure at the end of the list)
+	5.504 - 5.519 anAnimationDesc.anAnimation  [@BIO_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.520 - 5.523 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.524 - 5.539 anAnimationDesc.anAnimation  [@BIO_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.540 - 5.543 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.544 - 5.553 anAnimationDesc.anAnimation  [@BIO_RIO] (frameCount = 30; sectionFrameCount = 30)
+	5.554 - 5.557 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.558 - 5.561 anAnimationDesc.anAnimation [@BIO_RIO] (unused empty data structure at the end of the list)
+	5.562 - 5.577 anAnimationDesc.anAnimation  [@BO_RO] (frameCount = 30; sectionFrameCount = 30)
+	5.578 - 5.639 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.640 - 5.655 anAnimationDesc.anAnimation  [@BO_RO] (frameCount = 30; sectionFrameCount = 30)
+	5.656 - 5.717 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.718 - 5.727 anAnimationDesc.anAnimation  [@BO_RO] (frameCount = 30; sectionFrameCount = 30)
+	5.728 - 5.789 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	5.790 - 5.793 anAnimationDesc.anAnimation [@BO_RO] (unused empty data structure at the end of the list)
+	5.794 - 5.809 anAnimationDesc.anAnimation  [@BC_RC] (frameCount = 30; sectionFrameCount = 30)
+	5.810 - 5.871 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.872 - 5.887 anAnimationDesc.anAnimation  [@BC_RC] (frameCount = 30; sectionFrameCount = 30)
+	5.888 - 5.949 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 30)
+	5.950 - 5.959 anAnimationDesc.anAnimation  [@BC_RC] (frameCount = 30; sectionFrameCount = 30)
+	5.960 - 6.021 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 30)
+	6.022 - 6.025 anAnimationDesc.anAnimation [@BC_RC] (unused empty data structure at the end of the list)
+	6.026 - 6.027 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	6.028 - 10.267 theMdlFileData.theSequenceDescs 20
+	10.268 - 10.287 aSeqDesc.theBoneWeights [idle] 5; aSeqDesc.theBoneWeights [canopy_idle_closed] 5; aSeqDesc.theBoneWeights [canopy_idle_open] 5; aSeqDesc.theBoneWeights [canopy_open] 5; aSeqDesc.theBoneWeights [canopy_close] 5; aSeqDesc.theBoneWeights [bay_idle_closed] 5; aSeqDesc.theBoneWeights [bay_idle_open] 5; aSeqDesc.theBoneWeights [bay_open] 5; aSeqDesc.theBoneWeights [bay_close] 5; aSeqDesc.theBoneWeights [rack_idle_closed] 5; aSeqDesc.theBoneWeights [rack_idle_open] 5; aSeqDesc.theBoneWeights [rack_open] 5; aSeqDesc.theBoneWeights [rack_close] 5; aSeqDesc.theBoneWeights [bay_open_RIO] 5; aSeqDesc.theBoneWeights [bay_close_RIO] 5; aSeqDesc.theBoneWeights [rack_open_BIO] 5; aSeqDesc.theBoneWeights [rack_close_BIO] 5; aSeqDesc.theBoneWeights [BIO_RIO] 5; aSeqDesc.theBoneWeights [BO_RO] 5; aSeqDesc.theBoneWeights [BC_RC] 5
+	10.288 - 10.289 aSeqDesc.theAnimDescIndexes [idle] 1
+	10.290 - 10.291 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.292 - 10.293 aSeqDesc.theAnimDescIndexes [canopy_idle_closed] 1
+	10.294 - 10.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.296 - 10.297 aSeqDesc.theAnimDescIndexes [canopy_idle_open] 1
+	10.298 - 10.299 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.300 - 10.301 aSeqDesc.theAnimDescIndexes [canopy_open] 1
+	10.302 - 10.303 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.304 - 10.305 aSeqDesc.theAnimDescIndexes [canopy_close] 1
+	10.306 - 10.307 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.308 - 10.309 aSeqDesc.theAnimDescIndexes [bay_idle_closed] 1
+	10.310 - 10.311 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.312 - 10.313 aSeqDesc.theAnimDescIndexes [bay_idle_open] 1
+	10.314 - 10.315 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.316 - 10.317 aSeqDesc.theAnimDescIndexes [bay_open] 1
+	10.318 - 10.319 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.320 - 10.321 aSeqDesc.theAnimDescIndexes [bay_close] 1
+	10.322 - 10.323 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.324 - 10.325 aSeqDesc.theAnimDescIndexes [rack_idle_closed] 1
+	10.326 - 10.327 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.328 - 10.329 aSeqDesc.theAnimDescIndexes [rack_idle_open] 1
+	10.330 - 10.331 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.332 - 10.333 aSeqDesc.theAnimDescIndexes [rack_open] 1
+	10.334 - 10.335 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.336 - 10.337 aSeqDesc.theAnimDescIndexes [rack_close] 1
+	10.338 - 10.339 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.340 - 10.341 aSeqDesc.theAnimDescIndexes [bay_open_RIO] 1
+	10.342 - 10.343 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.344 - 10.345 aSeqDesc.theAnimDescIndexes [bay_close_RIO] 1
+	10.346 - 10.347 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.348 - 10.349 aSeqDesc.theAnimDescIndexes [rack_open_BIO] 1
+	10.350 - 10.351 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.352 - 10.353 aSeqDesc.theAnimDescIndexes [rack_close_BIO] 1
+	10.354 - 10.355 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.356 - 10.357 aSeqDesc.theAnimDescIndexes [BIO_RIO] 1
+	10.358 - 10.359 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.360 - 10.361 aSeqDesc.theAnimDescIndexes [BO_RO] 1
+	10.362 - 10.363 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.364 - 10.365 aSeqDesc.theAnimDescIndexes [BC_RC] 1
+	10.366 - 10.367 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	10.368 - 10.383 theMdlFileData.theBodyParts 1
+	10.384 - 10.531 aModel Name = Stingray.smd
+	10.532 - 11.459 aModel.theMeshes 8
+	11.460 - 11.971 theMdlFileData.theTextures 8
+	11.972 - 11.975 theMdlFileData.theTexturePaths 1
+	11.976 - 11.991 theMdlFileData.theSkinFamilies 1
+	11.992 - 12.095 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+mdlkeyvalue
+{
+vehicle_exit {
+"bone" "upright"  }
+}
+
+	12.096 - 12.096 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	12.097 - 12.102 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	12.103 - 12.107 aBone.theName = Bone
+	12.108 - 12.114 aBone.theName = Canopy
+	12.115 - 12.123 aBone.theName = HSlide-R
+	12.124 - 12.132 aBone.theName = HSlide-L
+	12.133 - 12.137 aBone.theName = Rack
+	12.138 - 12.157 anAttachment.theName = vehicle_driver_eyes
+	12.158 - 12.177 anAttachment.theName = vehicle_driver_exit
+	12.178 - 12.201 anAttachment.theName = vehicle_feet_passenger0
+	12.202 - 12.209 aHitboxSet.theName = default
+	12.210 - 12.215 anAnimationDesc.theName = @idle
+	12.216 - 12.235 anAnimationDesc.theName = @canopy_idle_closed
+	12.236 - 12.253 anAnimationDesc.theName = @canopy_idle_open
+	12.254 - 12.266 anAnimationDesc.theName = @canopy_open
+	12.267 - 12.280 anAnimationDesc.theName = @canopy_close
+	12.281 - 12.297 anAnimationDesc.theName = @bay_idle_closed
+	12.298 - 12.312 anAnimationDesc.theName = @bay_idle_open
+	12.313 - 12.322 anAnimationDesc.theName = @bay_open
+	12.323 - 12.333 anAnimationDesc.theName = @bay_close
+	12.334 - 12.351 anAnimationDesc.theName = @rack_idle_closed
+	12.352 - 12.367 anAnimationDesc.theName = @rack_idle_open
+	12.368 - 12.378 anAnimationDesc.theName = @rack_open
+	12.379 - 12.390 anAnimationDesc.theName = @rack_close
+	12.391 - 12.404 anAnimationDesc.theName = @bay_open_RIO
+	12.405 - 12.419 anAnimationDesc.theName = @bay_close_RIO
+	12.420 - 12.434 anAnimationDesc.theName = @rack_open_BIO
+	12.435 - 12.450 anAnimationDesc.theName = @rack_close_BIO
+	12.451 - 12.459 anAnimationDesc.theName = @BIO_RIO
+	12.460 - 12.466 anAnimationDesc.theName = @BO_RO
+	12.467 - 12.473 anAnimationDesc.theName = @BC_RC
+	12.474 - 12.478 aSeqDesc.theName = idle
+	12.479 - 12.497 aSeqDesc.theName = canopy_idle_closed
+	12.498 - 12.514 aSeqDesc.theName = canopy_idle_open
+	12.515 - 12.526 aSeqDesc.theName = canopy_open
+	12.527 - 12.539 aSeqDesc.theName = canopy_close
+	12.540 - 12.555 aSeqDesc.theName = bay_idle_closed
+	12.556 - 12.569 aSeqDesc.theName = bay_idle_open
+	12.570 - 12.578 aSeqDesc.theName = bay_open
+	12.579 - 12.588 aSeqDesc.theName = bay_close
+	12.589 - 12.605 aSeqDesc.theName = rack_idle_closed
+	12.606 - 12.620 aSeqDesc.theName = rack_idle_open
+	12.621 - 12.630 aSeqDesc.theName = rack_open
+	12.631 - 12.641 aSeqDesc.theName = rack_close
+	12.642 - 12.654 aSeqDesc.theName = bay_open_RIO
+	12.655 - 12.668 aSeqDesc.theName = bay_close_RIO
+	12.669 - 12.682 aSeqDesc.theName = rack_open_BIO
+	12.683 - 12.697 aSeqDesc.theName = rack_close_BIO
+	12.698 - 12.705 aSeqDesc.theName = BIO_RIO
+	12.706 - 12.711 aSeqDesc.theName = BO_RO
+	12.712 - 12.717 aSeqDesc.theName = BC_RC
+	12.718 - 12.724 aBodyPart.theName = studio
+	12.725 - 12.740 aTexture.thePathFileName = Station_Metal_B
+	12.741 - 12.757 aTexture.thePathFileName = Base_Metal_Light
+	12.758 - 12.763 aTexture.thePathFileName = glass
+	12.764 - 12.778 aTexture.thePathFileName = HexMetal_Green
+	12.779 - 12.795 aTexture.thePathFileName = Base_Metal_Floor
+	12.796 - 12.812 aTexture.thePathFileName = Base_Dark_Border
+	12.813 - 12.828 aTexture.thePathFileName = Base_Metal_Hole
+	12.829 - 12.834 aTexture.thePathFileName = light
+	12.835 - 12.841 aTexturePath = Cmats\
+	12.842 - 12.843 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	12.844 - 12.844 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,50 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.172
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = punisher239_reactor_big_detail.smd
+	1.128 - 2.287 aModel.theMeshes 10
+	2.288 - 2.927 theMdlFileData.theTextures 10
+	2.928 - 2.931 theMdlFileData.theTexturePaths 1
+	2.932 - 2.951 theMdlFileData.theSkinFamilies 1
+	2.952 - 3.004 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	3.005 - 3.007 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	3.008 - 3.008 aSeqDesc.theActivityName = 
+	3.009 - 3.014 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	3.015 - 3.026 aBone.theName = static_prop
+	3.027 - 3.034 aHitboxSet.theName = default
+	3.035 - 3.040 anAnimationDesc.theName = @idle
+	3.041 - 3.045 aSeqDesc.theName = idle
+	3.046 - 3.052 aBodyPart.theName = studio
+	3.053 - 3.061 aTexture.thePathFileName = gunmetal
+	3.062 - 3.069 aTexture.thePathFileName = Fusion2
+	3.070 - 3.075 aTexture.thePathFileName = glass
+	3.076 - 3.087 aTexture.thePathFileName = DirtyPlate2
+	3.088 - 3.100 aTexture.thePathFileName = MetalSet_1-2
+	3.101 - 3.106 aTexture.thePathFileName = light
+	3.107 - 3.112 aTexture.thePathFileName = tapey
+	3.113 - 3.130 aTexture.thePathFileName = sbmetalfloor01bs8
+	3.131 - 3.143 aTexture.thePathFileName = controlpanel
+	3.144 - 3.157 aTexture.thePathFileName = hose_segments
+	3.158 - 3.169 aTexturePath = spacebuild\
+	3.170 - 3.171 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	3.172 - 3.172 END OF FILE + 1 (File size)
+========================

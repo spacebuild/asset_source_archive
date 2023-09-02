@@ -1,0 +1,125 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	14.664
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 8.615 theMdlFileData.theBones 38
+	8.616 - 8.627 theMdlFileData.theHitboxSets 1
+	8.628 - 11.211 aHitboxSet.theHitboxes 38
+	11.212 - 11.249 theMdlFileData.theBoneTableByName
+	11.250 - 11.251 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	11.252 - 11.351 theMdlFileData.theAnimationDescs 1
+	11.352 - 11.361 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.362 - 11.377 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.378 - 11.393 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.394 - 11.409 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.410 - 11.425 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.426 - 11.441 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.442 - 11.457 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.458 - 11.473 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.474 - 11.489 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.490 - 11.505 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.506 - 11.521 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.522 - 11.537 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.538 - 11.553 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.554 - 11.569 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.570 - 11.585 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.586 - 11.601 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.602 - 11.617 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.618 - 11.633 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.634 - 11.649 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.650 - 11.665 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.666 - 11.681 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.682 - 11.697 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.698 - 11.713 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.714 - 11.729 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.730 - 11.745 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.746 - 11.761 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.762 - 11.777 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.778 - 11.793 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.794 - 11.809 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.810 - 11.825 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.826 - 11.841 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.842 - 11.857 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.858 - 11.873 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.874 - 11.889 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.890 - 11.905 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.906 - 11.921 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.922 - 11.937 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.938 - 11.953 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	11.954 - 11.957 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	11.958 - 11.959 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	11.960 - 12.171 theMdlFileData.theSequenceDescs 1
+	12.172 - 12.323 aSeqDesc.theBoneWeights [Idle] 38
+	12.324 - 12.325 aSeqDesc.theAnimDescIndexes [Idle] 1
+	12.326 - 12.327 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	12.328 - 12.343 theMdlFileData.theBodyParts 1
+	12.344 - 12.491 aModel Name = C:\3dsmax7\scenes\SB3\RD3\Terraformer\Terraformer.smd
+	12.492 - 13.535 aModel.theMeshes 9
+	13.536 - 14.111 theMdlFileData.theTextures 9
+	14.112 - 14.115 theMdlFileData.theTexturePaths 1
+	14.116 - 14.133 theMdlFileData.theSkinFamilies 1
+	14.134 - 14.135 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	14.136 - 14.182 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {"base" metal.large }
+
+	14.183 - 14.183 theMdlFileData.theKeyValuesText alignment [ 00 ]
+	14.184 - 14.184 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	14.185 - 14.190 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	14.191 - 14.196 aBone.theName = Box01
+	14.197 - 14.209 aBone.theName = ChamferCyl01
+	14.210 - 14.222 aBone.theName = ChamferBox01
+	14.223 - 14.235 aBone.theName = ChamferBox02
+	14.236 - 14.246 aBone.theName = Cylinder05
+	14.247 - 14.257 aBone.theName = Cylinder01
+	14.258 - 14.268 aBone.theName = Cylinder06
+	14.269 - 14.279 aBone.theName = Cylinder02
+	14.280 - 14.286 aBone.theName = Tube01
+	14.287 - 14.299 aBone.theName = ChamferBox03
+	14.300 - 14.310 aBone.theName = Cylinder07
+	14.311 - 14.321 aBone.theName = Cylinder08
+	14.322 - 14.328 aBone.theName = Loft01
+	14.329 - 14.335 aBone.theName = Loft02
+	14.336 - 14.342 aBone.theName = Loft03
+	14.343 - 14.349 aBone.theName = Loft04
+	14.350 - 14.360 aBone.theName = Cylinder03
+	14.361 - 14.366 aBone.theName = Box03
+	14.367 - 14.372 aBone.theName = Box05
+	14.373 - 14.378 aBone.theName = Box07
+	14.379 - 14.384 aBone.theName = Box09
+	14.385 - 14.390 aBone.theName = Box11
+	14.391 - 14.401 aBone.theName = Cylinder09
+	14.402 - 14.407 aBone.theName = Box13
+	14.408 - 14.418 aBone.theName = Cylinder11
+	14.419 - 14.424 aBone.theName = Box15
+	14.425 - 14.435 aBone.theName = Cylinder13
+	14.436 - 14.441 aBone.theName = Box17
+	14.442 - 14.452 aBone.theName = Cylinder15
+	14.453 - 14.458 aBone.theName = Box19
+	14.459 - 14.469 aBone.theName = Cylinder17
+	14.470 - 14.475 aBone.theName = Box21
+	14.476 - 14.486 aBone.theName = Cylinder10
+	14.487 - 14.497 aBone.theName = Cylinder12
+	14.498 - 14.506 aBone.theName = Sphere01
+	14.507 - 14.512 aBone.theName = Box02
+	14.513 - 14.518 aBone.theName = Box04
+	14.519 - 14.524 aBone.theName = Box06
+	14.525 - 14.532 aHitboxSet.theName = default
+	14.533 - 14.538 anAnimationDesc.theName = @Idle
+	14.539 - 14.543 aSeqDesc.theName = Idle
+	14.544 - 14.552 aSeqDesc.theActivityName = ACT_IDLE
+	14.553 - 14.557 aBodyPart.theName = Body
+	14.558 - 14.562 aTexture.thePathFileName = tank
+	14.563 - 14.567 aTexture.thePathFileName = pipe
+	14.568 - 14.574 aTexture.thePathFileName = screen
+	14.575 - 14.579 aTexture.thePathFileName = Grey
+	14.580 - 14.585 aTexture.thePathFileName = White
+	14.586 - 14.595 aTexture.thePathFileName = DarkWhite
+	14.596 - 14.600 aTexture.thePathFileName = name
+	14.601 - 14.619 aTexture.thePathFileName = signcheckpoint001b
+	14.620 - 14.660 aTexturePath = models\chipstiks_ls3_models\Terraformer\
+	14.661 - 14.663 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	14.664 - 14.664 END OF FILE + 1 (File size)
+========================

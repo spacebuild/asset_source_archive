@@ -1,0 +1,47 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.968
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 1.271 theMdlFileData.theBones 4
+	1.272 - 1.363 theMdlFileData.theAttachments 1
+	1.364 - 1.375 theMdlFileData.theHitboxSets 1
+	1.376 - 1.511 aHitboxSet.theHitboxes 2
+	1.512 - 1.515 theMdlFileData.theBoneTableByName
+	1.516 - 1.615 theMdlFileData.theAnimationDescs 1
+	1.616 - 1.625 anAnimationDesc.anAnimation  [@idle] (frameCount = 2; sectionFrameCount = 2)
+	1.626 - 1.629 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 2)
+	1.630 - 1.633 anAnimation.theRotV.theAnimYValues (accumulatedTotal = 2)
+	1.634 - 1.637 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 2)
+	1.638 - 1.641 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.642 - 1.643 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.644 - 1.855 theMdlFileData.theSequenceDescs 1
+	1.856 - 1.871 aSeqDesc.theBoneWeights [idle] 4
+	1.872 - 1.873 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.874 - 1.875 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.876 - 1.891 theMdlFileData.theBodyParts 1
+	1.892 - 2.039 aModel Name = w_mach_m60.smd
+	2.040 - 2.503 aModel.theMeshes 4
+	2.504 - 2.759 theMdlFileData.theTextures 4
+	2.760 - 2.763 theMdlFileData.theTexturePaths 1
+	2.764 - 2.771 theMdlFileData.theSkinFamilies 1
+	2.772 - 2.772 aSeqDesc.theActivityName = 
+	2.773 - 2.779 theSurfacePropName = weapon; theSurfacePropName = weapon; aBone.theSurfacePropName = weapon; aBone.theSurfacePropName = weapon; aBone.theSurfacePropName = weapon; aBone.theSurfacePropName = weapon
+	2.780 - 2.790 aBone.theName = ValveBiped
+	2.791 - 2.813 aBone.theName = ValveBiped.weapon_bone
+	2.814 - 2.841 aBone.theName = ValveBiped.weapon_bone_Clip
+	2.842 - 2.858 aBone.theName = ValveBiped.flash
+	2.859 - 2.871 anAttachment.theName = muzzle_flash
+	2.872 - 2.879 aHitboxSet.theName = default
+	2.880 - 2.885 anAnimationDesc.theName = @idle
+	2.886 - 2.890 aSeqDesc.theName = idle
+	2.891 - 2.897 aBodyPart.theName = studio
+	2.898 - 2.902 aTexture.thePathFileName = fore
+	2.903 - 2.910 aTexture.thePathFileName = ammobox
+	2.911 - 2.915 aTexture.thePathFileName = body
+	2.916 - 2.921 aTexture.thePathFileName = body2
+	2.922 - 2.964 aTexturePath = models\weapons\w_models\Kimono.Twinke.M60\
+	2.965 - 2.967 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.968 - 2.968 END OF FILE + 1 (File size)
+========================

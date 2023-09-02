@@ -1,0 +1,191 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	11.384
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 4.079 theMdlFileData.theBones 17
+	4.080 - 4.091 theMdlFileData.theHitboxSets 1
+	4.092 - 4.108 theMdlFileData.theBoneTableByName
+	4.109 - 4.111 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	4.112 - 4.311 theMdlFileData.theAnimationDescs 2
+	4.312 - 4.327 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	4.328 - 4.373 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.374 - 4.419 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	4.420 - 4.481 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.482 - 4.497 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	4.498 - 4.543 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.544 - 4.589 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.590 - 4.605 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	4.606 - 4.651 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.652 - 4.713 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	4.714 - 4.775 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.776 - 4.791 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	4.792 - 4.837 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	4.838 - 4.883 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	4.884 - 4.899 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	4.900 - 4.945 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	4.946 - 5.007 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.008 - 5.053 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.054 - 5.069 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.070 - 5.115 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.116 - 5.161 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.162 - 5.177 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.178 - 5.223 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	5.224 - 5.285 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.286 - 5.347 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.348 - 5.363 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.364 - 5.409 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.410 - 5.455 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.456 - 5.471 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.472 - 5.517 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	5.518 - 5.579 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.580 - 5.625 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.626 - 5.641 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.642 - 5.687 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.688 - 5.733 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.734 - 5.749 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.750 - 5.795 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	5.796 - 5.857 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	5.858 - 5.919 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	5.920 - 5.935 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	5.936 - 5.981 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	5.982 - 6.027 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.028 - 6.043 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	6.044 - 6.089 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	6.090 - 6.135 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	6.136 - 6.197 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.198 - 6.213 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	6.214 - 6.259 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	6.260 - 6.305 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.306 - 6.321 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	6.322 - 6.369 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	6.370 - 6.431 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	6.432 - 6.493 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.494 - 6.509 anAnimationDesc.anAnimation  [@open] (frameCount = 31; sectionFrameCount = 31)
+	6.510 - 6.555 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	6.556 - 6.601 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.602 - 6.605 anAnimationDesc.anAnimation [@open] (unused empty data structure at the end of the list)
+	6.606 - 6.621 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	6.622 - 6.663 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	6.664 - 6.705 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	6.706 - 6.767 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.768 - 6.783 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	6.784 - 6.825 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	6.826 - 6.867 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	6.868 - 6.883 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	6.884 - 6.925 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	6.926 - 6.987 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	6.988 - 7.049 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.050 - 7.065 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.066 - 7.107 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	7.108 - 7.149 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.150 - 7.165 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.166 - 7.207 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	7.208 - 7.269 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	7.270 - 7.311 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.312 - 7.327 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.328 - 7.369 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	7.370 - 7.411 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.412 - 7.427 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.428 - 7.469 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	7.470 - 7.531 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	7.532 - 7.593 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.594 - 7.609 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.610 - 7.651 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	7.652 - 7.693 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.694 - 7.709 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.710 - 7.751 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	7.752 - 7.813 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	7.814 - 7.855 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.856 - 7.871 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.872 - 7.913 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	7.914 - 7.955 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	7.956 - 7.971 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	7.972 - 8.013 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	8.014 - 8.075 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	8.076 - 8.137 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.138 - 8.153 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	8.154 - 8.195 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	8.196 - 8.237 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.238 - 8.253 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	8.254 - 8.295 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	8.296 - 8.337 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	8.338 - 8.399 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.400 - 8.415 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	8.416 - 8.457 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	8.458 - 8.499 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.500 - 8.515 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	8.516 - 8.557 anAnimation.theRotV.theAnimXValues (accumulatedTotal = 31)
+	8.558 - 8.619 anAnimation.thePosV.theAnimXValues (accumulatedTotal = 31)
+	8.620 - 8.681 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.682 - 8.697 anAnimationDesc.anAnimation  [@close] (frameCount = 31; sectionFrameCount = 31)
+	8.698 - 8.739 anAnimation.thePosV.theAnimYValues (accumulatedTotal = 31)
+	8.740 - 8.781 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	8.782 - 8.785 anAnimationDesc.anAnimation [@close] (unused empty data structure at the end of the list)
+	8.786 - 8.787 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	8.788 - 9.211 theMdlFileData.theSequenceDescs 2
+	9.212 - 9.279 aSeqDesc.theBoneWeights [open] 17; aSeqDesc.theBoneWeights [close] 17
+	9.280 - 9.281 aSeqDesc.theAnimDescIndexes [open] 1
+	9.282 - 9.283 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	9.284 - 9.285 aSeqDesc.theAnimDescIndexes [close] 1
+	9.286 - 9.287 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	9.288 - 9.303 theMdlFileData.theBodyParts 1
+	9.304 - 9.451 aModel Name = SBADoorSIris.smd
+	9.452 - 9.799 aModel.theMeshes 3
+	9.800 - 10.887 theMdlFileData.theTextures 17
+	10.888 - 10.891 theMdlFileData.theTexturePaths 1
+	10.892 - 11.061 theMdlFileData.theSkinFamilies 5
+	11.062 - 11.063 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	11.064 - 11.116 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	11.117 - 11.119 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	11.120 - 11.120 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	11.121 - 11.126 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	11.127 - 11.131 aBone.theName = Root
+	11.132 - 11.136 aBone.theName = Sec5
+	11.137 - 11.142 aBone.theName = Sec5B
+	11.143 - 11.147 aBone.theName = Sec6
+	11.148 - 11.153 aBone.theName = Sec6B
+	11.154 - 11.158 aBone.theName = Sec7
+	11.159 - 11.164 aBone.theName = Sec7B
+	11.165 - 11.169 aBone.theName = Sec8
+	11.170 - 11.175 aBone.theName = Sec8B
+	11.176 - 11.180 aBone.theName = Sec3
+	11.181 - 11.186 aBone.theName = Sec3B
+	11.187 - 11.191 aBone.theName = Sec4
+	11.192 - 11.197 aBone.theName = Sec4B
+	11.198 - 11.202 aBone.theName = Sec1
+	11.203 - 11.208 aBone.theName = Sec1B
+	11.209 - 11.213 aBone.theName = Sec2
+	11.214 - 11.219 aBone.theName = Sec2B
+	11.220 - 11.227 aHitboxSet.theName = default
+	11.228 - 11.233 anAnimationDesc.theName = @open
+	11.234 - 11.240 anAnimationDesc.theName = @close
+	11.241 - 11.245 aSeqDesc.theName = open
+	11.246 - 11.251 aSeqDesc.theName = close
+	11.252 - 11.258 aBodyPart.theName = studio
+	11.259 - 11.265 aTexture.thePathFileName = Hazard
+	11.266 - 11.271 aTexture.thePathFileName = Floor
+	11.272 - 11.280 aTexture.thePathFileName = gunmetal
+	11.281 - 11.285 aTexture.thePathFileName = Body
+	11.286 - 11.287 aTexture.thePathFileName = ,
+	11.288 - 11.293 aTexture.thePathFileName = Body2
+	11.294 - 11.301 aTexture.thePathFileName = Hazard2
+	11.302 - 11.308 aTexture.thePathFileName = Floor2
+	11.309 - 11.314 aTexture.thePathFileName = Body3
+	11.315 - 11.322 aTexture.thePathFileName = Hazard3
+	11.323 - 11.329 aTexture.thePathFileName = Floor3
+	11.330 - 11.335 aTexture.thePathFileName = Body4
+	11.336 - 11.343 aTexture.thePathFileName = Hazard4
+	11.344 - 11.350 aTexture.thePathFileName = Floor4
+	11.351 - 11.356 aTexture.thePathFileName = Body5
+	11.357 - 11.364 aTexture.thePathFileName = Hazard5
+	11.365 - 11.371 aTexture.thePathFileName = Floor5
+	11.372 - 11.383 aTexturePath = spacebuild\
+	11.384 - 11.384 END OF FILE + 1 (File size)
+========================

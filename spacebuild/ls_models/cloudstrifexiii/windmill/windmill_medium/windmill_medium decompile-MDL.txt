@@ -1,0 +1,55 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.236
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 839 theMdlFileData.theBones 2
+	840 - 851 theMdlFileData.theHitboxSets 1
+	852 - 987 aHitboxSet.theHitboxes 2
+	988 - 989 theMdlFileData.theBoneTableByName
+	990 - 991 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	992 - 1.191 theMdlFileData.theAnimationDescs 2
+	1.192 - 1.201 anAnimationDesc.anAnimation  [@idle] (frameCount = 1; sectionFrameCount = 1)
+	1.202 - 1.205 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.206 - 1.215 anAnimationDesc.anAnimation  [@rotate] (frameCount = 31; sectionFrameCount = 31)
+	1.216 - 1.219 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 31)
+	1.220 - 1.229 anAnimationDesc.anAnimation  [@rotate] (frameCount = 31; sectionFrameCount = 31)
+	1.230 - 1.293 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 31)
+	1.294 - 1.297 anAnimationDesc.anAnimation [@rotate] (unused empty data structure at the end of the list)
+	1.298 - 1.299 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.300 - 1.723 theMdlFileData.theSequenceDescs 2
+	1.724 - 1.731 aSeqDesc.theBoneWeights [idle] 2; aSeqDesc.theBoneWeights [rotate] 2
+	1.732 - 1.733 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.734 - 1.735 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.736 - 1.737 aSeqDesc.theAnimDescIndexes [rotate] 1
+	1.738 - 1.739 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.740 - 1.755 theMdlFileData.theBodyParts 1
+	1.756 - 1.903 aModel Name = windmill.smd
+	1.904 - 2.019 aModel.theMeshes 1
+	2.020 - 2.083 theMdlFileData.theTextures 1
+	2.084 - 2.087 theMdlFileData.theTexturePaths 1
+	2.088 - 2.089 theMdlFileData.theSkinFamilies 1
+	2.090 - 2.091 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.092 - 2.144 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "metal.large"  }
+}
+
+	2.145 - 2.147 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.148 - 2.148 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	2.149 - 2.154 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.155 - 2.161 aBone.theName = Bone01
+	2.162 - 2.168 aBone.theName = Bone02
+	2.169 - 2.176 aHitboxSet.theName = default
+	2.177 - 2.182 anAnimationDesc.theName = @idle
+	2.183 - 2.190 anAnimationDesc.theName = @rotate
+	2.191 - 2.195 aSeqDesc.theName = idle
+	2.196 - 2.202 aSeqDesc.theName = rotate
+	2.203 - 2.207 aBodyPart.theName = Body
+	2.208 - 2.218 aTexture.thePathFileName = debugwhite
+	2.219 - 2.232 aTexturePath = models\debug\
+	2.233 - 2.235 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.236 - 2.236 END OF FILE + 1 (File size)
+========================

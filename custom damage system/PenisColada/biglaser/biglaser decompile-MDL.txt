@@ -1,0 +1,37 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.456
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 817 anAnimationDesc.anAnimation  [@idle] (frameCount = 101; sectionFrameCount = 101)
+	818 - 821 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 101)
+	822 - 825 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	826 - 827 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	828 - 1.039 theMdlFileData.theSequenceDescs 1
+	1.040 - 1.043 aSeqDesc.theBoneWeights [idle] 1
+	1.044 - 1.045 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.046 - 1.047 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.048 - 1.063 theMdlFileData.theBodyParts 1
+	1.064 - 1.211 aModel Name = biglaser.smd
+	1.212 - 1.327 aModel.theMeshes 1
+	1.328 - 1.391 theMdlFileData.theTextures 1
+	1.392 - 1.395 theMdlFileData.theTexturePaths 1
+	1.396 - 1.397 theMdlFileData.theSkinFamilies 1
+	1.398 - 1.399 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.400 - 1.400 aSeqDesc.theActivityName = 
+	1.401 - 1.408 theSurfacePropName = default; theSurfacePropName = default; aBone.theSurfacePropName = default; aHitboxSet.theName = default
+	1.409 - 1.413 aBone.theName = blue
+	1.414 - 1.419 anAnimationDesc.theName = @idle
+	1.420 - 1.424 aSeqDesc.theName = idle
+	1.425 - 1.431 aBodyPart.theName = studio
+	1.432 - 1.441 aTexture.thePathFileName = bluelaser
+	1.442 - 1.455 aTexturePath = models\laser\
+	1.456 - 1.456 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,38 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.836
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = cerebus
+	1.196 - 1.543 aModel.theMeshes 3
+	1.544 - 1.735 theMdlFileData.theTextures 3
+	1.736 - 1.739 theMdlFileData.theTexturePaths 1
+	1.740 - 1.745 theMdlFileData.theSkinFamilies 1
+	1.746 - 1.747 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.748 - 1.748 aSeqDesc.theActivityName = 
+	1.749 - 1.753 theSurfacePropName = dirt; theSurfacePropName = dirt; aBone.theSurfacePropName = dirt
+	1.754 - 1.765 aBone.theName = static_prop
+	1.766 - 1.773 aHitboxSet.theName = default
+	1.774 - 1.779 anAnimationDesc.theName = @idle
+	1.780 - 1.784 aSeqDesc.theName = idle
+	1.785 - 1.791 aBodyPart.theName = studio
+	1.792 - 1.799 aTexture.thePathFileName = Cerebus
+	1.800 - 1.812 aTexture.thePathFileName = Cerebus_atmo
+	1.813 - 1.824 aTexture.thePathFileName = Cerebus_sky
+	1.825 - 1.833 aTexturePath = cerebus\
+	1.834 - 1.835 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.836 - 1.836 END OF FILE + 1 (File size)
+========================

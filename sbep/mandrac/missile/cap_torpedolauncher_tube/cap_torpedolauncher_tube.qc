@@ -1,0 +1,67 @@
+// Created by Crowbar 0.74
+
+$ModelName "mandrac/missile/cap_torpedolauncher_tube.mdl"
+
+$StaticProp
+
+$BodyGroup "studio"
+{
+	studio "cap_torpedolauncher_tube.smd"
+}
+
+
+$SurfaceProp "combine_metal"
+
+$Contents "solid"
+
+$IllumPosition 72.392 -12.864 78.24
+
+$CDMaterials "spacebuild\"
+
+// This list shows the VMT file names used in the SMD files.
+// "lwmetal1nc1.vmt"
+// "aligner1gj1.vmt"
+// "MetalSet_1-2.vmt"
+// "tapey.vmt"
+// "metalmap.vmt"
+
+// Clipping box or view bounding box.
+$CBox 0 0 0 0 0 0
+
+// Bounding box or hull. Used for collision with a world object.
+$BBox -160.25 -263.718 -1.435 186.001 408.503 157.914
+
+// Hitbox info. Used for damage-based collision.
+// The hitbox info below was automatically generated when compiled because no hitbox info was provided.
+// $HBoxSet "default"
+// $HBox 0 "static_prop" -160.022903 -263.467834 -1.185047 185.750885 408.251801 157.664474
+
+$DefineBone "static_prop" "" 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+$Sequence "idle" {
+	"cap_torpedolauncher_tube_anims\idle.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 1
+}
+
+$CollisionModel "cap_torpedolauncher_tube_physics.smd"
+{
+	$mass 500
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+	$concave
+	$maxconvexpieces 11
+
+}
+
+$KeyValues
+{
+	prop_data 
+	{
+		"base" "metal.large"
+	}
+}

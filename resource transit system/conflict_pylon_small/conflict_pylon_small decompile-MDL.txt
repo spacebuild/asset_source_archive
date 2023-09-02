@@ -1,0 +1,43 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	1.504
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = conflict_pylon_small.smd
+	1.196 - 1.311 aModel.theMeshes 1
+	1.312 - 1.375 theMdlFileData.theTextures 1
+	1.376 - 1.379 theMdlFileData.theTexturePaths 1
+	1.380 - 1.381 theMdlFileData.theSkinFamilies 1
+	1.382 - 1.383 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1.384 - 1.436 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	1.437 - 1.439 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	1.440 - 1.440 aSeqDesc.theActivityName = 
+	1.441 - 1.446 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	1.447 - 1.458 aBone.theName = static_prop
+	1.459 - 1.466 aHitboxSet.theName = default
+	1.467 - 1.472 anAnimationDesc.theName = @idle
+	1.473 - 1.477 aSeqDesc.theName = idle
+	1.478 - 1.484 aBodyPart.theName = studio
+	1.485 - 1.494 aTexture.thePathFileName = TestImage
+	1.495 - 1.502 aTexturePath = models\
+	1.503 - 1.503 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	1.504 - 1.504 END OF FILE + 1 (File size)
+========================

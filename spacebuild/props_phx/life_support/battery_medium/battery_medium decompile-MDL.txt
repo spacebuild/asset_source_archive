@@ -1,0 +1,52 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.460
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 749 anAnimationDesc.anAnimation  [@idle] (frameCount = 30; sectionFrameCount = 30)
+	750 - 753 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 30)
+	754 - 757 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	758 - 759 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	760 - 971 theMdlFileData.theSequenceDescs 1
+	972 - 975 aSeqDesc.theBoneWeights [idle] 1
+	976 - 977 aSeqDesc.theAnimDescIndexes [idle] 1
+	978 - 979 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	980 - 995 theMdlFileData.theBodyParts 1
+	996 - 1.143 aModel Name = ref.smd
+	1.144 - 1.839 aModel.theMeshes 6
+	1.840 - 2.863 theMdlFileData.theTextures 16
+	2.864 - 2.867 theMdlFileData.theTexturePaths 1
+	2.868 - 3.187 theMdlFileData.theSkinFamilies 10
+	3.188 - 3.188 aSeqDesc.theActivityName = 
+	3.189 - 3.199 theSurfacePropName = solidmetal; theSurfacePropName = solidmetal; aBone.theSurfacePropName = solidmetal
+	3.200 - 3.211 aBone.theName = static_prop
+	3.212 - 3.219 aHitboxSet.theName = default
+	3.220 - 3.225 anAnimationDesc.theName = @idle
+	3.226 - 3.230 aSeqDesc.theName = idle
+	3.231 - 3.235 aBodyPart.theName = Body
+	3.236 - 3.244 aTexture.thePathFileName = FSD-Logo
+	3.245 - 3.254 aTexture.thePathFileName = spheremap
+	3.255 - 3.271 aTexture.thePathFileName = steel_side_black
+	3.272 - 3.284 aTexture.thePathFileName = black_border
+	3.285 - 3.299 aTexture.thePathFileName = Battery_label1
+	3.300 - 3.310 aTexture.thePathFileName = Tank_truss
+	3.311 - 3.321 aTexture.thePathFileName = steel_side
+	3.322 - 3.333 aTexture.thePathFileName = steel_side0
+	3.334 - 3.345 aTexture.thePathFileName = steel_side1
+	3.346 - 3.357 aTexture.thePathFileName = steel_side2
+	3.358 - 3.369 aTexture.thePathFileName = steel_side3
+	3.370 - 3.381 aTexture.thePathFileName = steel_side4
+	3.382 - 3.393 aTexture.thePathFileName = steel_side5
+	3.394 - 3.405 aTexture.thePathFileName = steel_side6
+	3.406 - 3.417 aTexture.thePathFileName = steel_side7
+	3.418 - 3.429 aTexture.thePathFileName = steel_side8
+	3.430 - 3.458 aTexturePath = phoenix_storms\life_support\
+	3.459 - 3.459 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	3.460 - 3.460 END OF FILE + 1 (File size)
+========================

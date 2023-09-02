@@ -1,0 +1,49 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	16.221
+====== File Seek Log ======
+	0 - 35 VTX File Header (Actual version: 7; override version: 7); VTX File Header (Actual version: 7; override version: 7)
+	36 - 43 theVtxFileData.theVtxBodyParts 1
+	44 - 51 aBodyPart.theVtxModels 1
+	52 - 63 aModel.theVtxModelLods 1
+	64 - 144 aModelLod.theVtxMeshes 9
+	145 - 169 aMesh.theVtxStripGroups 1
+	170 - 194 aMesh.theVtxStripGroups 1
+	195 - 219 aMesh.theVtxStripGroups 1
+	220 - 244 aMesh.theVtxStripGroups 1
+	245 - 269 aMesh.theVtxStripGroups 1
+	270 - 294 aMesh.theVtxStripGroups 1
+	295 - 319 aMesh.theVtxStripGroups 1
+	320 - 344 aMesh.theVtxStripGroups 1
+	345 - 369 aMesh.theVtxStripGroups 1
+	370 - 396 aStripGroup.theVtxStrips 1
+	397 - 423 aStripGroup.theVtxStrips 1
+	424 - 450 aStripGroup.theVtxStrips 1
+	451 - 477 aStripGroup.theVtxStrips 1
+	478 - 504 aStripGroup.theVtxStrips 1
+	505 - 531 aStripGroup.theVtxStrips 1
+	532 - 558 aStripGroup.theVtxStrips 1
+	559 - 585 aStripGroup.theVtxStrips 1
+	586 - 612 aStripGroup.theVtxStrips 1
+	613 - 1.701 aStripGroup.theVtxVertexes 121
+	1.702 - 2.646 aStripGroup.theVtxVertexes 105
+	2.647 - 2.682 aStripGroup.theVtxVertexes 4
+	2.683 - 2.718 aStripGroup.theVtxVertexes 4
+	2.719 - 4.527 aStripGroup.theVtxVertexes 201
+	4.528 - 5.337 aStripGroup.theVtxVertexes 90
+	5.338 - 7.308 aStripGroup.theVtxVertexes 219
+	7.309 - 9.468 aStripGroup.theVtxVertexes 240
+	9.469 - 10.872 aStripGroup.theVtxVertexes 156
+	10.873 - 11.376 aStripGroup.theVtxIndexes 252
+	11.377 - 11.808 aStripGroup.theVtxIndexes 216
+	11.809 - 11.820 aStripGroup.theVtxIndexes 6
+	11.821 - 11.832 aStripGroup.theVtxIndexes 6
+	11.833 - 12.636 aStripGroup.theVtxIndexes 402
+	12.637 - 13.116 aStripGroup.theVtxIndexes 240
+	13.117 - 14.460 aStripGroup.theVtxIndexes 672
+	14.461 - 15.324 aStripGroup.theVtxIndexes 432
+	15.325 - 16.140 aStripGroup.theVtxIndexes 408
+	16.141 - 16.212 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ... ]
+	16.213 - 16.220 theVtxFileData.theVtxMaterialReplacementLists 1
+	16.221 - 16.221 END OF FILE + 1 (File size)
+========================

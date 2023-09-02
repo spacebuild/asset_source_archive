@@ -1,0 +1,128 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	5.116
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 1.527 theMdlFileData.theBones 4
+	1.528 - 1.539 theMdlFileData.theHitboxSets 1
+	1.540 - 1.811 aHitboxSet.theHitboxes 4
+	1.812 - 1.815 theMdlFileData.theBoneTableByName
+	1.816 - 2.015 theMdlFileData.theAnimationDescs 2
+	2.016 - 2.019 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	2.020 - 2.027 anAnimSection [@Charge] [animBlock = 0]
+	2.028 - 2.035 anAnimSection [@Charge] [animBlock = 0]
+	2.036 - 2.043 anAnimSection [@Charge] [animBlock = 0]
+	2.044 - 2.051 anAnimSection [@Charge] [animBlock = 0]
+	2.052 - 2.059 anAnimSection [@Charge] [animBlock = 0]
+	2.060 - 2.067 anAnimSection [@Charge] [animBlock = 0]
+	2.068 - 2.075 anAnimSection [@Charge] [animBlock = 0]
+	2.076 - 2.083 anAnimSection [@Charge] [animBlock = 0]
+	2.084 - 2.091 anAnimSection [@Charge] [animBlock = 0]
+	2.092 - 2.099 anAnimSection [@Charge] [animBlock = 0]
+	2.100 - 2.111 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	2.112 - 2.127 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.128 - 2.191 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.192 - 2.195 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.196 - 2.211 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.212 - 2.241 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.242 - 2.257 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.258 - 2.297 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.298 - 2.301 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.302 - 2.303 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.304 - 2.319 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.320 - 2.359 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.360 - 2.369 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.370 - 2.385 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.386 - 2.415 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.416 - 2.419 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.420 - 2.429 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.430 - 2.439 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.440 - 2.455 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.456 - 2.491 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 31)
+	2.492 - 2.495 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.496 - 2.505 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.506 - 2.515 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.516 - 2.525 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.526 - 2.529 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.530 - 2.531 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.532 - 2.541 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.542 - 2.551 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.552 - 2.561 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.562 - 2.565 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.566 - 2.567 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.568 - 2.577 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.578 - 2.587 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.588 - 2.597 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.598 - 2.601 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.602 - 2.603 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.604 - 2.613 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.614 - 2.623 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.624 - 2.633 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 30)
+	2.634 - 2.637 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.638 - 2.639 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.640 - 2.655 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.656 - 2.669 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 9)
+	2.670 - 2.685 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.686 - 2.699 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 9)
+	2.700 - 2.715 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.716 - 2.729 anAnimation.thePosV.theAnimZValues (accumulatedTotal = 9)
+	2.730 - 2.733 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.734 - 2.735 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.736 - 2.745 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.746 - 2.755 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.756 - 2.765 anAnimationDesc.anAnimation  [@Charge] (frameCount = 249; sectionFrameCount = 9)
+	2.766 - 2.769 anAnimationDesc.anAnimation [@Charge] (unused empty data structure at the end of the list)
+	2.770 - 2.771 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.772 - 3.195 theMdlFileData.theSequenceDescs 2
+	3.196 - 3.211 aSeqDesc.theBoneWeights [idle] 4; aSeqDesc.theBoneWeights [Charge] 4
+	3.212 - 3.213 aSeqDesc.theAnimDescIndexes [idle] 1
+	3.214 - 3.215 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	3.216 - 3.217 aSeqDesc.theAnimDescIndexes [Charge] 1
+	3.218 - 3.219 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	3.220 - 3.235 theMdlFileData.theBodyParts 1
+	3.236 - 3.383 aModel Name = Plas_Cannon.smd
+	3.384 - 3.963 aModel.theMeshes 5
+	3.964 - 4.283 theMdlFileData.theTextures 5
+	4.284 - 4.287 theMdlFileData.theTexturePaths 1
+	4.288 - 4.297 theMdlFileData.theSkinFamilies 1
+	4.298 - 4.299 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	4.300 - 4.352 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Small"  }
+}
+
+	4.353 - 4.355 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	4.356 - 4.419 theMdlFileData.theLinearBoneTable header
+	4.420 - 4.435 theMdlFileData.theLinearBoneTable.theFlags
+	4.436 - 4.451 theMdlFileData.theLinearBoneTable.theParents
+	4.452 - 4.499 theMdlFileData.theLinearBoneTable.thePositions
+	4.500 - 4.563 theMdlFileData.theLinearBoneTable.theQuaternions
+	4.564 - 4.611 theMdlFileData.theLinearBoneTable.theRotations
+	4.612 - 4.803 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	4.804 - 4.851 theMdlFileData.theLinearBoneTable.thePositionScales
+	4.852 - 4.899 theMdlFileData.theLinearBoneTable.theRotationScales
+	4.900 - 4.963 theMdlFileData.theLinearBoneTable.theQAlignments
+	4.964 - 4.964 aSeqDesc.theActivityName = ; aSeqDesc.theActivityName = 
+	4.965 - 4.970 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	4.971 - 4.975 aBone.theName = Bone
+	4.976 - 4.982 aBone.theName = Slide2
+	4.983 - 4.989 aBone.theName = Slide1
+	4.990 - 4.996 aBone.theName = Slide3
+	4.997 - 5.004 aHitboxSet.theName = default
+	5.005 - 5.010 anAnimationDesc.theName = @idle
+	5.011 - 5.018 anAnimationDesc.theName = @Charge
+	5.019 - 5.023 aSeqDesc.theName = idle
+	5.024 - 5.030 aSeqDesc.theName = Charge
+	5.031 - 5.037 aBodyPart.theName = studio
+	5.038 - 5.053 aTexture.thePathFileName = Base_Metal_Rust
+	5.054 - 5.063 aTexture.thePathFileName = Base_Tile
+	5.064 - 5.079 aTexture.thePathFileName = Base_Metal_Hole
+	5.080 - 5.096 aTexture.thePathFileName = Base_Metal_Light
+	5.097 - 5.106 aTexture.thePathFileName = Glow_Blue
+	5.107 - 5.113 aTexturePath = Cmats\
+	5.114 - 5.115 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	5.116 - 5.116 END OF FILE + 1 (File size)
+========================

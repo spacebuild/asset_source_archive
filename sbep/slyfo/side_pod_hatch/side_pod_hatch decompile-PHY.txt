@@ -1,0 +1,12 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	904
+====== File Seek Log ======
+	0 - 15 Header
+	16 - 623 Solid(0)   Convex mesh count = 1   Bone indexes:  -1
+	624 - 651 [ERROR] Unread bytes (non-zero) [ 00 00 00 00 F0 FD FF FF 00 00 E0 B4 00 00 80 33 00 00 50 35 33 ... ]
+	652 - 834 Properties
+	835 - 902 Edit params
+	903 - 903 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	904 - 904 END OF FILE + 1 (File size)
+========================

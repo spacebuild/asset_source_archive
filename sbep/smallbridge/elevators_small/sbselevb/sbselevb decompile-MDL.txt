@@ -1,0 +1,72 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	4.476
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 743 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	744 - 955 theMdlFileData.theSequenceDescs 1
+	956 - 959 aSeqDesc.theBoneWeights [idle] 1
+	960 - 961 aSeqDesc.theAnimDescIndexes [idle] 1
+	962 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	964 - 979 theMdlFileData.theBodyParts 1
+	980 - 1.127 aModel Name = SBSelevB.smd
+	1.128 - 1.823 aModel.theMeshes 6
+	1.824 - 3.807 theMdlFileData.theTextures 31
+	3.808 - 3.811 theMdlFileData.theTexturePaths 1
+	3.812 - 4.121 theMdlFileData.theSkinFamilies 5
+	4.122 - 4.123 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	4.124 - 4.176 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Large"  }
+}
+
+	4.177 - 4.179 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	4.180 - 4.180 aSeqDesc.theActivityName = 
+	4.181 - 4.186 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	4.187 - 4.198 aBone.theName = static_prop
+	4.199 - 4.206 aHitboxSet.theName = default
+	4.207 - 4.212 anAnimationDesc.theName = @idle
+	4.213 - 4.217 aSeqDesc.theName = idle
+	4.218 - 4.224 aBodyPart.theName = studio
+	4.225 - 4.233 aTexture.thePathFileName = BodySkin
+	4.234 - 4.238 aTexture.thePathFileName = Body
+	4.239 - 4.245 aTexture.thePathFileName = Hazard
+	4.246 - 4.252 aTexture.thePathFileName = Detail
+	4.253 - 4.258 aTexture.thePathFileName = Floor
+	4.259 - 4.266 aTexture.thePathFileName = SBLight
+	4.267 - 4.268 aTexture.thePathFileName = ,
+	4.269 - 4.274 aTexture.thePathFileName = Body2
+	4.275 - 4.284 aTexture.thePathFileName = Body2Skin
+	4.285 - 4.292 aTexture.thePathFileName = Hazard2
+	4.293 - 4.299 aTexture.thePathFileName = Floor2
+	4.300 - 4.308 aTexture.thePathFileName = SBLight2
+	4.309 - 4.316 aTexture.thePathFileName = Detail2
+	4.317 - 4.322 aTexture.thePathFileName = Body3
+	4.323 - 4.332 aTexture.thePathFileName = Body3Skin
+	4.333 - 4.340 aTexture.thePathFileName = Hazard3
+	4.341 - 4.347 aTexture.thePathFileName = Floor3
+	4.348 - 4.356 aTexture.thePathFileName = SBLight3
+	4.357 - 4.364 aTexture.thePathFileName = Detail3
+	4.365 - 4.370 aTexture.thePathFileName = Body4
+	4.371 - 4.380 aTexture.thePathFileName = Body4Skin
+	4.381 - 4.388 aTexture.thePathFileName = Hazard4
+	4.389 - 4.395 aTexture.thePathFileName = Floor4
+	4.396 - 4.404 aTexture.thePathFileName = SBLight4
+	4.405 - 4.412 aTexture.thePathFileName = Detail4
+	4.413 - 4.418 aTexture.thePathFileName = Body5
+	4.419 - 4.428 aTexture.thePathFileName = Body5Skin
+	4.429 - 4.436 aTexture.thePathFileName = Hazard5
+	4.437 - 4.443 aTexture.thePathFileName = Floor5
+	4.444 - 4.452 aTexture.thePathFileName = SBLight5
+	4.453 - 4.460 aTexture.thePathFileName = Detail5
+	4.461 - 4.472 aTexturePath = spacebuild\
+	4.473 - 4.475 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	4.476 - 4.476 END OF FILE + 1 (File size)
+========================

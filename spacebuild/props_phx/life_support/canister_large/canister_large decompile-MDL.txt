@@ -1,0 +1,55 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.756
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 636 theMdlFileData.theBoneTableByName
+	637 - 639 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	640 - 739 theMdlFileData.theAnimationDescs 1
+	740 - 749 anAnimationDesc.anAnimation  [@idle] (frameCount = 30; sectionFrameCount = 30)
+	750 - 753 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 30)
+	754 - 757 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	758 - 759 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	760 - 971 theMdlFileData.theSequenceDescs 1
+	972 - 975 aSeqDesc.theBoneWeights [idle] 1
+	976 - 977 aSeqDesc.theAnimDescIndexes [idle] 1
+	978 - 979 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	980 - 995 theMdlFileData.theBodyParts 1
+	996 - 1.143 aModel Name = ref.smd
+	1.144 - 1.607 aModel.theMeshes 4
+	1.608 - 2.823 theMdlFileData.theTextures 19
+	2.824 - 2.827 theMdlFileData.theTexturePaths 1
+	2.828 - 3.435 theMdlFileData.theSkinFamilies 16
+	3.436 - 3.436 aSeqDesc.theActivityName = 
+	3.437 - 3.445 theSurfacePropName = canister; theSurfacePropName = canister; aBone.theSurfacePropName = canister
+	3.446 - 3.457 aBone.theName = static_prop
+	3.458 - 3.465 aHitboxSet.theName = default
+	3.466 - 3.471 anAnimationDesc.theName = @idle
+	3.472 - 3.476 aSeqDesc.theName = idle
+	3.477 - 3.481 aBodyPart.theName = Body
+	3.482 - 3.496 aTexture.thePathFileName = canister_valve
+	3.497 - 3.503 aTexture.thePathFileName = chrome
+	3.504 - 3.517 aTexture.thePathFileName = canister_side
+	3.518 - 3.530 aTexture.thePathFileName = canister_c00
+	3.531 - 3.543 aTexture.thePathFileName = canister_c01
+	3.544 - 3.556 aTexture.thePathFileName = canister_c02
+	3.557 - 3.569 aTexture.thePathFileName = canister_c03
+	3.570 - 3.582 aTexture.thePathFileName = canister_c04
+	3.583 - 3.595 aTexture.thePathFileName = canister_c05
+	3.596 - 3.608 aTexture.thePathFileName = canister_c06
+	3.609 - 3.621 aTexture.thePathFileName = canister_c07
+	3.622 - 3.634 aTexture.thePathFileName = canister_c08
+	3.635 - 3.647 aTexture.thePathFileName = canister_c09
+	3.648 - 3.660 aTexture.thePathFileName = canister_c10
+	3.661 - 3.673 aTexture.thePathFileName = canister_c11
+	3.674 - 3.686 aTexture.thePathFileName = canister_c12
+	3.687 - 3.699 aTexture.thePathFileName = canister_c13
+	3.700 - 3.712 aTexture.thePathFileName = canister_c14
+	3.713 - 3.725 aTexture.thePathFileName = canister_c15
+	3.726 - 3.754 aTexturePath = phoenix_storms\life_support\
+	3.755 - 3.755 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	3.756 - 3.756 END OF FILE + 1 (File size)
+========================

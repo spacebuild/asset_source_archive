@@ -1,0 +1,47 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.460
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = laser4.smd
+	1.196 - 1.891 aModel.theMeshes 6
+	1.892 - 2.275 theMdlFileData.theTextures 6
+	2.276 - 2.279 theMdlFileData.theTexturePaths 1
+	2.280 - 2.291 theMdlFileData.theSkinFamilies 1
+	2.292 - 2.344 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "metal.large"  }
+}
+
+	2.345 - 2.347 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.348 - 2.348 aSeqDesc.theActivityName = 
+	2.349 - 2.362 theSurfacePropName = combine_metal; theSurfacePropName = combine_metal; aBone.theSurfacePropName = combine_metal
+	2.363 - 2.374 aBone.theName = static_prop
+	2.375 - 2.382 aHitboxSet.theName = default
+	2.383 - 2.388 anAnimationDesc.theName = @idle
+	2.389 - 2.393 aSeqDesc.theName = idle
+	2.394 - 2.400 aBodyPart.theName = studio
+	2.401 - 2.408 aTexture.thePathFileName = Fusion5
+	2.409 - 2.419 aTexture.thePathFileName = iron_rails
+	2.420 - 2.425 aTexture.thePathFileName = steel
+	2.426 - 2.437 aTexture.thePathFileName = metal_plate
+	2.438 - 2.442 aTexture.thePathFileName = gear
+	2.443 - 2.450 aTexture.thePathFileName = stripes
+	2.451 - 2.457 aTexturePath = lazor\
+	2.458 - 2.459 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	2.460 - 2.460 END OF FILE + 1 (File size)
+========================

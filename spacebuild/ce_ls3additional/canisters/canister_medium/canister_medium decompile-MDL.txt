@@ -1,0 +1,48 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	3.060
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 879 theMdlFileData.theBones 1
+	880 - 891 theMdlFileData.theHitboxSets 1
+	892 - 959 aHitboxSet.theHitboxes 1
+	960 - 960 theMdlFileData.theBoneTableByName
+	961 - 963 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	964 - 1.063 theMdlFileData.theAnimationDescs 1
+	1.064 - 1.071 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 ]
+	1.072 - 1.075 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	1.076 - 1.287 theMdlFileData.theSequenceDescs 1
+	1.288 - 1.291 aSeqDesc.theBoneWeights [idle] 1
+	1.292 - 1.293 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.294 - 1.295 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.296 - 1.311 theMdlFileData.theBodyParts 1
+	1.312 - 1.459 aModel Name = canister_medium.SMD
+	1.460 - 1.807 aModel.theMeshes 3
+	1.808 - 2.639 theMdlFileData.theTextures 13
+	2.640 - 2.643 theMdlFileData.theTexturePaths 1
+	2.644 - 2.799 theMdlFileData.theSkinFamilies 6
+	2.800 - 2.800 aSeqDesc.theActivityName = 
+	2.801 - 2.806 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aTexture.thePathFileName = metal
+	2.807 - 2.818 aBone.theName = static_prop
+	2.819 - 2.826 aHitboxSet.theName = default
+	2.827 - 2.832 anAnimationDesc.theName = @idle
+	2.833 - 2.837 aSeqDesc.theName = idle
+	2.838 - 2.844 aBodyPart.theName = studio
+	2.845 - 2.864 aTexture.thePathFileName = color_carbondioxide
+	2.865 - 2.883 aTexture.thePathFileName = name_carbondioxide
+	2.884 - 2.896 aTexture.thePathFileName = color_oxygen
+	2.897 - 2.908 aTexture.thePathFileName = name_oxygen
+	2.909 - 2.923 aTexture.thePathFileName = color_hydrogen
+	2.924 - 2.937 aTexture.thePathFileName = name_hydrogen
+	2.938 - 2.949 aTexture.thePathFileName = color_steam
+	2.950 - 2.960 aTexture.thePathFileName = name_steam
+	2.961 - 2.975 aTexture.thePathFileName = color_nitrogen
+	2.976 - 2.989 aTexture.thePathFileName = name_nitrogen
+	2.990 - 3.010 aTexture.thePathFileName = color_liquidnitrogen
+	3.011 - 3.030 aTexture.thePathFileName = name_liquidnitrogen
+	3.031 - 3.058 aTexturePath = ce_ls3additional\canisters\
+	3.059 - 3.059 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	3.060 - 3.060 END OF FILE + 1 (File size)
+========================

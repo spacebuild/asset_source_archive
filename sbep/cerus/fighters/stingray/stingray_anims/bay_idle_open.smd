@@ -1,0 +1,17 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "Bone" -1
+  1 "Canopy" 0
+  2 "HSlide-R" 0
+  3 "HSlide-L" 0
+  4 "Rack" 0
+end
+skeleton
+  time 0
+    0 0.000002 -39.493881 56.658333 0.000000 -1.570796 1.570796   # pos: desc_bone   rot: desc_bone
+    1 -1.569981 0.000027 -66.002968 0.000000 0.000000 0.000000   # pos: desc_bone   rot: desc_bone
+    2 -75.000000 75.000000 -0.000022 0.000000 0.000000 0.000000   # pos: raw   rot: bone
+    3 -75.000000 -75.000000 -0.000023 0.000000 0.000000 0.000000   # pos: raw   rot: bone
+    4 -18.916842 0.000000 -168.941177 0.000000 -0.000003 0.000000   # pos: desc_bone   rot: desc_bone
+end

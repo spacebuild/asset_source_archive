@@ -1,0 +1,58 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.720
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 48); MDL File Header 00 (MDL version: 48)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 663 MDL File Header 02; MDL File Header 02
+	664 - 1.095 theMdlFileData.theBones 2
+	1.096 - 1.107 theMdlFileData.theHitboxSets 1
+	1.108 - 1.243 aHitboxSet.theHitboxes 2
+	1.244 - 1.245 theMdlFileData.theBoneTableByName
+	1.246 - 1.247 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.248 - 1.347 theMdlFileData.theAnimationDescs 1
+	1.348 - 1.359 [ERROR] Unread bytes (all zeroes) [ 00 00 00 00 00 00 00 00 00 00 00 00 ]
+	1.360 - 1.369 anAnimationDesc.anAnimation  [@idle] (frameCount = 59; sectionFrameCount = 59)
+	1.370 - 1.489 anAnimation.theRotV.theAnimZValues (accumulatedTotal = 59)
+	1.490 - 1.493 anAnimationDesc.anAnimation [@idle] (unused empty data structure at the end of the list)
+	1.494 - 1.495 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.496 - 1.707 theMdlFileData.theSequenceDescs 1
+	1.708 - 1.715 aSeqDesc.theBoneWeights [idle] 2
+	1.716 - 1.717 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.718 - 1.719 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.720 - 1.735 theMdlFileData.theBodyParts 1
+	1.736 - 1.883 aModel Name = ACC_Radar1.smd
+	1.884 - 2.115 aModel.theMeshes 2
+	2.116 - 2.243 theMdlFileData.theTextures 2
+	2.244 - 2.247 theMdlFileData.theTexturePaths 1
+	2.248 - 2.251 theMdlFileData.theSkinFamilies 1
+	2.252 - 2.305 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Medium"  }
+}
+
+	2.306 - 2.307 theMdlFileData.theKeyValuesText alignment [ 00 00 ]
+	2.308 - 2.371 theMdlFileData.theLinearBoneTable header
+	2.372 - 2.379 theMdlFileData.theLinearBoneTable.theFlags
+	2.380 - 2.387 theMdlFileData.theLinearBoneTable.theParents
+	2.388 - 2.411 theMdlFileData.theLinearBoneTable.thePositions
+	2.412 - 2.443 theMdlFileData.theLinearBoneTable.theQuaternions
+	2.444 - 2.467 theMdlFileData.theLinearBoneTable.theRotations
+	2.468 - 2.563 theMdlFileData.theLinearBoneTable.thePoseToBoneDataColumns
+	2.564 - 2.587 theMdlFileData.theLinearBoneTable.thePositionScales
+	2.588 - 2.611 theMdlFileData.theLinearBoneTable.theRotationScales
+	2.612 - 2.643 theMdlFileData.theLinearBoneTable.theQAlignments
+	2.644 - 2.644 aSeqDesc.theActivityName = 
+	2.645 - 2.650 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.651 - 2.655 aBone.theName = Dish
+	2.656 - 2.660 aBone.theName = Bone
+	2.661 - 2.668 aHitboxSet.theName = default
+	2.669 - 2.674 anAnimationDesc.theName = @idle
+	2.675 - 2.679 aSeqDesc.theName = idle
+	2.680 - 2.686 aBodyPart.theName = studio
+	2.687 - 2.702 aTexture.thePathFileName = Base_Metal_Rust
+	2.703 - 2.712 aTexture.thePathFileName = Flash_Red
+	2.713 - 2.719 aTexturePath = Cmats\
+	2.720 - 2.720 END OF FILE + 1 (File size)
+========================

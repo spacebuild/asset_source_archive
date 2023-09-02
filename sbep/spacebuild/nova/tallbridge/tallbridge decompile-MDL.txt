@@ -1,0 +1,46 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.472
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 623 theMdlFileData.theBones 1
+	624 - 635 theMdlFileData.theHitboxSets 1
+	636 - 703 aHitboxSet.theHitboxes 1
+	704 - 704 theMdlFileData.theBoneTableByName
+	705 - 707 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	708 - 807 theMdlFileData.theAnimationDescs 1
+	808 - 811 anAnimationDesc.anAnimation [@idle] (boneIndex = 255)
+	812 - 1.023 theMdlFileData.theSequenceDescs 1
+	1.024 - 1.027 aSeqDesc.theBoneWeights [idle] 1
+	1.028 - 1.029 aSeqDesc.theAnimDescIndexes [idle] 1
+	1.030 - 1.031 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.032 - 1.047 theMdlFileData.theBodyParts 1
+	1.048 - 1.195 aModel Name = tallbridge.smd
+	1.196 - 1.891 aModel.theMeshes 6
+	1.892 - 2.275 theMdlFileData.theTextures 6
+	2.276 - 2.279 theMdlFileData.theTexturePaths 1
+	2.280 - 2.291 theMdlFileData.theSkinFamilies 1
+	2.292 - 2.344 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {
+"base" "Metal.Small"  }
+}
+
+	2.345 - 2.347 theMdlFileData.theKeyValuesText alignment [ 00 00 00 ]
+	2.348 - 2.348 aSeqDesc.theActivityName = 
+	2.349 - 2.356 theSurfacePropName = default; theSurfacePropName = default; aBone.theSurfacePropName = default; aHitboxSet.theName = default
+	2.357 - 2.368 aBone.theName = static_prop
+	2.369 - 2.374 anAnimationDesc.theName = @idle
+	2.375 - 2.379 aSeqDesc.theName = idle
+	2.380 - 2.386 aBodyPart.theName = studio
+	2.387 - 2.392 aTexture.thePathFileName = light
+	2.393 - 2.405 aTexture.thePathFileName = MetalSet_1-2
+	2.406 - 2.423 aTexture.thePathFileName = sbmetalfloor01bs8
+	2.424 - 2.429 aTexture.thePathFileName = glass
+	2.430 - 2.441 aTexture.thePathFileName = DirtyPlate2
+	2.442 - 2.456 aTexture.thePathFileName = Metalfloor_2-3
+	2.457 - 2.468 aTexturePath = spacebuild\
+	2.469 - 2.471 [ERROR] Unread bytes (all zeroes) [ 00 00 00 ]
+	2.472 - 2.472 END OF FILE + 1 (File size)
+========================

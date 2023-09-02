@@ -1,0 +1,11 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "Cylinder" -1
+  1 "Cylinder03" -1
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 0.000000 1.548699   # pos: bone   rot: raw48
+    1 -0.006096 43.906250 2.566406 1.570735 -0.000122 -3.141410   # pos: raw   rot: raw48
+end

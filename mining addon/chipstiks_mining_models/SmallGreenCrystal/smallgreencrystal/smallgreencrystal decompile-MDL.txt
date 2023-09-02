@@ -1,0 +1,47 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	2.236
+====== File Seek Log ======
+	0 - 79 MDL File Header 00 (MDL version: 44); MDL File Header 00 (MDL version: 44)
+	80 - 407 MDL File Header 01; MDL File Header 01
+	408 - 839 theMdlFileData.theBones 2
+	840 - 851 theMdlFileData.theHitboxSets 1
+	852 - 987 aHitboxSet.theHitboxes 2
+	988 - 989 theMdlFileData.theBoneTableByName
+	990 - 991 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	992 - 1.091 theMdlFileData.theAnimationDescs 1
+	1.092 - 1.101 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	1.102 - 1.111 anAnimationDesc.anAnimation  [@Idle] (frameCount = 1; sectionFrameCount = 1)
+	1.112 - 1.115 anAnimationDesc.anAnimation [@Idle] (unused empty data structure at the end of the list)
+	1.116 - 1.327 theMdlFileData.theSequenceDescs 1
+	1.328 - 1.335 aSeqDesc.theBoneWeights [Idle] 2
+	1.336 - 1.337 aSeqDesc.theAnimDescIndexes [Idle] 1
+	1.338 - 1.339 [ERROR] Unread bytes (all zeroes) [ 00 00 ]
+	1.340 - 1.355 theMdlFileData.theBodyParts 1
+	1.356 - 1.503 aModel Name = C:\3dsmax7\scenes\Mining Addon\Tiberium\Green\Crystals\Small\Sma
+	1.504 - 1.851 aModel.theMeshes 3
+	1.852 - 2.043 theMdlFileData.theTextures 3
+	2.044 - 2.047 theMdlFileData.theTexturePaths 1
+	2.048 - 2.053 theMdlFileData.theSkinFamilies 1
+	2.054 - 2.055 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	2.056 - 2.102 theMdlFileData.theKeyValuesText = mdlkeyvalue
+{
+prop_data {"base" metal.large }
+
+	2.103 - 2.103 theMdlFileData.theKeyValuesText alignment [ 00 ]
+	2.104 - 2.104 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.105 - 2.110 theSurfacePropName = metal; theSurfacePropName = metal; aBone.theSurfacePropName = metal; aBone.theSurfacePropName = metal
+	2.111 - 2.118 aBone.theName = Hedra01
+	2.119 - 2.127 aBone.theName = Gengon06
+	2.128 - 2.135 aHitboxSet.theName = default
+	2.136 - 2.141 anAnimationDesc.theName = @Idle
+	2.142 - 2.146 aSeqDesc.theName = Idle
+	2.147 - 2.155 aSeqDesc.theActivityName = ACT_IDLE
+	2.156 - 2.160 aBodyPart.theName = Body
+	2.161 - 2.166 aTexture.thePathFileName = Green
+	2.167 - 2.173 aTexture.thePathFileName = Green2
+	2.174 - 2.183 aTexture.thePathFileName = DarkGreen
+	2.184 - 2.234 aTexturePath = models\\chipstiks_mining_models\SmallGreenCrystal\
+	2.235 - 2.235 [ERROR] Unread bytes (all zeroes) [ 00 ]
+	2.236 - 2.236 END OF FILE + 1 (File size)
+========================
